@@ -5,26 +5,28 @@ const loginBtn = document.getElementById("loginBtn");
 
 loginBtn.addEventListener("click", () => {
 
-    const name = document.getElementById("studentName").value.trim();
-    const password = document.getElementById("studentPassword").value.trim();
-const paperCode = document.getElementById("paperCode").value.trim().toUpperCase();
-if (paperCode === "SET1") {
+   const name = document.getElementById("studentName").value.trim();
+const dob = document.getElementById("studentDob").value.trim();
+const password = document.getElementById("studentPassword").value.trim().toUpperCase();
+
+if (password === "SET1") {
     questionFile = "questions1.json";
 }
-else if (paperCode === "SET2") {
+else if (password === "SET2") {
     questionFile = "questions2.json";
 }
 else {
-    alert("Wrong Paper Code");
+    alert("Wrong Password");
     return;
 }
 
-    if(name === "" || password === ""){
+    if(name === "" || dob === "" || password === ""){
         alert("Please enter Name and Password");
         return;
     }
 
     localStorage.setItem("studentName", name);
+    localStorage.setItem("studentDob", dob);
 localStorage.setItem("questionFile", questionFile);
     document.getElementById("loginPage").style.display="none";
     document.getElementById("instructionPage").style.display="block";
