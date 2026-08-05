@@ -166,3 +166,14 @@ text-align:center;
 #questionArea{
     text-align:left;
 }
+#questionArea p{
+    text-align:left;
+    font-size:22px;
+    font-weight:600;
+    margin-bottom:20px;
+}
+
+#questionArea h2{
+    text-align:left;
+    margin-bottom:20px;
+}
