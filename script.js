@@ -37,7 +37,7 @@ beginExam.addEventListener("click", async () => {
     window.currentQuestion = 0;
 
     showQuestion();
-
+startTimer();
 });
 
 function showQuestion() {
@@ -142,3 +142,5 @@ document.getElementById("submitBtn").addEventListener("click", () => {
     document.getElementById("thankYouPage").style.display = "block";
 
 });
+let totalTime = 180 * 60;
+let timerInterval;
