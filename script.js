@@ -177,6 +177,7 @@ fetch("https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulB
     method: "POST",
   body: JSON.stringify({
     name: localStorage.getItem("studentName"),
+     dob: localStorage.getItem("studentDob"),
     score: score,
     attempted: attempted,
     correct: correct,
