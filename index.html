@@ -3,6 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Binary Brain Assessment Portal</title>
 
 <link rel="stylesheet" href="style.css">
@@ -13,50 +14,101 @@
 
 <div class="container">
 
+    <!-- LOGIN PAGE -->
+
     <div id="loginPage">
 
         <h1>🧠 Binary Brain Assessment Portal</h1>
-        <p>Designed by Binary Brain</p>
 
-        <input type="text" id="name" placeholder="Enter Your Name">
+        <h3 id="testTitle">NEET Mock Test 01</h3>
 
-        <input type="password" id="password" placeholder="Enter Password">
+        <input
+        type="text"
+        id="studentName"
+        placeholder="Enter Your Name">
 
-        <button id="startBtn">Start Test</button>
+        <input
+        type="password"
+        id="studentPassword"
+        placeholder="Enter Password">
+
+        <button id="loginBtn">
+            Start Test
+        </button>
 
     </div>
 
-    <div id="testPage" style="display:none;">
+    <!-- INSTRUCTION PAGE -->
+
+    <div id="instructionPage" style="display:none;">
+
+        <h2>Instructions</h2>
+
+        <ul>
+
+            <li>Total Questions : <b>180</b></li>
+
+            <li>Correct Answer : <b>+4</b></li>
+
+            <li>Wrong Answer : <b>-1</b></li>
+
+            <li>Unattempted : <b>0</b></li>
+
+            <li>Timer will start after clicking Start Test.</li>
+
+        </ul>
+
+        <button id="beginExam">
+            Begin Test
+        </button>
+
+    </div>
+
+    <!-- TEST PAGE START -->
+
+    <div id="examPage" style="display:none;">
 
         <div class="topBar">
 
-            <h2 id="studentName"></h2>
+            <div id="candidateName"></div>
 
-            <div id="timer">30:00</div>
-
-        </div>
-
-        <div id="questionBox">
+            <div id="timer">
+                180:00
+            </div>
 
         </div>
 
-        <div class="buttons">
+        <div id="questionArea">
 
-            <button id="prevBtn">Previous</button>
+        </div>
 
-            <button id="nextBtn">Next</button>
+        <div class="navigation">
 
-            <button id="submitBtn">Submit Test</button>
+            <button id="prevBtn">
+                Previous
+            </button>
+
+            <button id="nextBtn">
+                Next
+            </button>
+
+            <button id="submitBtn">
+                Submit Test
+            </button>
 
         </div>
 
     </div>
 
-    <div id="resultPage" style="display:none;">
+    <!-- RESULT PAGE -->
+
+    <div id="thankYouPage" style="display:none;">
 
         <h2>✅ Test Submitted Successfully</h2>
 
-        <p>Your responses have been recorded.</p>
+        <p>
+            Your response has been recorded.
+        </p>
 
     </div>
 
