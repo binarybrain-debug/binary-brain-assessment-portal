@@ -1,16 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Binary Brain Assessment Portal</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Binary Brain Assessment Portal</title>
+
+<link rel="stylesheet" href="style.css">
+
 </head>
+
 <body>
 
-    <h1>🧠 Binary Brain Assessment Portal</h1>
-    <p>Designed by Binary Brain</p>
+<div class="container">
 
-    <script src="script.js"></script>
+    <div id="loginPage">
+
+        <h1>🧠 Binary Brain Assessment Portal</h1>
+        <p>Designed by Binary Brain</p>
+
+        <input type="text" id="name" placeholder="Enter Your Name">
+
+        <input type="password" id="password" placeholder="Enter Password">
+
+        <button id="startBtn">Start Test</button>
+
+    </div>
+
+    <div id="testPage" style="display:none;">
+
+        <div class="topBar">
+
+            <h2 id="studentName"></h2>
+
+            <div id="timer">30:00</div>
+
+        </div>
+
+        <div id="questionBox">
+
+        </div>
+
+        <div class="buttons">
+
+            <button id="prevBtn">Previous</button>
+
+            <button id="nextBtn">Next</button>
+
+            <button id="submitBtn">Submit Test</button>
+
+        </div>
+
+    </div>
+
+    <div id="resultPage" style="display:none;">
+
+        <h2>✅ Test Submitted Successfully</h2>
+
+        <p>Your responses have been recorded.</p>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
 </body>
 </html>
