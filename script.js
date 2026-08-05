@@ -8,7 +8,7 @@ loginBtn.addEventListener("click", () => {
    const name = document.getElementById("studentName").value.trim();
 const dob = document.getElementById("studentDob").value.trim();
 const password = document.getElementById("studentPassword").value.trim().toUpperCase();
-
+   
 if (password === "SET1") {
     questionFile = "questions1.json";
 }
