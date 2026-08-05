@@ -41,7 +41,7 @@ beginExam.addEventListener("click", async () => {
     document.getElementById("candidateName").innerText =
         localStorage.getItem("studentName");
 
-    const response = await fetch("questions.json");
+   const response = await fetch(questionFile);
     const questions = await response.json();
 
     window.questions = questions;
