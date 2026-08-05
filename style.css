@@ -132,3 +132,20 @@ text-align:center;
 .option input{
     transform:scale(1.2);
 }
+.option {
+    display: flex;
+    align-items: center;
+    margin: 12px 0;
+}
+
+.option label {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    cursor: pointer;
+    width: 100%;
+}
+
+.option input[type="radio"] {
+    margin: 0;
+}
