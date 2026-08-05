@@ -117,3 +117,18 @@ text-align:center;
     background:#28a745;
     color:white;
 }
+.option{
+    margin:12px 0;
+    font-size:18px;
+}
+
+.option label{
+    display:flex;
+    align-items:center;
+    gap:12px;
+    cursor:pointer;
+}
+
+.option input{
+    transform:scale(1.2);
+}
