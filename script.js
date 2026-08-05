@@ -1,24 +1,18 @@
-const loginPage = document.getElementById("loginPage");
-const testPage = document.getElementById("testPage");
+const PASSWORD = "1234";
 
-const startBtn = document.getElementById("startBtn");
+function startTest() {
+    const name = document.getElementById("name").value.trim();
+    const pass = document.getElementById("password").value.trim();
 
-const studentName = document.getElementById("studentName");
+    if (name === "") {
+        alert("Enter your name");
+        return;
+    }
 
-startBtn.addEventListener("click",()=>{
+    if (pass !== PASSWORD) {
+        alert("Wrong Password");
+        return;
+    }
 
-let name=document.getElementById("name").value;
-
-let pass=document.getElementById("password").value;
-
-if(name=="" || pass==""){
-alert("Please enter Name and Password");
-return;
+    alert("Welcome " + name + "!\nTest system will be added in next step.");
 }
-
-loginPage.style.display="none";
-testPage.style.display="block";
-
-studentName.innerHTML="Welcome, "+name;
-
-});
