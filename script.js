@@ -79,6 +79,7 @@ if (window.answers[window.currentQuestion]) {
     });
 
 }
+updatePalette();
 }
 // Student Answers
 window.answers = [];
@@ -178,4 +179,33 @@ function startTimer() {
 
     }, 1000);
 
+}
+function updatePalette() {
+    const palette = document.getElementById("palette");
+
+    if (!palette) return;
+
+    palette.innerHTML = "";
+
+    window.questions.forEach((q, index) => {
+        const btn = document.createElement("button");
+
+        btn.innerText = index + 1;
+
+        if (window.answers[index]) {
+            btn.classList.add("answered");
+        }
+
+        if (index === window.currentQuestion) {
+            btn.classList.add("current");
+        }
+
+        btn.onclick = () => {
+            saveAnswer();
+            window.currentQuestion = index;
+            showQuestion();
+        };
+
+        palette.appendChild(btn);
+    });
 }
