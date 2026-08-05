@@ -12,7 +12,33 @@ async function checkResult() {
     );
 
     const data = await response.json();
+    data.answers = JSON.parse(data.answers);
+const questions = await fetch(data.questionFile);
+const questionData = await questions.json();
 
+let html = "<h3>Question Analysis</h3>";
+
+questionData.forEach((q, i) => {
+
+    let status = "⭕ Unattempted";
+
+    if (data.answers[i] === q.answer) {
+        status = "✅ Correct";
+    } else if (data.answers[i] !== undefined) {
+        status = "❌ Wrong";
+    }
+
+    html += `
+        <p>
+        <b>Q${i + 1}.</b> ${q.question}<br>
+        ${status}<br>
+        <b>Correct Answer:</b> ${q.answer}
+        </p>
+        <hr>
+    `;
+});
+
+document.getElementById("analysis").innerHTML = html;
     document.getElementById("result").innerHTML = `
         <h2>${data.name}</h2>
         <p><b>Score:</b> ${data.score}</p>
