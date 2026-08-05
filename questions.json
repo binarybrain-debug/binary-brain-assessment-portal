@@ -1,52 +1,102 @@
 [
   {
-    "question": "Which cell organelle is known as the powerhouse of the cell?",
-    "options": ["Ribosome", "Mitochondria", "Golgi apparatus", "Lysosome"],
-    "answer": "Mitochondria"
+    "question": "Which of the following hormones primarily stimulates milk ejection (let-down reflex) in humans?",
+    "options": [
+      "Prolactin",
+      "Oxytocin",
+      "FSH",
+      "LH"
+    ],
+    "answer": "Oxytocin"
   },
   {
-    "question": "The functional unit of the kidney is:",
-    "options": ["Neuron", "Nephron", "Alveolus", "Glomerulus"],
+    "question": "Which immunoglobulin is the first antibody produced during a primary immune response?",
+    "options": [
+      "IgA",
+      "IgG",
+      "IgM",
+      "IgE"
+    ],
+    "answer": "IgM"
+  },
+  {
+    "question": "The functional unit of a kidney is:",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveolus",
+      "Glomerulus"
+    ],
     "answer": "Nephron"
   },
   {
-    "question": "Which blood cells are responsible for immunity?",
-    "options": ["RBC", "Platelets", "WBC", "Plasma"],
-    "answer": "WBC"
+    "question": "Which of the following blood vessels carries oxygenated blood in the foetus?",
+    "options": [
+      "Umbilical artery",
+      "Pulmonary artery",
+      "Umbilical vein",
+      "Renal artery"
+    ],
+    "answer": "Umbilical vein"
   },
   {
-    "question": "DNA is mainly present in which cell organelle?",
-    "options": ["Nucleus", "Ribosome", "Golgi body", "Lysosome"],
-    "answer": "Nucleus"
+    "question": "The hormone responsible for increasing blood calcium level is:",
+    "options": [
+      "Calcitonin",
+      "Parathyroid hormone",
+      "Insulin",
+      "Thyroxine"
+    ],
+    "answer": "Parathyroid hormone"
   },
   {
-    "question": "The largest gland in the human body is:",
-    "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
-    "answer": "Liver"
+    "question": "Barr body is associated with:",
+    "options": [
+      "Inactive X chromosome",
+      "Inactive Y chromosome",
+      "Mitochondrial DNA",
+      "Ribosomal RNA"
+    ],
+    "answer": "Inactive X chromosome"
   },
   {
-    "question": "Which hormone regulates blood sugar level?",
-    "options": ["Adrenaline", "Insulin", "Thyroxine", "Estrogen"],
-    "answer": "Insulin"
+    "question": "Which of the following is NOT a characteristic of innate immunity?",
+    "options": [
+      "Non-specific",
+      "Present from birth",
+      "Has immunological memory",
+      "Acts immediately"
+    ],
+    "answer": "Has immunological memory"
   },
   {
-    "question": "Which part of the brain controls balance and posture?",
-    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
-    "answer": "Cerebellum"
+    "question": "The pacemaker of the human heart is:",
+    "options": [
+      "AV node",
+      "Purkinje fibres",
+      "SA node",
+      "Bundle of His"
+    ],
+    "answer": "SA node"
   },
   {
-    "question": "Human heart has how many chambers?",
-    "options": ["2", "3", "4", "5"],
-    "answer": "4"
+    "question": "Which of the following cells secretes hydrochloric acid in the stomach?",
+    "options": [
+      "Chief cells",
+      "Goblet cells",
+      "Parietal cells",
+      "Kupffer cells"
+    ],
+    "answer": "Parietal cells"
   },
   {
-    "question": "The oxygen-carrying pigment in human blood is:",
-    "options": ["Melanin", "Hemoglobin", "Myoglobin", "Chlorophyll"],
-    "answer": "Hemoglobin"
-  },
-  {
-    "question": "Which of the following is a mammal?",
-    "options": ["Frog", "Lizard", "Whale", "Shark"],
-    "answer": "Whale"
+    "question": "Which one of the following is the correct sequence of spermatogenesis?",
+    "options": [
+      "Spermatogonia → Primary spermatocyte → Secondary spermatocyte → Spermatid",
+      "Primary spermatocyte → Spermatogonia → Spermatid → Secondary spermatocyte",
+      "Secondary spermatocyte → Spermatogonia → Primary spermatocyte → Spermatid",
+      "Spermatid → Spermatogonia → Primary spermatocyte → Secondary spermatocyte"
+    ],
+    "answer": "Spermatogonia → Primary spermatocyte → Secondary spermatocyte → Spermatid"
   }
 ]
