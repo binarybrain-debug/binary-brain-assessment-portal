@@ -137,7 +137,19 @@ document.getElementById("submitBtn").addEventListener("click", () => {
     });
 
     localStorage.setItem("finalScore", score);
+let attempted = 0;
 
+window.answers.forEach(ans => {
+    if (ans !== undefined) {
+        attempted++;
+    }
+});
+
+document.getElementById("resultName").innerText =
+    "Candidate : " + localStorage.getItem("studentName");
+
+document.getElementById("attemptedCount").innerText =
+    "Attempted Questions : " + attempted + " / " + window.questions.length;
     document.getElementById("examPage").style.display = "none";
     document.getElementById("thankYouPage").style.display = "block";
 
