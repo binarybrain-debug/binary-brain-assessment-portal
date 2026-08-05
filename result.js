@@ -6,10 +6,6 @@ const resultPassword = document.getElementById("resultPassword").value.trim();
         alert("Enter Name");
         return;
     }
-if (resultPassword !== "RESULT2026") {
-    alert("Wrong Result Password");
-    return;
-}
     const response = await fetch(
         "https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulBGxx18MXSMdlHQKN-pHcCrCCC3TrZRCyZc/exec?name=" + encodeURIComponent(name)
     );
@@ -19,6 +15,10 @@ if (resultPassword !== "RESULT2026") {
 const questions = await fetch(data.questionFile);
 const questionData = await questions.json();
 
+    if (resultPassword !== data.dob) {
+    alert("Wrong DOB");
+    return;
+}
 let html = "<h3>Question Analysis</h3>";
 
 questionData.forEach((q, i) => {
