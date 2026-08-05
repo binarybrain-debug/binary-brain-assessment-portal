@@ -1,12 +1,15 @@
 async function checkResult() {
 
     const name = document.getElementById("studentName").value.trim();
-
+const resultPassword = document.getElementById("resultPassword").value.trim();
     if (name === "") {
         alert("Enter Name");
         return;
     }
-
+if (resultPassword !== "RESULT2026") {
+    alert("Wrong Result Password");
+    return;
+}
     const response = await fetch(
         "https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulBGxx18MXSMdlHQKN-pHcCrCCC3TrZRCyZc/exec?name=" + encodeURIComponent(name)
     );
