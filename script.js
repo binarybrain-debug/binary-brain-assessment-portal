@@ -172,13 +172,15 @@ window.questions.forEach((q, index) => {
 
 fetch("https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulBGxx18MXSMdlHQKN-pHcCrCCC3TrZRCyZc/exec", {
     method: "POST",
-    body: JSON.stringify({
-        name: localStorage.getItem("studentName"),
-        score: score,
-        attempted: attempted,
-        correct: correct,
-        wrong: wrong
-    })
+  body: JSON.stringify({
+    name: localStorage.getItem("studentName"),
+    score: score,
+    attempted: attempted,
+    correct: correct,
+    wrong: wrong,
+    answers: window.answers,
+    questionFile: localStorage.getItem("questionFile")
+})
 });
 document.getElementById("resultName").innerText =
     "Candidate : " + localStorage.getItem("studentName");
