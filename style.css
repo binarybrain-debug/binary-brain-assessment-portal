@@ -90,3 +90,30 @@ flex:1;
 #resultPage{
 text-align:center;
 }
+#palette{
+    display:grid;
+    grid-template-columns:repeat(10,40px);
+    gap:8px;
+    margin:20px 0;
+    justify-content:center;
+}
+
+.paletteBtn{
+    width:40px;
+    height:40px;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+    background:#ddd;
+    font-weight:bold;
+}
+
+.paletteBtn.active{
+    background:#007bff;
+    color:white;
+}
+
+.paletteBtn.answered{
+    background:#28a745;
+    color:white;
+}
