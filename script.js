@@ -24,7 +24,7 @@ else {
     }
 
     localStorage.setItem("studentName", name);
-
+localStorage.setItem("questionFile", questionFile);
     document.getElementById("loginPage").style.display="none";
     document.getElementById("instructionPage").style.display="block";
 
