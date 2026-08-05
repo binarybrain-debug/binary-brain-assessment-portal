@@ -1,5 +1,6 @@
 // Login System
 
+let questionFile = "";
 const loginBtn = document.getElementById("loginBtn");
 
 loginBtn.addEventListener("click", () => {
@@ -7,6 +8,16 @@ loginBtn.addEventListener("click", () => {
     const name = document.getElementById("studentName").value.trim();
     const password = document.getElementById("studentPassword").value.trim();
 
+if (password === "SET1") {
+    questionFile = "questions1.json";
+}
+else if (password === "SET2") {
+    questionFile = "questions2.json";
+}
+else {
+    alert("Wrong Password");
+    return;
+}
     if(name === "" || password === ""){
         alert("Please enter Name and Password");
         return;
