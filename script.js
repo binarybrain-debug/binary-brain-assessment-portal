@@ -147,7 +147,27 @@ window.answers.forEach(ans => {
         attempted++;
     }
 });
+let correct = 0;
+let wrong = 0;
 
+window.questions.forEach((q, index) => {
+    if (window.answers[index] === q.answer) {
+        correct++;
+    } else if (window.answers[index] !== undefined) {
+        wrong++;
+    }
+});
+
+fetch("https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulBGxx18MXSMdlHQKN-pHcCrCCC3TrZRCyZc/exec", {
+    method: "POST",
+    body: JSON.stringify({
+        name: localStorage.getItem("studentName"),
+        score: score,
+        attempted: attempted,
+        correct: correct,
+        wrong: wrong
+    })
+});
 document.getElementById("resultName").innerText =
     "Candidate : " + localStorage.getItem("studentName");
 
