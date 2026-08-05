@@ -65,7 +65,20 @@ function showQuestion() {
     });
 
     document.getElementById("questionArea").innerHTML = html;
+// Restore selected answer
+if (window.answers[window.currentQuestion]) {
 
+    const radios = document.querySelectorAll('input[name="answer"]');
+
+    radios.forEach(radio => {
+
+        if (radio.value === window.answers[window.currentQuestion]) {
+            radio.checked = true;
+        }
+
+    });
+
+}
 }
 // Student Answers
 window.answers = [];
