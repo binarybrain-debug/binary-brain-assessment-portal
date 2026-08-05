@@ -67,3 +67,40 @@ function showQuestion() {
     document.getElementById("questionArea").innerHTML = html;
 
 }
+// Student Answers
+window.answers = [];
+
+// Next Button
+document.getElementById("nextBtn").addEventListener("click", () => {
+
+    saveAnswer();
+
+    if (window.currentQuestion < window.questions.length - 1) {
+        window.currentQuestion++;
+        showQuestion();
+    }
+
+});
+
+// Previous Button
+document.getElementById("prevBtn").addEventListener("click", () => {
+
+    saveAnswer();
+
+    if (window.currentQuestion > 0) {
+        window.currentQuestion--;
+        showQuestion();
+    }
+
+});
+
+// Save Selected Answer
+function saveAnswer() {
+
+    const selected = document.querySelector('input[name="answer"]:checked');
+
+    if (selected) {
+        window.answers[window.currentQuestion] = selected.value;
+    }
+
+}
