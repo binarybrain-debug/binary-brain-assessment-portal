@@ -144,3 +144,26 @@ document.getElementById("submitBtn").addEventListener("click", () => {
 });
 let totalTime = 180 * 60;
 let timerInterval;
+function startTimer() {
+
+    timerInterval = setInterval(() => {
+
+        let minutes = Math.floor(totalTime / 60);
+        let seconds = totalTime % 60;
+
+        document.getElementById("timer").innerText =
+            `${minutes}:${seconds.toString().padStart(2, "0")}`;
+
+        totalTime--;
+
+        if (totalTime < 0) {
+
+            clearInterval(timerInterval);
+
+            document.getElementById("submitBtn").click();
+
+        }
+
+    }, 1000);
+
+}
