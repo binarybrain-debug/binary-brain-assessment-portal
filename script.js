@@ -117,3 +117,28 @@ function saveAnswer() {
     }
 
 }
+// Submit Test
+
+document.getElementById("submitBtn").addEventListener("click", () => {
+
+    saveAnswer();
+
+    let score = 0;
+
+    window.questions.forEach((q, index) => {
+
+        if (window.answers[index] === q.answer) {
+            score += 4;
+        }
+        else if (window.answers[index] !== undefined) {
+            score -= 1;
+        }
+
+    });
+
+    localStorage.setItem("finalScore", score);
+
+    document.getElementById("examPage").style.display = "none";
+    document.getElementById("thankYouPage").style.display = "block";
+
+});
