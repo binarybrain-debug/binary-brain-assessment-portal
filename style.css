@@ -149,3 +149,20 @@ text-align:center;
 .option input[type="radio"] {
     margin: 0;
 }
+.option span{
+    margin-left:10px;
+}
+
+.option input[type="radio"]{
+    width:auto;
+    margin:0;
+}
+
+.option label{
+    display:flex;
+    align-items:center;
+}
+
+#questionArea{
+    text-align:left;
+}
