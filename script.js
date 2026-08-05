@@ -45,6 +45,7 @@ beginExam.addEventListener("click", async () => {
     const questions = await response.json();
 
     window.questions = questions;
+    localStorage.setItem("questionFile", questionFile);
     window.currentQuestion = 0;
 
     showQuestion();
