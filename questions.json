@@ -1,22 +1,52 @@
 [
   {
-    "question": "2 + 2 = ?",
-    "options": [
-      "2",
-      "3",
-      "4",
-      "5"
-    ],
+    "question": "Which cell organelle is known as the powerhouse of the cell?",
+    "options": ["Ribosome", "Mitochondria", "Golgi apparatus", "Lysosome"],
+    "answer": "Mitochondria"
+  },
+  {
+    "question": "The functional unit of the kidney is:",
+    "options": ["Neuron", "Nephron", "Alveolus", "Glomerulus"],
+    "answer": "Nephron"
+  },
+  {
+    "question": "Which blood cells are responsible for immunity?",
+    "options": ["RBC", "Platelets", "WBC", "Plasma"],
+    "answer": "WBC"
+  },
+  {
+    "question": "DNA is mainly present in which cell organelle?",
+    "options": ["Nucleus", "Ribosome", "Golgi body", "Lysosome"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "The largest gland in the human body is:",
+    "options": ["Pancreas", "Liver", "Thyroid", "Pituitary"],
+    "answer": "Liver"
+  },
+  {
+    "question": "Which hormone regulates blood sugar level?",
+    "options": ["Adrenaline", "Insulin", "Thyroxine", "Estrogen"],
+    "answer": "Insulin"
+  },
+  {
+    "question": "Which part of the brain controls balance and posture?",
+    "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"],
+    "answer": "Cerebellum"
+  },
+  {
+    "question": "Human heart has how many chambers?",
+    "options": ["2", "3", "4", "5"],
     "answer": "4"
   },
   {
-    "question": "Capital of India?",
-    "options": [
-      "Delhi",
-      "Mumbai",
-      "Lucknow",
-      "Jaipur"
-    ],
-    "answer": "Delhi"
+    "question": "The oxygen-carrying pigment in human blood is:",
+    "options": ["Melanin", "Hemoglobin", "Myoglobin", "Chlorophyll"],
+    "answer": "Hemoglobin"
+  },
+  {
+    "question": "Which of the following is a mammal?",
+    "options": ["Frog", "Lizard", "Whale", "Shark"],
+    "answer": "Whale"
   }
 ]
