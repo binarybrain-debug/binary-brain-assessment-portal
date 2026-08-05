@@ -52,14 +52,16 @@ function showQuestion() {
 
     q.options.forEach((option, index) => {
 
-        html += `
-        <label>
-            <input type="radio"
-                   name="answer"
-                   value="${option}">
-            ${option}
-        </label>
-        <br><br>
+       html += `
+<div class="option">
+    <label>
+        <input type="radio"
+               name="answer"
+               value="${option}">
+        ${option}
+    </label>
+</div>
+`;
         `;
 
     });
