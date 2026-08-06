@@ -1,5 +1,5 @@
 // Login System
-
+alert("Script Loaded");
 let questionFile = "";
 const loginBtn = document.getElementById("loginBtn");
 
