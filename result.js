@@ -1,5 +1,5 @@
 async function checkResult() {
-
+document.getElementById("loading").style.display = "block";
     const name = document.getElementById("studentName").value.trim();
 const resultPassword = document.getElementById("resultPassword").value.trim();
     if (name === "") {
@@ -44,6 +44,7 @@ questionData.forEach((q, i) => {
 });
 
 document.getElementById("analysis").innerHTML = html;
+    document.getElementById("loading").style.display = "none";
     document.getElementById("result").innerHTML = `
         <h2>${data.name}</h2>
         <p><b>Score:</b> ${data.score}</p>
