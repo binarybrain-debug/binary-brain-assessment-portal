@@ -253,3 +253,24 @@ button:hover{
     padding:15px;
     border-radius:10px;
 }
+#loading{
+    display:none;
+    text-align:center;
+    margin-top:20px;
+}
+
+.loader{
+    width:50px;
+    height:50px;
+    border:5px solid #ddd;
+    border-top:5px solid #4f46e5;
+    border-radius:50%;
+    animation:spin 1s linear infinite;
+    margin:auto;
+}
+
+@keyframes spin{
+    100%{
+        transform:rotate(360deg);
+    }
+}
