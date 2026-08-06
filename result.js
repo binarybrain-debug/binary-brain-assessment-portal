@@ -15,7 +15,9 @@ const resultPassword = document.getElementById("resultPassword").value.trim();
 
     const data = await response.json();
     data.answers = JSON.parse(data.answers);
-const questions = await fetch(data.questionFile);
+const questions = await fetch(
+    "https://binarybrain-debug.github.io/binary-brain-assessment-portal/" + data.questionFile
+);
 const questionData = await questions.json();
 
  
