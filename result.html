@@ -1,20 +1,41 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Binary Brain Result Portal</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Binary Brain Result Portal</title>
+
+<link rel="stylesheet" href="style.css">
+
 </head>
 <body>
 
-<h2>Binary Brain Result Portal</h2>
+<div class="container">
 
-<input type="text" id="studentName" placeholder="Enter Name">
-<br><br>
-<input type="password" id="resultPassword" placeholder="Enter Result Password">
-<br><br>
-<button onclick="checkResult()">Check Result</button>
+<h1>🧠 Binary Brain Result Portal</h1>
+
+<h3>NEET Mock Test 01</h3>
+
+<input
+type="text"
+id="studentName"
+placeholder="Enter Your Name">
+
+<input
+type="password"
+id="resultPassword"
+placeholder="Enter DOB">
+
+<button onclick="checkResult()">
+📊 Check Result
+</button>
 
 <div id="result"></div>
+
 <div id="analysis"></div>
+
+</div>
+
 <script src="result.js"></script>
 
 </body>
