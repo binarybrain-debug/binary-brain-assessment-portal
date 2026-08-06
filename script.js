@@ -7,21 +7,20 @@ loginBtn.addEventListener("click", () => {
 
    const name = document.getElementById("studentName").value.trim();
 const dob = document.getElementById("studentDob").value.trim();
-const password = document.getElementById("studentPassword").value.trim().toUpperCase();
-   
-if (password === "SET1") {
+const testCode = document.getElementById("studentTestCode").value.trim().toUpperCase();
+if (testCode === "SET1") {
     questionFile = "questions1.json";
 }
-else if (password === "SET2") {
+else if (testCode === "SET2") {
     questionFile = "questions2.json";
 }
 else {
-    alert("Wrong Password");
+   alert("Wrong Test Code");
     return;
 }
 
-    if(name === "" || dob === "" || password === ""){
-        alert("Please enter Name and Password");
+    if(name === "" || dob === "" || testCode === ""){
+        alert("Please enter Name, DOB and Test Code");
         return;
     }
 
