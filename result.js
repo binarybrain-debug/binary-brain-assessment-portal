@@ -27,23 +27,68 @@ let html = "<h3>Question Analysis</h3>";
 questionData.forEach((q, i) => {
 
     let status = "⭕ Unattempted";
+    let yourAnswer = data.answers[i];
 
-    if (data.answers[i] === q.answer) {
+    if (yourAnswer === q.answer) {
         status = "✅ Correct";
-    } else if (data.answers[i] !== undefined) {
+    } else if (yourAnswer !== undefined && yourAnswer !== null) {
         status = "❌ Wrong";
     }
 
+    let optionsHtml = "";
+
+    q.options.forEach(option => {
+
+        let color = "#333";
+        let weight = "normal";
+
+        if (option === q.answer) {
+            color = "green";
+            weight = "bold";
+        }
+
+        if (option === yourAnswer && yourAnswer !== q.answer) {
+            color = "red";
+            weight = "bold";
+        }
+
+        optionsHtml += `
+            <div style="margin:6px 0;color:${color};font-weight:${weight};">
+                ○ ${option}
+            </div>
+        `;
+    });
+
     html += `
-        <p>
-        <b>Q${i + 1}.</b> ${q.question}<br>
-        ${status}<br>
-        <b>Correct Answer:</b> ${q.answer}
-        </p>
-        <hr>
+        <div style="
+            background:#f8f9ff;
+            padding:18px;
+            margin-bottom:20px;
+            border-radius:12px;
+            border-left:6px solid #4f46e5;
+        ">
+
+            <h3>Q${i+1}. ${q.question}</h3>
+
+            ${optionsHtml}
+
+            <br>
+
+            <b>👤 Your Answer :</b>
+            ${yourAnswer ? yourAnswer : "Not Attempted"}
+
+            <br><br>
+
+            <b style="color:green;">✅ Correct Answer :</b>
+            ${q.answer}
+
+            <br><br>
+
+            <b>Status :</b> ${status}
+
+        </div>
     `;
 });
-
 document.getElementById("analysis").innerHTML = html;
     document.getElementById("loading").style.display = "none";
     document.getElementById("result").innerHTML = `
