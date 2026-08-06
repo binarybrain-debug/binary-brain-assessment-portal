@@ -1,5 +1,6 @@
 async function checkResult() {
 document.getElementById("loading").style.display = "block";
+    await new Promise(resolve => setTimeout(resolve, 2000));
     const name = document.getElementById("studentName").value.trim();
 const resultPassword = document.getElementById("resultPassword").value.trim();
     if (name === "") {
