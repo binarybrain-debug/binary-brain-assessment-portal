@@ -92,29 +92,30 @@ text-align:center;
 }
 #palette{
     display:grid;
-    grid-template-columns:repeat(10,40px);
+    grid-template-columns:repeat(10,50px);
     gap:8px;
-    margin:20px 0;
     justify-content:center;
+    margin:20px 0;
 }
 
-.paletteBtn{
-    width:40px;
-    height:40px;
+#palette button{
+    width:50px;
+    height:50px;
     border:none;
-    border-radius:6px;
-    cursor:pointer;
+    border-radius:8px;
     background:#ddd;
+    font-size:14px;
     font-weight:bold;
+    cursor:pointer;
 }
 
-.paletteBtn.active{
-    background:#007bff;
+#palette button.answered{
+    background:#28a745;
     color:white;
 }
 
-.paletteBtn.answered{
-    background:#28a745;
+#palette button.current{
+    background:#2563eb;
     color:white;
 }
 .option{
