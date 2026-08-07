@@ -26,6 +26,11 @@ await new Promise(resolve => setTimeout(resolve, 2000));
 );
 
     const data = await response.json();
+  if (data.success === false) {
+    document.getElementById("loading").style.display = "none";
+    alert("❌ " + data.message);
+    return;
+}
   if (!data || !data.name) {
     document.getElementById("loading").style.display = "none";
     alert("❌ Invalid Name or DOB");
