@@ -1,3 +1,8 @@
+fetch("config.json")
+.then(res => res.json())
+.then(config => {
+    document.getElementById("testName").innerText = config.testName;
+});
 async function checkResult() {
 document.getElementById("loading").style.display = "block";
     await new Promise(resolve => setTimeout(resolve, 2000));
