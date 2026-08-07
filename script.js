@@ -1,5 +1,14 @@
 // Login System
+let config = {};
 
+fetch("config.json")
+  .then(res => res.json())
+  .then(data => {
+      config = data;
+
+      document.getElementById("testTitle").innerText =
+          config.testName;
+  });
 let questionFile = "";
 const loginBtn = document.getElementById("loginBtn");
 
