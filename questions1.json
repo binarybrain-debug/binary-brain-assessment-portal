@@ -50,3 +50,207 @@
     "answer": "Biot-Savart law"
   }
 ]
+[
+  {
+    "question": "The dimensional formula of impulse is:",
+    "options": ["MLT⁻¹", "ML²T⁻²", "MLT⁻²", "ML²T⁻¹"],
+    "answer": "MLT⁻¹"
+  },
+  {
+    "question": "A scalar quantity is:",
+    "options": ["Velocity", "Force", "Energy", "Momentum"],
+    "answer": "Energy"
+  },
+  {
+    "question": "The slope of a velocity-time graph gives:",
+    "options": ["Velocity", "Acceleration", "Displacement", "Distance"],
+    "answer": "Acceleration"
+  },
+  {
+    "question": "Which law explains the inertia of a body?",
+    "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Gravitation"],
+    "answer": "Newton's First Law"
+  },
+  {
+    "question": "The SI unit of power is:",
+    "options": ["Joule", "Newton", "Watt", "Pascal"],
+    "answer": "Watt"
+  },
+  {
+    "question": "Escape velocity from Earth is nearly:",
+    "options": ["7.9 km/s", "11.2 km/s", "9.8 km/s", "5.6 km/s"],
+    "answer": "11.2 km/s"
+  },
+  {
+    "question": "The value of g at the centre of Earth is:",
+    "options": ["9.8 m/s²", "4.9 m/s²", "Zero", "Infinity"],
+    "answer": "Zero"
+  },
+  {
+    "question": "A perfect elastic collision conserves:",
+    "options": ["Momentum only", "Kinetic energy only", "Both momentum and kinetic energy", "Neither"],
+    "answer": "Both momentum and kinetic energy"
+  },
+  {
+    "question": "The frequency of AC supplied in India is:",
+    "options": ["25 Hz", "50 Hz", "60 Hz", "100 Hz"],
+    "answer": "50 Hz"
+  },
+  {
+    "question": "The resistance of an ideal voltmeter is:",
+    "options": ["Zero", "Infinite", "One ohm", "100 ohm"],
+    "answer": "Infinite"
+  },
+  {
+    "question": "The unit of magnetic flux is:",
+    "options": ["Tesla", "Weber", "Henry", "Gauss"],
+    "answer": "Weber"
+  },
+  {
+    "question": "The mirror used in vehicle rear-view mirrors is:",
+    "options": ["Plane mirror", "Convex mirror", "Concave mirror", "Cylindrical mirror"],
+    "answer": "Convex mirror"
+  },
+  {
+    "question": "The colour having the maximum wavelength is:",
+    "options": ["Violet", "Blue", "Green", "Red"],
+    "answer": "Red"
+  },
+  {
+    "question": "Photoelectric effect proves the particle nature of:",
+    "options": ["Electron", "Proton", "Light", "Neutron"],
+    "answer": "Light"
+  },
+  {
+    "question": "The nucleus of hydrogen atom contains:",
+    "options": ["One proton", "One neutron", "One proton and one neutron", "Two protons"],
+    "answer": "One proton"
+  },
+  {
+    "question": "The work done in moving a charge on an equipotential surface is:",
+    "options": ["Positive", "Negative", "Zero", "Maximum"],
+    "answer": "Zero"
+  },
+  {
+    "question": "The drift velocity of electrons increases with:",
+    "options": ["Increase in electric field", "Decrease in electric field", "Decrease in temperature only", "Increase in resistance only"],
+    "answer": "Increase in electric field"
+  },
+  {
+    "question": "Which electromagnetic wave is used in TV remote controls?",
+    "options": ["Microwave", "Infrared", "Ultraviolet", "X-rays"],
+    "answer": "Infrared"
+  },
+  {
+    "question": "The half-life of a radioactive substance is independent of:",
+    "options": ["Temperature", "Pressure", "Chemical state", "All of these"],
+    "answer": "All of these"
+  },
+  {
+    "question": "A charged particle moving perpendicular to a magnetic field follows:",
+    "options": ["Straight line", "Circular path", "Parabolic path", "Elliptical path"],
+    "answer": "Circular path"
+  }
+]
+[
+  {
+    "question": "The SI unit of electric potential is:",
+    "options": ["Joule", "Volt", "Coulomb", "Farad"],
+    "answer": "Volt"
+  },
+  {
+    "question": "A body moving with constant velocity has:",
+    "options": ["Constant acceleration", "Zero acceleration", "Infinite acceleration", "Variable acceleration"],
+    "answer": "Zero acceleration"
+  },
+  {
+    "question": "The dimensional formula of force is:",
+    "options": ["MLT⁻²", "ML²T⁻²", "ML²T⁻¹", "MLT⁻¹"],
+    "answer": "MLT⁻²"
+  },
+  {
+    "question": "The energy possessed by a body due to its motion is called:",
+    "options": ["Potential energy", "Kinetic energy", "Heat energy", "Mechanical energy"],
+    "answer": "Kinetic energy"
+  },
+  {
+    "question": "The work done by gravity in moving a body along a closed path is:",
+    "options": ["Positive", "Negative", "Zero", "Infinite"],
+    "answer": "Zero"
+  },
+  {
+    "question": "The escape velocity on the Moon is approximately:",
+    "options": ["2.4 km/s", "5.6 km/s", "11.2 km/s", "7.9 km/s"],
+    "answer": "2.4 km/s"
+  },
+  {
+    "question": "The unit of capacitance is:",
+    "options": ["Henry", "Farad", "Weber", "Tesla"],
+    "answer": "Farad"
+  },
+  {
+    "question": "A potentiometer is mainly used to measure:",
+    "options": ["Current", "Resistance", "Potential difference", "Power"],
+    "answer": "Potential difference"
+  },
+  {
+    "question": "The magnetic field inside a long solenoid is:",
+    "options": ["Zero", "Uniform", "Non-uniform", "Infinite"],
+    "answer": "Uniform"
+  },
+  {
+    "question": "The lens used to correct myopia is:",
+    "options": ["Convex", "Concave", "Cylindrical", "Plane"],
+    "answer": "Concave"
+  },
+  {
+    "question": "Which colour deviates the least through a prism?",
+    "options": ["Red", "Blue", "Green", "Violet"],
+    "answer": "Red"
+  },
+  {
+    "question": "Which phenomenon is responsible for the blue colour of the sky?",
+    "options": ["Reflection", "Scattering", "Dispersion", "Refraction"],
+    "answer": "Scattering"
+  },
+  {
+    "question": "The stopping potential in photoelectric effect depends upon:",
+    "options": ["Intensity of light", "Frequency of light", "Area of metal", "Temperature"],
+    "answer": "Frequency of light"
+  },
+  {
+    "question": "The charge on an electron is:",
+    "options": ["1.6 × 10⁻¹⁹ C", "-1.6 × 10⁻¹⁹ C", "3.2 × 10⁻¹⁹ C", "-3.2 × 10⁻¹⁹ C"],
+    "answer": "-1.6 × 10⁻¹⁹ C"
+  },
+  {
+    "question": "Radioactive decay follows:",
+    "options": ["Linear law", "Exponential law", "Quadratic law", "Logarithmic law"],
+    "answer": "Exponential law"
+  },
+  {
+    "question": "The magnetic force on a stationary charge is:",
+    "options": ["Maximum", "Minimum", "Zero", "Infinite"],
+    "answer": "Zero"
+  },
+  {
+    "question": "The efficiency of an ideal transformer is:",
+    "options": ["50%", "75%", "90%", "100%"],
+    "answer": "100%"
+  },
+  {
+    "question": "The SI unit of self inductance is:",
+    "options": ["Henry", "Tesla", "Weber", "Farad"],
+    "answer": "Henry"
+  },
+  {
+    "question": "The velocity of light in vacuum is:",
+    "options": ["3 × 10⁸ m/s", "3 × 10⁶ m/s", "3 × 10⁵ km/s", "Both A and C"],
+    "answer": "Both A and C"
+  },
+  {
+    "question": "The binding energy of a nucleus is due to:",
+    "options": ["Strong nuclear force", "Gravitational force", "Electrostatic force", "Magnetic force"],
+    "answer": "Strong nuclear force"
+  }
+]
