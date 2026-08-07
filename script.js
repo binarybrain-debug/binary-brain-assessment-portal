@@ -328,3 +328,19 @@ setTimeout(() => {
     }, 5000);
 
 }, 500);
+// Show / Hide Password
+
+const togglePassword = document.getElementById("togglePassword");
+const passwordInput = document.getElementById("studentPassword");
+
+togglePassword.addEventListener("click", () => {
+
+    if (passwordInput.type === "password") {
+        passwordInput.type = "text";
+        togglePassword.innerText = "🙈";
+    } else {
+        passwordInput.type = "password";
+        togglePassword.innerText = "👁️";
+    }
+
+});
