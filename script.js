@@ -24,7 +24,10 @@ if (!selectedTest) {
     alert("Wrong Test Code");
     return;
 }
-
+if (password !== selectedTest.password) {
+    alert("Wrong Password");
+    return;
+}
 questionFile = selectedTest.file;
 
 // Login page par selected test ka naam dikhao
