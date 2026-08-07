@@ -52,7 +52,7 @@ beginExam.addEventListener("click", async () => {
 
     document.getElementById("instructionPage").style.display = "none";
     document.getElementById("examPage").style.display = "block";
-
+document.querySelector(".exam-watermark").classList.add("show");
     document.getElementById("candidateName").innerText =
         localStorage.getItem("studentName");
 
