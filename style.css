@@ -202,8 +202,8 @@ body{
 }
 
 .container{
-    width:900px;
-    max-width:95%;
+   width:98vw;
+max-width:98vw;
     background:#fff;
     border-radius:20px;
     padding:35px;
