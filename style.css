@@ -357,3 +357,32 @@ button:hover{
     color:#2563eb;
     margin-bottom:18px;
 }
+/* Premium Pink Glow */
+
+.container{
+    animation:pinkGlow 3s infinite alternate;
+}
+
+@keyframes pinkGlow{
+
+    0%{
+        box-shadow:0 0 15px #ff4fd8;
+    }
+
+    25%{
+        box-shadow:0 0 25px #ff4fd8;
+    }
+
+    50%{
+        box-shadow:0 0 35px #ff00cc;
+    }
+
+    75%{
+        box-shadow:0 0 25px #ff4fd8;
+    }
+
+    100%{
+        box-shadow:0 0 15px #ff99e6;
+    }
+
+}
