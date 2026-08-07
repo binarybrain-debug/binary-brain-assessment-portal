@@ -406,5 +406,30 @@ button:hover{
     font-size:18px;
     user-select:none;
 }
-/* ===== Binary Brain Watermark ===== */
+/* ===== Question Page Watermark ===== */
+
+#examPage{
+    position: relative;
+    overflow: hidden;
+}
+
+#examPage::before{
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 450px;
+    height: 450px;
+    transform: translate(-50%, -50%);
+    background: url("watermark.png") center center no-repeat;
+    background-size: contain;
+    opacity: 0.06;
+    pointer-events: none;
+    z-index: 0;
+}
+
+#examPage > *{
+    position: relative;
+    z-index: 1;
+}
 
