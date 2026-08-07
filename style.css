@@ -300,3 +300,36 @@ button:hover{
         transform:scale(1);
     }
 }
+.examLayout{
+    display:flex;
+    gap:20px;
+    align-items:flex-start;
+}
+
+#questionArea{
+    flex:1;
+}
+
+.rightPanel{
+    width:300px;
+    position:sticky;
+    top:20px;
+}
+
+#palette{
+    display:grid;
+    grid-template-columns:repeat(5,50px);
+    gap:8px;
+    justify-content:center;
+    margin-bottom:20px;
+}
+
+.navigation{
+    display:flex;
+    flex-direction:column;
+    gap:10px;
+}
+
+.navigation button{
+    width:100%;
+}
