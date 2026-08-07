@@ -2,13 +2,13 @@
 let config = {};
 
 fetch("config.json")
-  .then(res => res.json())
-  .then(data => {
-      config = data;
+.then(res => res.json())
+.then(data => {
+    config = data;
 
-      document.getElementById("testTitle").innerText =
-          config.testName;
-  });
+    document.getElementById("testTitle").innerText =
+        config.tests.SET1.name;
+});
 let questionFile = "";
 const loginBtn = document.getElementById("loginBtn");
 
@@ -17,17 +17,17 @@ loginBtn.addEventListener("click", () => {
    const name = document.getElementById("studentName").value.trim();
 const dob = document.getElementById("studentDob").value.trim();
 const testCode = document.getElementById("studentTestCode").value.trim().toUpperCase();
-if (testCode === "SET1") {
-    questionFile = "questions1.json";
-}
-else if (testCode === "SET2") {
-    questionFile = "questions2.json";
-}
-else {
-   alert("Wrong Test Code");
+const selectedTest = config.tests[testCode];
+
+if (!selectedTest) {
+    alert("Wrong Test Code");
     return;
 }
 
+questionFile = selectedTest.file;
+
+// Login page par selected test ka naam dikhao
+document.getElementById("testTitle").innerText = selectedTest.name;
     if(name === "" || dob === "" || testCode === ""){
         alert("Please enter Name, DOB and Test Code");
         return;
