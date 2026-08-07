@@ -134,6 +134,17 @@ function saveAnswer() {
     }
 
 }
+document.getElementById("clearBtn").addEventListener("click", () => {
+
+    const radios = document.querySelectorAll('input[name="answer"]');
+
+    radios.forEach(radio => radio.checked = false);
+
+    window.answers[window.currentQuestion] = undefined;
+
+    updatePalette();
+
+});
 // Submit Test
 
 document.getElementById("submitBtn").addEventListener("click", () => {
