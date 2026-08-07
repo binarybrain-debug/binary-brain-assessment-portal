@@ -284,3 +284,34 @@ window.addEventListener("popstate", function () {
     alert("⚠️ Warning! You cannot leave the test.");
     history.pushState(null, null, location.href);
 });
+// Premium Welcome Message
+setTimeout(() => {
+
+    let msg = document.createElement("div");
+
+    msg.innerHTML = `
+    <div style="font-size:22px;font-weight:bold;">🧠 Binary Brain Assessment Portal</div>
+    <div style="margin-top:10px;">Excellence is a Habit,<br>Success is a Choice.</div>
+    <div style="margin-top:10px;">Stay Focused.<br>Trust Yourself.<br>Give Your Best.</div>
+    <div style="margin-top:15px;font-size:18px;">🌟 Best Wishes for Your Examination 🌟</div>
+    `;
+
+    msg.style.position = "fixed";
+    msg.style.top = "25px";
+    msg.style.left = "50%";
+    msg.style.transform = "translateX(-50%)";
+    msg.style.background = "linear-gradient(135deg,#2563eb,#1e3a8a)";
+    msg.style.color = "white";
+    msg.style.padding = "20px 30px";
+    msg.style.borderRadius = "15px";
+    msg.style.textAlign = "center";
+    msg.style.boxShadow = "0 10px 30px rgba(0,0,0,.35)";
+    msg.style.zIndex = "99999";
+
+    document.body.appendChild(msg);
+
+    setTimeout(() => {
+        msg.remove();
+    }, 5000);
+
+}, 500);
