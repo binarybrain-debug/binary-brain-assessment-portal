@@ -5,14 +5,19 @@ fetch("config.json")
           config.tests.SET1.name;
   });
 async function checkResult() {
-document.getElementById("loading").style.display = "block";
-    await new Promise(resolve => setTimeout(resolve, 2000));
     const name = document.getElementById("studentName").value.trim();
 const resultPassword = document.getElementById("resultPassword").value.trim();
     if (name === "") {
         alert("Enter Name");
         return;
-    }
+}
+  if (resultPassword === "") {
+    alert("Enter DOB");
+    return;
+}
+      document.getElementById("loading").style.display = "block";
+await new Promise(resolve => setTimeout(resolve, 2000));
+    
    const response = await fetch(
     "https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulBGxx18MXSMdlHQKN-pHcCrCCC3TrZRCyZc/exec?name=" +
     encodeURIComponent(name) +
