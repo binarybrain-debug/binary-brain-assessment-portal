@@ -17,6 +17,7 @@ loginBtn.addEventListener("click", () => {
    const name = document.getElementById("studentName").value.trim();
 const dob = document.getElementById("studentDob").value.trim();
 const testCode = document.getElementById("studentTestCode").value.trim().toUpperCase();
+    const password = document.getElementById("studentPassword").value.trim();
 const selectedTest = config.tests[testCode];
 
 if (!selectedTest) {
