@@ -1,5 +1,16 @@
 {
-  "testName": "NEET Mock Test 05",
+  "tests": {
+    "SET1": {
+      "name": "NEET Mock Test 01",
+      "password": "BIO742",
+      "file": "questions1.json"
+    },
+    "SET2": {
+      "name": "NEET Mock Test 02",
+      "password": "CHE913",
+      "file": "questions2.json"
+    }
+  },
   "time": 180,
   "correctMarks": 4,
   "wrongMarks": -1,
