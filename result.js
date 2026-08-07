@@ -26,6 +26,11 @@ await new Promise(resolve => setTimeout(resolve, 2000));
 );
 
     const data = await response.json();
+  if (!data || !data.name) {
+    document.getElementById("loading").style.display = "none";
+    alert("❌ Invalid Name or DOB");
+    return;
+}
     data.answers = JSON.parse(data.answers);
 const questions = await fetch(
     "https://binarybrain-debug.github.io/binary-brain-assessment-portal/" + data.questionFile
