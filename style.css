@@ -405,3 +405,19 @@ button:hover{
     font-size:18px;
     user-select:none;
 }
+/* ===== Binary Brain Watermark ===== */
+
+.exam-watermark{
+    position: fixed;
+    inset: 0;
+    background: url("watermark.png") center center no-repeat;
+    background-size: 420px;
+    opacity: 0.05;
+    pointer-events: none;
+    z-index: 0;
+    display: none;
+}
+
+.exam-watermark.show{
+    display: block;
+}
