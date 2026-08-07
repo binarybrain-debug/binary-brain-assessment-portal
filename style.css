@@ -54,7 +54,18 @@ border-radius:8px;
 font-size:16px;
 cursor:pointer;
 }
-
+#palette button{
+    width:55px !important;
+    min-width:55px !important;
+    max-width:55px !important;
+    height:55px !important;
+    padding:0 !important;
+    margin:0 !important;
+    font-size:15px !important;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
 button:hover{
 background:#1d4ed8;
 }
