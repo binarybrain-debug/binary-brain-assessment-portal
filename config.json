@@ -1,7 +1,7 @@
 {
   "tests": {
     "SET1": {
-      "name": "NEET Mock Test 01",
+      "name": "NEET Mock Test 02",
       "password": "BIO742",
       "file": "questions1.json"
     },
