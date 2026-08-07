@@ -143,6 +143,11 @@ text-align:center;
 
 .option input{
     transform:scale(1.2);
+    .option input{
+    margin: 0;
+    position: relative;
+    top: 1px;
+}
 }
 .option {
     display: flex;
