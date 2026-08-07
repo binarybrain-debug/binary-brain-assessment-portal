@@ -277,3 +277,10 @@ function updatePalette() {
         palette.appendChild(btn);
     });
 }
+// Prevent Browser Back
+history.pushState(null, null, location.href);
+
+window.addEventListener("popstate", function () {
+    alert("⚠️ Warning! You cannot leave the test.");
+    history.pushState(null, null, location.href);
+});
