@@ -96,6 +96,7 @@ if (window.answers[window.currentQuestion]) {
 
 }
 updatePalette();
+   updateProgress();
 }
 // Student Answers
 window.answers = [];
@@ -134,6 +135,23 @@ function saveAnswer() {
     }
 
 }
+function updateProgress() {
+
+    let answered = 0;
+
+    window.answers.forEach(ans => {
+        if (ans !== undefined) {
+            answered++;
+        }
+    });
+
+    let percent = (answered / window.questions.length) * 100;
+
+    document.getElementById("progressBar").style.width = percent + "%";
+
+    document.getElementById("progressText").innerText =
+        answered + " / " + window.questions.length + " Answered";
+}
 document.getElementById("clearBtn").addEventListener("click", () => {
 
     const radios = document.querySelectorAll('input[name="answer"]');
@@ -143,7 +161,7 @@ document.getElementById("clearBtn").addEventListener("click", () => {
     window.answers[window.currentQuestion] = undefined;
 
     updatePalette();
-
+updateProgress();
 });
 // Submit Test
 
