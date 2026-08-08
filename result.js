@@ -174,5 +174,4 @@ document.getElementById("analysis").innerHTML = html;
 
     </div>
 `;
-    `;
 }
