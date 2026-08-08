@@ -140,7 +140,7 @@ questionData.forEach((q, i) => {
 document.getElementById("analysis").innerHTML = html;
     document.getElementById("loading").style.display = "none";
     document.getElementById("result").innerHTML = `
-    document.getElementById("result").innerHTML = `
+  
     <div class="score-card">
 
         <div class="candidate-name">
