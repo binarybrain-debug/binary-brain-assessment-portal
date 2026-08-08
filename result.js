@@ -1,4 +1,18 @@
-fetch("config.json")
+
+let captchaCode = "";
+
+function generateCaptcha() {
+    const chars = "ABCDEFGHJKMNPQRSTUVWXYZ23456789";
+    captchaCode = "";
+
+    for (let i = 0; i < 5; i++) {
+        captchaCode += chars[Math.floor(Math.random() * chars.length)];
+    }
+
+    document.getElementById("captchaText").innerText = captchaCode;
+}
+
+generateCaptcha();fetch("config.json")
   .then(response => response.json())
   .then(config => {
       document.getElementById("testName").innerText =
