@@ -29,6 +29,19 @@ const resultPassword = document.getElementById("resultPassword").value.trim();
     alert("Enter DOB");
     return;
 }
+    const captchaInput = document.getElementById("captchaInput").value.trim().toUpperCase();
+
+if (captchaInput === "") {
+    alert("Enter CAPTCHA");
+    return;
+}
+
+if (captchaInput !== captchaCode) {
+    alert("Incorrect CAPTCHA");
+    generateCaptcha();
+    document.getElementById("captchaInput").value = "";
+    return;
+}
       document.getElementById("loading").style.display = "block";
 await new Promise(resolve => setTimeout(resolve, 2000));
     
