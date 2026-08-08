@@ -1,1 +1,2882 @@
-
+[
+  {
+    "id": 1,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A particle has velocity v = 6t - 2t^2 (m/s). The displacement from t=0 to the instant at which the particle first comes to rest is:",
+    "options": [
+      "4 m",
+      "6 m",
+      "8 m",
+      "10 m"
+    ],
+    "answer": "8 m",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A body starts from rest with acceleration a = 2t m/s². Its average velocity during the first 4 s is:",
+    "options": [
+      "4 m/s",
+      "8 m/s",
+      "16/3 m/s",
+      "32/3 m/s"
+    ],
+    "answer": "16/3 m/s",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Two particles start together from the same point. Their velocities are v₁=4t and v₂=2t+4 (SI). They meet again at:",
+    "options": [
+      "t=2 s",
+      "t=4 s",
+      "t=6 s",
+      "t=8 s"
+    ],
+    "answer": "t=4 s",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A particle covers equal distances in successive intervals of 2 s with speeds 10 m/s and 20 m/s. Assuming uniform acceleration, its speed in the third interval is:",
+    "options": [
+      "25 m/s",
+      "30 m/s",
+      "35 m/s",
+      "40 m/s"
+    ],
+    "answer": "30 m/s",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A car moving at 20 m/s is uniformly retarded and stops in 5 s. Distance covered in the last 1 s is:",
+    "options": [
+      "1 m",
+      "2 m",
+      "3 m",
+      "4 m"
+    ],
+    "answer": "2 m",
+    "explanation": ""
+  },
+  {
+    "id": 6,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A projectile is fired with speed u at angle θ. If its maximum height equals one-fourth of its range, tan θ is:",
+    "options": [
+      "1",
+      "2",
+      "4",
+      "1/2"
+    ],
+    "answer": "1",
+    "explanation": ""
+  },
+  {
+    "id": 7,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "For a projectile fired with fixed speed u, let R be its maximum possible range. Its maximum possible height is:",
+    "options": [
+      "R/8",
+      "R/4",
+      "R/2",
+      "R"
+    ],
+    "answer": "R/2",
+    "explanation": ""
+  },
+  {
+    "id": 8,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A particle has position r=(3t²)i+(4t)j m. The angle between velocity and acceleration at t=1 s is closest to:",
+    "options": [
+      "0°",
+      "37°",
+      "53°",
+      "90°"
+    ],
+    "answer": "53°",
+    "explanation": ""
+  },
+  {
+    "id": 9,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A projectile is launched so that its horizontal range is 3 times its maximum height. The angle of projection is:",
+    "options": [
+      "30°",
+      "45°",
+      "53°",
+      "60°"
+    ],
+    "answer": "45°",
+    "explanation": ""
+  },
+  {
+    "id": 10,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A stone is projected horizontally from a 45 m high cliff at 20 m/s. Taking g=10 m/s², its speed just before hitting the ground is:",
+    "options": [
+      "20 m/s",
+      "30 m/s",
+      "√1300 m/s",
+      "√850 m/s"
+    ],
+    "answer": "√1300 m/s",
+    "explanation": ""
+  },
+  {
+    "id": 11,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A particle moves along x-axis with x=t³-6t²+9t. The total distance travelled from t=0 to 4 s is:",
+    "options": [
+      "4 m",
+      "8 m",
+      "10 m",
+      "12 m"
+    ],
+    "answer": "10 m",
+    "explanation": ""
+  },
+  {
+    "id": 12,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Two projectiles are launched simultaneously with the same speed at complementary angles. Their ranges are equal. The ratio of their maximum heights is:",
+    "options": [
+      "1:1",
+      "tanθ:cotθ",
+      "tan²θ:1",
+      "1:tan²θ"
+    ],
+    "answer": "tan²θ:1",
+    "explanation": ""
+  },
+  {
+    "id": 13,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A velocity-time graph is a straight line from 10 m/s at t=0 to −10 m/s at t=5 s. The displacement in 5 s is:",
+    "options": [
+      "0 m",
+      "10 m",
+      "25 m",
+      "50 m"
+    ],
+    "answer": "0 m",
+    "explanation": ""
+  },
+  {
+    "id": 14,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A swimmer can swim at 5 m/s relative to still water. River speed is 3 m/s. To cross a 100 m wide river along the shortest path, the swimmer should head at an angle to the normal such that sinθ equals:",
+    "options": [
+      "3/5",
+      "4/5",
+      "2/5",
+      "1/5"
+    ],
+    "answer": "3/5",
+    "explanation": ""
+  },
+  {
+    "id": 15,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A particle is projected vertically upward with speed u. The ratio of distances travelled in the nth and (n+1)th seconds, before reaching the top, is:",
+    "options": [
+      "(2n−1):(2n+1)",
+      "(2n+1):(2n+3)",
+      "n:(n+1)",
+      "1:1"
+    ],
+    "answer": "(2n−1):(2n+1)",
+    "explanation": ""
+  },
+  {
+    "id": 16,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which species has the largest effective nuclear charge on its valence electron among Na, Mg, Al and Si?",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si"
+    ],
+    "answer": "Si",
+    "explanation": ""
+  },
+  {
+    "id": 17,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The correct order of first ionisation enthalpy is:",
+    "options": [
+      "B<C<O<N",
+      "B<C<N<O",
+      "C<B<N<O",
+      "O<N<C<B"
+    ],
+    "answer": "B<C<O<N",
+    "explanation": ""
+  },
+  {
+    "id": 18,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Among O²⁻, F⁻, Na⁺ and Mg²⁺, the species with the smallest radius is:",
+    "options": [
+      "O²⁻",
+      "F⁻",
+      "Na⁺",
+      "Mg²⁺"
+    ],
+    "answer": "Mg²⁺",
+    "explanation": ""
+  },
+  {
+    "id": 19,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The molecule with the highest bond angle among NH₃, H₂O, BF₃ and CH₄ is:",
+    "options": [
+      "NH₃",
+      "H₂O",
+      "BF₃",
+      "CH₄"
+    ],
+    "answer": "BF₃",
+    "explanation": ""
+  },
+  {
+    "id": 20,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which species has bond order 1.5 according to molecular orbital theory?",
+    "options": [
+      "O₂",
+      "O₂⁺",
+      "O₂⁻",
+      "O₂²⁻"
+    ],
+    "answer": "O₂⁺",
+    "explanation": ""
+  },
+  {
+    "id": 21,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The hybridisation and geometry of XeF₄ are:",
+    "options": [
+      "sp³, tetrahedral",
+      "sp³d, trigonal bipyramidal",
+      "sp³d², square planar",
+      "sp³d², octahedral"
+    ],
+    "answer": "sp³d², square planar",
+    "explanation": ""
+  },
+  {
+    "id": 22,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which has the highest lattice enthalpy among LiF, LiCl, NaF and NaCl?",
+    "options": [
+      "LiF",
+      "LiCl",
+      "NaF",
+      "NaCl"
+    ],
+    "answer": "LiF",
+    "explanation": ""
+  },
+  {
+    "id": 23,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The number of geometrical isomers possible for [Pt(NH₃)₂Cl₂] is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": ""
+  },
+  {
+    "id": 24,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The oxidation state of cobalt and coordination number in [Co(en)₂Cl₂]⁺ are:",
+    "options": [
+      "+1, 4",
+      "+3, 6",
+      "+2, 6",
+      "+3, 4"
+    ],
+    "answer": "+3, 6",
+    "explanation": ""
+  },
+  {
+    "id": 25,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which complex is expected to be diamagnetic?",
+    "options": [
+      "[FeF₆]³⁻",
+      "[CoF₆]³⁻",
+      "[Fe(CN)₆]⁴⁻",
+      "[NiCl₄]²⁻"
+    ],
+    "answer": "[Fe(CN)₆]⁴⁻",
+    "explanation": ""
+  },
+  {
+    "id": 26,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which ion is colourless due to d⁰ configuration?",
+    "options": [
+      "Ti³⁺",
+      "V²⁺",
+      "Sc³⁺",
+      "Mn²⁺"
+    ],
+    "answer": "Sc³⁺",
+    "explanation": ""
+  },
+  {
+    "id": 27,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The most stable oxidation state of lanthanides generally is +3 because:",
+    "options": [
+      "4f orbitals are absent",
+      "loss of three electrons gives relatively stable configuration",
+      "they have no valence electrons",
+      "all have half-filled 4f subshell"
+    ],
+    "answer": "loss of three electrons gives relatively stable configuration",
+    "explanation": ""
+  },
+  {
+    "id": 28,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which pair shows lanthanide contraction most directly?",
+    "options": [
+      "Zr and Hf",
+      "Na and K",
+      "Ca and Sr",
+      "Cl and Br"
+    ],
+    "answer": "Zr and Hf",
+    "explanation": ""
+  },
+  {
+    "id": 29,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Among Cr₂O₇²⁻, MnO₄⁻, Fe³⁺ and Cu²⁺, the species most commonly showing intense charge-transfer colour is:",
+    "options": [
+      "Cr₂O₇²⁻",
+      "MnO₄⁻",
+      "Fe³⁺",
+      "Cu²⁺"
+    ],
+    "answer": "MnO₄⁻",
+    "explanation": ""
+  },
+  {
+    "id": 30,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "In which molecule is the central atom approximately sp³d hybridised with one lone pair?",
+    "options": [
+      "SF₄",
+      "BF₃",
+      "XeF₄",
+      "CH₄"
+    ],
+    "answer": "SF₄",
+    "explanation": ""
+  },
+  {
+    "id": 31,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "If the osmolarity of filtrate entering the loop of Henle is 300 mOsm, the deepest medullary filtrate can approach about:",
+    "options": [
+      "100 mOsm",
+      "300 mOsm",
+      "1200 mOsm",
+      "2400 mOsm"
+    ],
+    "answer": "1200 mOsm",
+    "explanation": ""
+  },
+  {
+    "id": 32,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The maximum urine concentration in humans depends primarily on:",
+    "options": [
+      "Bowman capsule only",
+      "Counter-current mechanism and ADH",
+      "Glomerular pressure only",
+      "Renin alone"
+    ],
+    "answer": "Counter-current mechanism and ADH",
+    "explanation": ""
+  },
+  {
+    "id": 33,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A fall in GFR with unchanged tubular reabsorption would most directly cause:",
+    "options": [
+      "increased urine formation",
+      "decreased filtered load",
+      "increased filtration fraction",
+      "increased glucose filtration"
+    ],
+    "answer": "decreased filtered load",
+    "explanation": ""
+  },
+  {
+    "id": 34,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which combination correctly matches hormone and renal action?",
+    "options": [
+      "ADH—decreases water reabsorption",
+      "Aldosterone—increases Na⁺ reabsorption",
+      "ANF—increases renin",
+      "Renin—directly increases K⁺ excretion"
+    ],
+    "answer": "Aldosterone—increases Na⁺ reabsorption",
+    "explanation": ""
+  },
+  {
+    "id": 35,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A person has high plasma ADH but cannot concentrate urine. The most likely defect is in:",
+    "options": [
+      "PCT glucose transport",
+      "collecting duct water permeability",
+      "RBC formation",
+      "glomerular filtration barrier"
+    ],
+    "answer": "collecting duct water permeability",
+    "explanation": ""
+  },
+  {
+    "id": 36,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A person with blood group AB can receive RBCs from all ABO groups because plasma contains:",
+    "options": [
+      "anti-A only",
+      "anti-B only",
+      "both antibodies",
+      "neither anti-A nor anti-B"
+    ],
+    "answer": "neither anti-A nor anti-B",
+    "explanation": ""
+  },
+  {
+    "id": 37,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "If the AV node fails, the normal impulse pathway to ventricles is most directly interrupted before:",
+    "options": [
+      "SA node",
+      "bundle of His",
+      "atrial muscle",
+      "vena cava"
+    ],
+    "answer": "bundle of His",
+    "explanation": ""
+  },
+  {
+    "id": 38,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The second heart sound is produced mainly by closure of:",
+    "options": [
+      "AV valves",
+      "semilunar valves",
+      "vena caval valves",
+      "coronary valves"
+    ],
+    "answer": "semilunar valves",
+    "explanation": ""
+  },
+  {
+    "id": 39,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "During ventricular systole, the correct sequence is:",
+    "options": [
+      "AV valves open then semilunar open",
+      "AV valves close then semilunar valves open",
+      "semilunar close then AV close",
+      "both valve sets open together"
+    ],
+    "answer": "AV valves close then semilunar valves open",
+    "explanation": ""
+  },
+  {
+    "id": 40,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "If cardiac output is 5 L/min and heart rate is 100/min, stroke volume is:",
+    "options": [
+      "20 mL",
+      "50 mL",
+      "100 mL",
+      "500 mL"
+    ],
+    "answer": "50 mL",
+    "explanation": ""
+  },
+  {
+    "id": 41,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A sarcomere shortens during contraction because:",
+    "options": [
+      "actin filaments shorten",
+      "myosin filaments shorten",
+      "thin filaments slide toward M-line",
+      "Z-lines move apart"
+    ],
+    "answer": "thin filaments slide toward M-line",
+    "explanation": ""
+  },
+  {
+    "id": 42,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "At the end of a skeletal muscle contraction, calcium is actively pumped back into:",
+    "options": [
+      "nucleus",
+      "sarcoplasmic reticulum",
+      "T-tubule lumen",
+      "Golgi body"
+    ],
+    "answer": "sarcoplasmic reticulum",
+    "explanation": ""
+  },
+  {
+    "id": 43,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A cross-bridge cycle requires ATP primarily for:",
+    "options": [
+      "binding calcium to troponin",
+      "detaching myosin from actin",
+      "forming actin",
+      "opening voltage-gated Na⁺ channels"
+    ],
+    "answer": "detaching myosin from actin",
+    "explanation": ""
+  },
+  {
+    "id": 44,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which disorder is associated with autoimmune destruction of acetylcholine receptors at neuromuscular junctions?",
+    "options": [
+      "Gout",
+      "Myasthenia gravis",
+      "Osteoporosis",
+      "Arthritis"
+    ],
+    "answer": "Myasthenia gravis",
+    "explanation": ""
+  },
+  {
+    "id": 45,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The H-zone of a sarcomere decreases during contraction because:",
+    "options": [
+      "actin overlaps more with myosin",
+      "myosin disappears",
+      "Z-lines disappear",
+      "actin shortens"
+    ],
+    "answer": "actin overlaps more with myosin",
+    "explanation": ""
+  },
+  {
+    "id": 46,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The resting membrane potential is maintained largely because the membrane is most permeable to:",
+    "options": [
+      "Na⁺",
+      "K⁺",
+      "Ca²⁺",
+      "Cl⁻"
+    ],
+    "answer": "K⁺",
+    "explanation": ""
+  },
+  {
+    "id": 47,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Saltatory conduction occurs because action potentials are regenerated at:",
+    "options": [
+      "dendrites",
+      "nodes of Ranvier",
+      "cell body",
+      "synaptic vesicles"
+    ],
+    "answer": "nodes of Ranvier",
+    "explanation": ""
+  },
+  {
+    "id": 48,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "If the myelin sheath of a motor neuron is damaged, the most immediate effect is:",
+    "options": [
+      "faster conduction",
+      "slower conduction",
+      "more neurotransmitter release",
+      "loss of RBCs"
+    ],
+    "answer": "slower conduction",
+    "explanation": ""
+  },
+  {
+    "id": 49,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The neurotransmitter released at the neuromuscular junction is:",
+    "options": [
+      "dopamine",
+      "acetylcholine",
+      "GABA only",
+      "thyroxine"
+    ],
+    "answer": "acetylcholine",
+    "explanation": ""
+  },
+  {
+    "id": 50,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which part of the brain regulates body temperature and also controls pituitary functions?",
+    "options": [
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla",
+      "Pons"
+    ],
+    "answer": "Hypothalamus",
+    "explanation": ""
+  },
+  {
+    "id": 51,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A rise in blood glucose after a meal is countered mainly by:",
+    "options": [
+      "glucagon",
+      "insulin",
+      "adrenaline",
+      "aldosterone"
+    ],
+    "answer": "insulin",
+    "explanation": ""
+  },
+  {
+    "id": 52,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The hormone that increases Ca²⁺ level in blood is:",
+    "options": [
+      "calcitonin",
+      "parathyroid hormone",
+      "insulin",
+      "ADH"
+    ],
+    "answer": "parathyroid hormone",
+    "explanation": ""
+  },
+  {
+    "id": 53,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Which hormone is secreted by adrenal medulla?",
+    "options": [
+      "Cortisol",
+      "Aldosterone",
+      "Adrenaline",
+      "Progesterone"
+    ],
+    "answer": "Adrenaline",
+    "explanation": ""
+  },
+  {
+    "id": 54,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The anterior pituitary hormone that stimulates thyroid gland is:",
+    "options": [
+      "ACTH",
+      "TSH",
+      "FSH",
+      "ADH"
+    ],
+    "answer": "TSH",
+    "explanation": ""
+  },
+  {
+    "id": 55,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "A deficiency of ADH most directly causes:",
+    "options": [
+      "diabetes mellitus",
+      "diabetes insipidus",
+      "goitre",
+      "tetany"
+    ],
+    "answer": "diabetes insipidus",
+    "explanation": ""
+  },
+  {
+    "id": 56,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The partial pressure gradient driving O₂ diffusion from alveoli to blood exists because:",
+    "options": [
+      "alveolar pO₂ is higher than venous blood pO₂",
+      "blood pO₂ is higher",
+      "CO₂ is absent",
+      "haemoglobin blocks diffusion"
+    ],
+    "answer": "alveolar pO₂ is higher than venous blood pO₂",
+    "explanation": ""
+  },
+  {
+    "id": 57,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Most CO₂ is transported in blood as:",
+    "options": [
+      "dissolved CO₂",
+      "carbaminohaemoglobin",
+      "bicarbonate ions",
+      "carbonic acid only"
+    ],
+    "answer": "bicarbonate ions",
+    "explanation": ""
+  },
+  {
+    "id": 58,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "The Bohr effect refers to reduced haemoglobin affinity for O₂ at:",
+    "options": [
+      "low CO₂ and high pH",
+      "high CO₂ and low pH",
+      "low temperature only",
+      "high pH only"
+    ],
+    "answer": "high CO₂ and low pH",
+    "explanation": ""
+  },
+  {
+    "id": 59,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "If tidal volume is 500 mL and dead space is 150 mL, air reaching alveoli per normal breath is:",
+    "options": [
+      "150 mL",
+      "350 mL",
+      "500 mL",
+      "650 mL"
+    ],
+    "answer": "350 mL",
+    "explanation": ""
+  },
+  {
+    "id": 60,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Hard",
+    "difficulty": "hard",
+    "question": "Surfactant in alveoli primarily:",
+    "options": [
+      "increases surface tension",
+      "reduces surface tension",
+      "blocks O₂ diffusion",
+      "increases blood viscosity"
+    ],
+    "answer": "reduces surface tension",
+    "explanation": ""
+  },
+  {
+    "id": 61,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: The slope of a position-time graph gives instantaneous velocity. Reason: Velocity is the time derivative of position.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 62,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: At the highest point of projectile motion, acceleration is zero. Reason: Vertical velocity is zero at the highest point.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "A is false but R is true",
+    "explanation": ""
+  },
+  {
+    "id": 63,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: A body can have zero velocity and non-zero acceleration at an instant. Reason: Acceleration is the rate of change of velocity.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true but R is not the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 64,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: Two projectiles with the same speed have the same range for complementary angles. Reason: Range is proportional to sin 2θ.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 65,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: Average speed is always greater than or equal to magnitude of average velocity. Reason: Total distance is always greater than or equal to magnitude of displacement.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 66,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: Atomic radius generally decreases from left to right in a period. Reason: Effective nuclear charge generally increases across a period.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 67,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: NH₃ has a smaller bond angle than CH₄. Reason: The lone pair-bond pair repulsion is greater than bond pair-bond pair repulsion.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 68,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: [Ni(CN)₄]²⁻ is diamagnetic. Reason: CN⁻ is a strong-field ligand and pairs d-electrons in Ni²⁺.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 69,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: Lanthanide contraction makes Zr and Hf have similar atomic radii. Reason: 4f electrons shield nuclear charge poorly.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 70,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: O₂ is paramagnetic. Reason: It contains two unpaired electrons in antibonding molecular orbitals.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 71,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: The left ventricle has a thicker wall than the right ventricle. Reason: It pumps blood into systemic circulation at higher pressure.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 72,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: ADH increases water reabsorption in collecting ducts. Reason: ADH increases aquaporin insertion into the apical membrane.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 73,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: Myelin increases the speed of impulse conduction. Reason: Action potentials jump between nodes of Ranvier.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 74,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: Insulin lowers blood glucose concentration. Reason: Insulin promotes cellular uptake and storage of glucose.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R is the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 75,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Assertion-Reason",
+    "difficulty": "moderate",
+    "question": "Assertion: Most oxygen is transported bound to haemoglobin. Reason: Oxyhaemoglobin formation is favoured at high pO₂ in alveoli.",
+    "options": [
+      "Both A and R are true and R is the correct explanation of A",
+      "Both A and R are true but R is not the correct explanation of A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true but R is not the correct explanation of A",
+    "explanation": ""
+  },
+  {
+    "id": 76,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A projectile is fired from ground with speed 20 m/s at 30° to horizontal. Take g=10 m/s². Answer the following: The time of flight is:",
+    "options": [
+      "1 s",
+      "2 s",
+      "3 s",
+      "4 s"
+    ],
+    "answer": "2 s",
+    "explanation": ""
+  },
+  {
+    "id": 77,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A car starts from rest and accelerates uniformly at 4 m/s² for 5 s, then moves with constant velocity for 5 s. Its total distance is:",
+    "options": [
+      "50 m",
+      "75 m",
+      "100 m",
+      "125 m"
+    ],
+    "answer": "100 m",
+    "explanation": ""
+  },
+  {
+    "id": 78,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A boat moves at 4 m/s in still water and a river flows at 3 m/s. The boat is directed perpendicular to the river bank. Its speed relative to ground is:",
+    "options": [
+      "1 m/s",
+      "3 m/s",
+      "4 m/s",
+      "5 m/s"
+    ],
+    "answer": "5 m/s",
+    "explanation": ""
+  },
+  {
+    "id": 79,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A molecule has four electron domains around its central atom, one of which is a lone pair. Its molecular shape is:",
+    "options": [
+      "linear",
+      "trigonal planar",
+      "trigonal pyramidal",
+      "square planar"
+    ],
+    "answer": "trigonal pyramidal",
+    "explanation": ""
+  },
+  {
+    "id": 80,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A complex [Co(NH₃)₆]Cl₃ is dissolved in water. The number of ions produced per formula unit is:",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": "4",
+    "explanation": ""
+  },
+  {
+    "id": 81,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A student has blood group O. For safe RBC transfusion, the suitable donor group is:",
+    "options": [
+      "A only",
+      "B only",
+      "AB only",
+      "O only"
+    ],
+    "answer": "O only",
+    "explanation": ""
+  },
+  {
+    "id": 82,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A patient has excessive water loss and very dilute urine because of low ADH activity. The condition is:",
+    "options": [
+      "diabetes mellitus",
+      "diabetes insipidus",
+      "uremia",
+      "glomerulonephritis"
+    ],
+    "answer": "diabetes insipidus",
+    "explanation": ""
+  },
+  {
+    "id": 83,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "During vigorous exercise, CO₂ production rises and blood pH tends to fall. Haemoglobin releases more O₂ to tissues due to:",
+    "options": [
+      "Bohr effect",
+      "chloride shift only",
+      "Haldane effect only",
+      "reduced temperature"
+    ],
+    "answer": "Bohr effect",
+    "explanation": ""
+  },
+  {
+    "id": 84,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A reflex action is initiated by a sensory receptor and reaches the spinal cord before the response reaches an effector. The pathway is called:",
+    "options": [
+      "reflex arc",
+      "corpus callosum",
+      "nephron",
+      "sarcomere"
+    ],
+    "answer": "reflex arc",
+    "explanation": ""
+  },
+  {
+    "id": 85,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "Paragraph-based",
+    "difficulty": "moderate",
+    "question": "A person has high blood glucose and low insulin secretion. The pancreatic cells primarily affected are:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "delta cells",
+      "PP cells"
+    ],
+    "answer": "beta cells",
+    "explanation": ""
+  },
+  {
+    "id": 86,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,144.1 102.0,120.5 159.0,96.8 216.0,73.2 273.0,49.5 330.0,25.9\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">t</text><text x=\"8\" y=\"35\" font-size=\"12\">v</text></svg>The velocity-time graph above is a straight line. The acceleration is:",
+    "options": [
+      "0.5 m/s²",
+      "1 m/s²",
+      "2 m/s²",
+      "4 m/s²"
+    ],
+    "answer": "2 m/s²",
+    "explanation": ""
+  },
+  {
+    "id": 87,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,25.9 102.0,49.5 159.0,73.2 216.0,96.8 273.0,120.5 330.0,144.1\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">t</text><text x=\"8\" y=\"35\" font-size=\"12\">v</text></svg>For the velocity-time graph above, the distance travelled in 10 s is:",
+    "options": [
+      "50 m",
+      "100 m",
+      "150 m",
+      "200 m"
+    ],
+    "answer": "100 m",
+    "explanation": ""
+  },
+  {
+    "id": 88,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,131.9 102.0,63.3 159.0,38.1 216.0,56.1 273.0,95.8 330.0,131.9\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">x</text><text x=\"8\" y=\"35\" font-size=\"12\">y</text></svg>The graph represents the vertical displacement of a projectile against horizontal displacement. The maximum height occurs closest to:",
+    "options": [
+      "x=2",
+      "x=4",
+      "x=5",
+      "x=8"
+    ],
+    "answer": "x=4",
+    "explanation": ""
+  },
+  {
+    "id": 89,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,133.8 102.0,101.2 159.0,101.2 216.0,36.2 273.0,36.2 330.0,36.2\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">t</text><text x=\"8\" y=\"35\" font-size=\"12\">x</text></svg>From the position-time graph, during which interval is the particle at rest?",
+    "options": [
+      "0–2 s",
+      "2–4 s",
+      "4–6 s",
+      "6–10 s"
+    ],
+    "answer": "2–4 s",
+    "explanation": ""
+  },
+  {
+    "id": 90,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,144.1 102.0,120.5 159.0,96.8 216.0,73.2 273.0,49.5 330.0,25.9\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">t</text><text x=\"8\" y=\"35\" font-size=\"12\">x</text></svg>The slope of the graph gives:",
+    "options": [
+      "acceleration",
+      "velocity",
+      "force",
+      "displacement"
+    ],
+    "answer": "velocity",
+    "explanation": ""
+  },
+  {
+    "id": 91,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,135.6 102.0,106.7 159.0,77.8 216.0,63.3 273.0,48.9 330.0,34.4\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">atomic number</text><text x=\"8\" y=\"35\" font-size=\"12\">IE</text></svg>The graph shows a general periodic trend. The y-axis most likely represents:",
+    "options": [
+      "atomic radius",
+      "first ionisation enthalpy",
+      "atomic mass",
+      "density"
+    ],
+    "answer": "first ionisation enthalpy",
+    "explanation": ""
+  },
+  {
+    "id": 92,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,76.5 102.0,82.2 159.0,87.8 216.0,90.7 273.0,92.3 330.0,93.5\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">Z</text><text x=\"8\" y=\"35\" font-size=\"12\">radius</text></svg>The gradual decrease shown across the lanthanide series is called:",
+    "options": [
+      "inert pair effect",
+      "lanthanide contraction",
+      "shielding enhancement",
+      "diagonal relationship"
+    ],
+    "answer": "lanthanide contraction",
+    "explanation": ""
+  },
+  {
+    "id": 93,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,25.9 102.0,49.5 159.0,73.2 216.0,96.8 273.0,120.5 330.0,144.1\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">pO₂</text><text x=\"8\" y=\"35\" font-size=\"12\">Hb saturation</text></svg>The graph shows a fall in haemoglobin saturation with decreasing pO₂. This property helps:",
+    "options": [
+      "oxygen unloading in tissues",
+      "oxygen loading in lungs only",
+      "CO₂ production",
+      "ATP hydrolysis"
+    ],
+    "answer": "oxygen unloading in tissues",
+    "explanation": ""
+  },
+  {
+    "id": 94,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,142.4 102.0,127.1 159.0,104.1 216.0,81.2 273.0,50.6 330.0,27.6\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">time</text><text x=\"8\" y=\"35\" font-size=\"12\">heart rate</text></svg>The plotted variable increases during exercise. It is most likely:",
+    "options": [
+      "heart rate",
+      "blood pH",
+      "RBC count per minute",
+      "blood glucose only"
+    ],
+    "answer": "heart rate",
+    "explanation": ""
+  },
+  {
+    "id": 95,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "Graph-based",
+    "difficulty": "moderate",
+    "question": "<svg width=\"360\" height=\"190\" viewBox=\"0 0 360 190\" xmlns=\"http://www.w3.org/2000/svg\" style=\"display:block;margin:8px 0;background:#fff;border:1px solid #ddd;border-radius:8px\"><line x1=\"45\" y1=\"150\" x2=\"330\" y2=\"150\" stroke=\"#222\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"150\" stroke=\"#222\"/><polyline points=\"45.0,149.9 102.0,128.2 159.0,106.6 216.0,77.8 273.0,49.0 330.0,20.1\" fill=\"none\" stroke=\"#4f46e5\" stroke-width=\"3\"/><text x=\"320\" y=\"175\" font-size=\"12\">medullary depth</text><text x=\"8\" y=\"35\" font-size=\"12\">osmolarity</text></svg>The increasing osmolarity toward the medulla is essential for:",
+    "options": [
+      "urine concentration",
+      "protein digestion",
+      "RBC formation",
+      "bile secretion"
+    ],
+    "answer": "urine concentration",
+    "explanation": ""
+  },
+  {
+    "id": 96,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A body moving with constant velocity has acceleration:",
+    "options": [
+      "zero",
+      "constant non-zero",
+      "increasing",
+      "decreasing"
+    ],
+    "answer": "zero",
+    "explanation": ""
+  },
+  {
+    "id": 97,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The area under a velocity-time graph represents:",
+    "options": [
+      "acceleration",
+      "displacement",
+      "jerk",
+      "force"
+    ],
+    "answer": "displacement",
+    "explanation": ""
+  },
+  {
+    "id": 98,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A body starts from rest with acceleration 2 m/s². Its velocity after 5 s is:",
+    "options": [
+      "5 m/s",
+      "10 m/s",
+      "15 m/s",
+      "20 m/s"
+    ],
+    "answer": "10 m/s",
+    "explanation": ""
+  },
+  {
+    "id": 99,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "If velocity is doubled, kinetic description of motion changes, but acceleration for uniform motion remains:",
+    "options": [
+      "doubled",
+      "halved",
+      "zero",
+      "quadrupled"
+    ],
+    "answer": "zero",
+    "explanation": ""
+  },
+  {
+    "id": 100,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A freely falling body near Earth has acceleration approximately:",
+    "options": [
+      "0",
+      "9.8 m/s² downward",
+      "9.8 m/s² upward",
+      "98 m/s²"
+    ],
+    "answer": "9.8 m/s² downward",
+    "explanation": ""
+  },
+  {
+    "id": 101,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "For uniformly accelerated motion, v²−u² equals:",
+    "options": [
+      "at",
+      "2as",
+      "as",
+      "a/s"
+    ],
+    "answer": "2as",
+    "explanation": ""
+  },
+  {
+    "id": 102,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A car covers 30 m in first 2 s and 70 m in next 2 s with uniform acceleration. Its acceleration is:",
+    "options": [
+      "5 m/s²",
+      "10 m/s²",
+      "15 m/s²",
+      "20 m/s²"
+    ],
+    "answer": "10 m/s²",
+    "explanation": ""
+  },
+  {
+    "id": 103,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "If x=5t+2, the velocity is:",
+    "options": [
+      "2 m/s",
+      "5 m/s",
+      "7 m/s",
+      "10 m/s"
+    ],
+    "answer": "5 m/s",
+    "explanation": ""
+  },
+  {
+    "id": 104,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The slope of an acceleration-time graph gives:",
+    "options": [
+      "velocity",
+      "displacement",
+      "jerk",
+      "momentum"
+    ],
+    "answer": "jerk",
+    "explanation": ""
+  },
+  {
+    "id": 105,
+    "subject": "Physics",
+    "chapter": "1D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A negative velocity means the particle:",
+    "options": [
+      "must be slowing down",
+      "moves in negative coordinate direction",
+      "has negative acceleration",
+      "is at rest"
+    ],
+    "answer": "moves in negative coordinate direction",
+    "explanation": ""
+  },
+  {
+    "id": 106,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "For maximum horizontal range on level ground, angle of projection is:",
+    "options": [
+      "30°",
+      "45°",
+      "60°",
+      "90°"
+    ],
+    "answer": "45°",
+    "explanation": ""
+  },
+  {
+    "id": 107,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "At the highest point of projectile motion, vertical velocity is:",
+    "options": [
+      "maximum",
+      "zero",
+      "equal to u",
+      "negative maximum"
+    ],
+    "answer": "zero",
+    "explanation": ""
+  },
+  {
+    "id": 108,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The horizontal component of velocity of a projectile neglecting air resistance is:",
+    "options": [
+      "zero",
+      "constant",
+      "increasing",
+      "decreasing"
+    ],
+    "answer": "constant",
+    "explanation": ""
+  },
+  {
+    "id": 109,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Range of a projectile on level ground is proportional to:",
+    "options": [
+      "u",
+      "u²",
+      "1/u",
+      "√u"
+    ],
+    "answer": "u²",
+    "explanation": ""
+  },
+  {
+    "id": 110,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A projectile has maximum height H and range R. For θ=45°, relation is:",
+    "options": [
+      "R=H",
+      "R=2H",
+      "R=4H",
+      "H=2R"
+    ],
+    "answer": "R=4H",
+    "explanation": ""
+  },
+  {
+    "id": 111,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A vector of magnitude 5 has components 3 and 4 along perpendicular axes. Its magnitude is:",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "7"
+    ],
+    "answer": "5",
+    "explanation": ""
+  },
+  {
+    "id": 112,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Two vectors of magnitudes 3 and 4 are perpendicular. Resultant magnitude is:",
+    "options": [
+      "1",
+      "5",
+      "7",
+      "12"
+    ],
+    "answer": "5",
+    "explanation": ""
+  },
+  {
+    "id": 113,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Relative velocity of A with respect to B is:",
+    "options": [
+      "vA+vB",
+      "vA−vB",
+      "vB−vA only",
+      "vA/vB"
+    ],
+    "answer": "vA−vB",
+    "explanation": ""
+  },
+  {
+    "id": 114,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A projectile at the same height on ascent and descent has:",
+    "options": [
+      "same speed magnitude",
+      "different speed magnitude",
+      "zero speed on descent",
+      "zero acceleration on ascent"
+    ],
+    "answer": "same speed magnitude",
+    "explanation": ""
+  },
+  {
+    "id": 115,
+    "subject": "Physics",
+    "chapter": "2D Kinematics",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "For a projectile, time of flight depends on:",
+    "options": [
+      "u cosθ",
+      "u sinθ",
+      "u² cosθ",
+      "range only"
+    ],
+    "answer": "u sinθ",
+    "explanation": ""
+  },
+  {
+    "id": 116,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The most electronegative element is:",
+    "options": [
+      "O",
+      "F",
+      "Cl",
+      "N"
+    ],
+    "answer": "F",
+    "explanation": ""
+  },
+  {
+    "id": 117,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Atomic size generally increases down a group because:",
+    "options": [
+      "nuclear charge disappears",
+      "new shells are added",
+      "electrons are removed",
+      "effective charge becomes zero"
+    ],
+    "answer": "new shells are added",
+    "explanation": ""
+  },
+  {
+    "id": 118,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Which has the highest second ionisation enthalpy among Li, Be, B and C?",
+    "options": [
+      "Li",
+      "Be",
+      "B",
+      "C"
+    ],
+    "answer": "Li",
+    "explanation": ""
+  },
+  {
+    "id": 119,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The element with configuration [Ne]3s²3p⁵ belongs to:",
+    "options": [
+      "group 15",
+      "group 16",
+      "group 17",
+      "group 18"
+    ],
+    "answer": "group 17",
+    "explanation": ""
+  },
+  {
+    "id": 120,
+    "subject": "Chemistry",
+    "chapter": "Periodic Table",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Across a period, metallic character generally:",
+    "options": [
+      "increases",
+      "decreases",
+      "remains constant",
+      "first decreases then increases only"
+    ],
+    "answer": "decreases",
+    "explanation": ""
+  },
+  {
+    "id": 121,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The shape of BF₃ is:",
+    "options": [
+      "linear",
+      "trigonal planar",
+      "tetrahedral",
+      "bent"
+    ],
+    "answer": "trigonal planar",
+    "explanation": ""
+  },
+  {
+    "id": 122,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The bond in NaCl is predominantly:",
+    "options": [
+      "covalent",
+      "ionic",
+      "metallic",
+      "hydrogen"
+    ],
+    "answer": "ionic",
+    "explanation": ""
+  },
+  {
+    "id": 123,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Which molecule is bent?",
+    "options": [
+      "CO₂",
+      "BF₃",
+      "H₂O",
+      "BeCl₂"
+    ],
+    "answer": "H₂O",
+    "explanation": ""
+  },
+  {
+    "id": 124,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Bond order of N₂ is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "3",
+    "explanation": ""
+  },
+  {
+    "id": 125,
+    "subject": "Chemistry",
+    "chapter": "Chemical Bonding",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Which has a coordinate bond in its commonly discussed structure?",
+    "options": [
+      "NH₄⁺",
+      "CH₄",
+      "Cl₂",
+      "H₂"
+    ],
+    "answer": "NH₄⁺",
+    "explanation": ""
+  },
+  {
+    "id": 126,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A ligand donating through two donor atoms is called:",
+    "options": [
+      "monodentate",
+      "bidentate",
+      "ambidentate",
+      "neutral only"
+    ],
+    "answer": "bidentate",
+    "explanation": ""
+  },
+  {
+    "id": 127,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The coordination number of [Ag(NH₃)₂]⁺ is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "explanation": ""
+  },
+  {
+    "id": 128,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "EDTA is generally a:",
+    "options": [
+      "monodentate ligand",
+      "bidentate ligand",
+      "hexadentate ligand",
+      "non-coordinating ion"
+    ],
+    "answer": "hexadentate ligand",
+    "explanation": ""
+  },
+  {
+    "id": 129,
+    "subject": "Chemistry",
+    "chapter": "Coordination Compounds",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The IUPAC name of [Cu(NH₃)₄]²⁺ contains the metal name:",
+    "options": [
+      "cuprous",
+      "cupric",
+      "copperate",
+      "cuprate"
+    ],
+    "answer": "cupric",
+    "explanation": ""
+  },
+  {
+    "id": 130,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Transition elements are characterised by partially filled:",
+    "options": [
+      "s orbitals only",
+      "d orbitals in atom or common ions",
+      "p orbitals only",
+      "f orbitals only"
+    ],
+    "answer": "d orbitals in atom or common ions",
+    "explanation": ""
+  },
+  {
+    "id": 131,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Which ion is generally colourless?",
+    "options": [
+      "Cu²⁺",
+      "Zn²⁺",
+      "Fe³⁺",
+      "Mn²⁺"
+    ],
+    "answer": "Zn²⁺",
+    "explanation": ""
+  },
+  {
+    "id": 132,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The oxidation state of Mn in KMnO₄ is:",
+    "options": [
+      "+2",
+      "+4",
+      "+6",
+      "+7"
+    ],
+    "answer": "+7",
+    "explanation": ""
+  },
+  {
+    "id": 133,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Which lanthanide commonly shows +4 oxidation state?",
+    "options": [
+      "Ce",
+      "La",
+      "Gd",
+      "Lu"
+    ],
+    "answer": "Ce",
+    "explanation": ""
+  },
+  {
+    "id": 134,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The general electronic configuration of lanthanides involves filling of:",
+    "options": [
+      "3d",
+      "4f",
+      "5d only",
+      "6p"
+    ],
+    "answer": "4f",
+    "explanation": ""
+  },
+  {
+    "id": 135,
+    "subject": "Chemistry",
+    "chapter": "D & F Block",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Potassium permanganate is commonly used as a:",
+    "options": [
+      "strong oxidising agent",
+      "reducing agent only",
+      "complexing agent only",
+      "dehydrating agent only"
+    ],
+    "answer": "strong oxidising agent",
+    "explanation": ""
+  },
+  {
+    "id": 136,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The functional unit of kidney is:",
+    "options": [
+      "neuron",
+      "nephron",
+      "alveolus",
+      "sarcomere"
+    ],
+    "answer": "nephron",
+    "explanation": ""
+  },
+  {
+    "id": 137,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Ultrafiltration occurs mainly in:",
+    "options": [
+      "PCT",
+      "glomerulus",
+      "loop of Henle",
+      "collecting duct"
+    ],
+    "answer": "glomerulus",
+    "explanation": ""
+  },
+  {
+    "id": 138,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Maximum reabsorption of filtrate occurs in:",
+    "options": [
+      "PCT",
+      "DCT",
+      "collecting duct",
+      "Bowman capsule"
+    ],
+    "answer": "PCT",
+    "explanation": ""
+  },
+  {
+    "id": 139,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Urea is synthesised mainly in:",
+    "options": [
+      "kidney",
+      "liver",
+      "spleen",
+      "pancreas"
+    ],
+    "answer": "liver",
+    "explanation": ""
+  },
+  {
+    "id": 140,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The hormone that promotes sodium reabsorption in distal nephron is:",
+    "options": [
+      "insulin",
+      "aldosterone",
+      "melatonin",
+      "thyroxine"
+    ],
+    "answer": "aldosterone",
+    "explanation": ""
+  },
+  {
+    "id": 141,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Normal human urine is usually:",
+    "options": [
+      "strongly alkaline",
+      "slightly acidic",
+      "neutral only",
+      "always pH 7"
+    ],
+    "answer": "slightly acidic",
+    "explanation": ""
+  },
+  {
+    "id": 142,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The counter-current mechanism involves primarily:",
+    "options": [
+      "PCT and DCT",
+      "loop of Henle and vasa recta",
+      "glomerulus and ureter",
+      "renal artery only"
+    ],
+    "answer": "loop of Henle and vasa recta",
+    "explanation": ""
+  },
+  {
+    "id": 143,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Atrial natriuretic factor tends to:",
+    "options": [
+      "increase blood pressure",
+      "promote sodium excretion",
+      "increase renin",
+      "increase aldosterone"
+    ],
+    "answer": "promote sodium excretion",
+    "explanation": ""
+  },
+  {
+    "id": 144,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The liquid part of blood is:",
+    "options": [
+      "serum only",
+      "plasma",
+      "lymphocyte",
+      "platelet"
+    ],
+    "answer": "plasma",
+    "explanation": ""
+  },
+  {
+    "id": 145,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "RBCs in adults are produced mainly in:",
+    "options": [
+      "red bone marrow",
+      "liver only",
+      "kidney only",
+      "thymus"
+    ],
+    "answer": "red bone marrow",
+    "explanation": ""
+  },
+  {
+    "id": 146,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The respiratory pigment in human RBCs is:",
+    "options": [
+      "chlorophyll",
+      "haemoglobin",
+      "myoglobin",
+      "hemocyanin"
+    ],
+    "answer": "haemoglobin",
+    "explanation": ""
+  },
+  {
+    "id": 147,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The valve between left atrium and left ventricle is:",
+    "options": [
+      "tricuspid",
+      "bicuspid/mitral",
+      "semilunar",
+      "pulmonary"
+    ],
+    "answer": "bicuspid/mitral",
+    "explanation": ""
+  },
+  {
+    "id": 148,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The pacemaker of the human heart is:",
+    "options": [
+      "AV node",
+      "SA node",
+      "bundle of His",
+      "Purkinje fibres"
+    ],
+    "answer": "SA node",
+    "explanation": ""
+  },
+  {
+    "id": 149,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Pulmonary artery carries:",
+    "options": [
+      "oxygenated blood to lungs",
+      "deoxygenated blood to lungs",
+      "oxygenated blood to body",
+      "deoxygenated blood from body to heart only"
+    ],
+    "answer": "deoxygenated blood to lungs",
+    "explanation": ""
+  },
+  {
+    "id": 150,
+    "subject": "Biology",
+    "chapter": "Body Fluids & Circulation",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Platelets are mainly involved in:",
+    "options": [
+      "oxygen transport",
+      "blood clotting",
+      "antibody production",
+      "digestion"
+    ],
+    "answer": "blood clotting",
+    "explanation": ""
+  },
+  {
+    "id": 151,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The contractile proteins in skeletal muscle are:",
+    "options": [
+      "actin and myosin",
+      "collagen and elastin",
+      "keratin and tubulin",
+      "DNA and RNA"
+    ],
+    "answer": "actin and myosin",
+    "explanation": ""
+  },
+  {
+    "id": 152,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The functional unit of skeletal muscle is:",
+    "options": [
+      "nephron",
+      "sarcomere",
+      "neuron",
+      "alveolus"
+    ],
+    "answer": "sarcomere",
+    "explanation": ""
+  },
+  {
+    "id": 153,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The calcium-binding protein in skeletal muscle is:",
+    "options": [
+      "troponin",
+      "haemoglobin",
+      "collagen",
+      "myosin head"
+    ],
+    "answer": "troponin",
+    "explanation": ""
+  },
+  {
+    "id": 154,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Osteoporosis is characterised by:",
+    "options": [
+      "increased bone density",
+      "reduced bone mass/density",
+      "excess RBCs",
+      "joint infection only"
+    ],
+    "answer": "reduced bone mass/density",
+    "explanation": ""
+  },
+  {
+    "id": 155,
+    "subject": "Biology",
+    "chapter": "Locomotion & Movement",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Gout is associated with deposition of:",
+    "options": [
+      "calcium carbonate",
+      "uric acid crystals",
+      "glucose crystals",
+      "cholesterol only"
+    ],
+    "answer": "uric acid crystals",
+    "explanation": ""
+  },
+  {
+    "id": 156,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The structural and functional unit of nervous system is:",
+    "options": [
+      "nephron",
+      "neuron",
+      "sarcomere",
+      "osteon"
+    ],
+    "answer": "neuron",
+    "explanation": ""
+  },
+  {
+    "id": 157,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The junction between two neurons is:",
+    "options": [
+      "synapse",
+      "sarcomere",
+      "glomerulus",
+      "alveolus"
+    ],
+    "answer": "synapse",
+    "explanation": ""
+  },
+  {
+    "id": 158,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The cerebellum is important for:",
+    "options": [
+      "balance and coordination",
+      "urine formation",
+      "hormone synthesis",
+      "gas exchange"
+    ],
+    "answer": "balance and coordination",
+    "explanation": ""
+  },
+  {
+    "id": 159,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The medulla controls important:",
+    "options": [
+      "voluntary skeletal movements only",
+      "cardiac and respiratory activities",
+      "vision only",
+      "memory only"
+    ],
+    "answer": "cardiac and respiratory activities",
+    "explanation": ""
+  },
+  {
+    "id": 160,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Photoreceptors in retina are:",
+    "options": [
+      "rods and cones",
+      "nephrons and loops",
+      "osteocytes and chondrocytes",
+      "platelets and lymphocytes"
+    ],
+    "answer": "rods and cones",
+    "explanation": ""
+  },
+  {
+    "id": 161,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The blind spot lacks:",
+    "options": [
+      "blood vessels",
+      "photoreceptors",
+      "neurons",
+      "aqueous humour"
+    ],
+    "answer": "photoreceptors",
+    "explanation": ""
+  },
+  {
+    "id": 162,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "A reflex action is usually:",
+    "options": [
+      "slow and conscious",
+      "rapid and involuntary",
+      "hormonal only",
+      "always voluntary"
+    ],
+    "answer": "rapid and involuntary",
+    "explanation": ""
+  },
+  {
+    "id": 163,
+    "subject": "Biology",
+    "chapter": "Neural Control & Coordination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The neurotransmitter commonly released at a neuromuscular junction is:",
+    "options": [
+      "acetylcholine",
+      "insulin",
+      "thyroxine",
+      "ADH"
+    ],
+    "answer": "acetylcholine",
+    "explanation": ""
+  },
+  {
+    "id": 164,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The master endocrine gland is commonly called:",
+    "options": [
+      "thyroid",
+      "pituitary",
+      "adrenal",
+      "pancreas"
+    ],
+    "answer": "pituitary",
+    "explanation": ""
+  },
+  {
+    "id": 165,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Thyroxine synthesis requires:",
+    "options": [
+      "iron only",
+      "iodine",
+      "calcium only",
+      "sodium only"
+    ],
+    "answer": "iodine",
+    "explanation": ""
+  },
+  {
+    "id": 166,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Insulin is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "acinar cells",
+      "Sertoli cells"
+    ],
+    "answer": "beta cells",
+    "explanation": ""
+  },
+  {
+    "id": 167,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Glucagon is secreted by:",
+    "options": [
+      "alpha cells",
+      "beta cells",
+      "thyroid cells",
+      "adrenal medulla"
+    ],
+    "answer": "alpha cells",
+    "explanation": ""
+  },
+  {
+    "id": 168,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The hormone responsible for milk ejection is:",
+    "options": [
+      "prolactin",
+      "oxytocin",
+      "FSH",
+      "TSH"
+    ],
+    "answer": "oxytocin",
+    "explanation": ""
+  },
+  {
+    "id": 169,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Melatonin is secreted by:",
+    "options": [
+      "pineal gland",
+      "pituitary",
+      "thyroid",
+      "pancreas"
+    ],
+    "answer": "pineal gland",
+    "explanation": ""
+  },
+  {
+    "id": 170,
+    "subject": "Biology",
+    "chapter": "Chemical Coordination & Integration",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Adrenaline is also called:",
+    "options": [
+      "epinephrine",
+      "insulin",
+      "cortisol",
+      "calcitonin"
+    ],
+    "answer": "epinephrine",
+    "explanation": ""
+  },
+  {
+    "id": 171,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The primary site of gas exchange in lungs is:",
+    "options": [
+      "trachea",
+      "alveoli",
+      "bronchi",
+      "larynx"
+    ],
+    "answer": "alveoli",
+    "explanation": ""
+  },
+  {
+    "id": 172,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Normal inspiration is mainly caused by:",
+    "options": [
+      "relaxation of diaphragm only",
+      "contraction of diaphragm and external intercostals",
+      "contraction of abdominal muscles only",
+      "closure of glottis"
+    ],
+    "answer": "contraction of diaphragm and external intercostals",
+    "explanation": ""
+  },
+  {
+    "id": 173,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "During inspiration, thoracic volume:",
+    "options": [
+      "decreases",
+      "increases",
+      "remains zero",
+      "becomes constant only"
+    ],
+    "answer": "increases",
+    "explanation": ""
+  },
+  {
+    "id": 174,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The respiratory rhythm centre is primarily located in:",
+    "options": [
+      "medulla",
+      "cerebellum",
+      "hypothalamus",
+      "spinal cord only"
+    ],
+    "answer": "medulla",
+    "explanation": ""
+  },
+  {
+    "id": 175,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Carbon dioxide is more soluble in blood than oxygen. Hence CO₂ is transported efficiently mainly as:",
+    "options": [
+      "bicarbonate",
+      "free gas only",
+      "oxyhaemoglobin",
+      "nitrogen"
+    ],
+    "answer": "bicarbonate",
+    "explanation": ""
+  },
+  {
+    "id": 176,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Vital capacity equals:",
+    "options": [
+      "TV+IRV+ERV",
+      "TV+RV",
+      "RV+ERV",
+      "IRV+RV"
+    ],
+    "answer": "TV+IRV+ERV",
+    "explanation": ""
+  },
+  {
+    "id": 177,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Emphysema primarily reduces respiratory efficiency by:",
+    "options": [
+      "increasing alveolar surface area",
+      "damaging alveolar walls",
+      "increasing RBC count",
+      "increasing surfactant secretion"
+    ],
+    "answer": "damaging alveolar walls",
+    "explanation": ""
+  },
+  {
+    "id": 178,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "Asthma is associated with:",
+    "options": [
+      "airway inflammation and narrowing",
+      "bone loss",
+      "kidney failure",
+      "RBC destruction"
+    ],
+    "answer": "airway inflammation and narrowing",
+    "explanation": ""
+  },
+  {
+    "id": 179,
+    "subject": "Biology",
+    "chapter": "Breathing & Exchange of Gases",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The Haldane effect concerns:",
+    "options": [
+      "CO₂ transport influenced by oxygenation of haemoglobin",
+      "bone formation",
+      "urine concentration",
+      "muscle contraction"
+    ],
+    "answer": "CO₂ transport influenced by oxygenation of haemoglobin",
+    "explanation": ""
+  },
+  {
+    "id": 180,
+    "subject": "Biology",
+    "chapter": "Excretory Products & Elimination",
+    "type": "PYQ-style / adapted",
+    "difficulty": "moderate",
+    "question": "The main nitrogenous waste excreted by adult humans is:",
+    "options": [
+      "ammonia",
+      "urea",
+      "uric acid",
+      "creatinine"
+    ],
+    "answer": "urea",
+    "explanation": ""
+  }
+]
