@@ -42,6 +42,13 @@ if (captchaInput !== captchaCode) {
     document.getElementById("captchaInput").value = "";
     return;
 }
+    const configResponse = await fetch("config.json");
+const config = await configResponse.json();
+
+if (config.showResult === false) {
+    alert("🔒 Result has not been published yet.");
+    return;
+}
       document.getElementById("loading").style.display = "block";
 await new Promise(resolve => setTimeout(resolve, 2000));
     
