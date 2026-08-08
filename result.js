@@ -140,10 +140,39 @@ questionData.forEach((q, i) => {
 document.getElementById("analysis").innerHTML = html;
     document.getElementById("loading").style.display = "none";
     document.getElementById("result").innerHTML = `
-        <h2>${data.name}</h2>
-        <p><b>Score:</b> ${data.score}</p>
-        <p><b>Attempted:</b> ${data.attempted}</p>
-        <p><b>Correct:</b> ${data.correct}</p>
-        <p><b>Wrong:</b> ${data.wrong}</p>
+    document.getElementById("result").innerHTML = `
+    <div class="score-card">
+
+        <div class="candidate-name">
+            ${data.name}
+        </div>
+
+        <div class="score-label">SCORE</div>
+
+        <div class="main-score">
+            ${data.score}
+        </div>
+
+        <div class="result-stats">
+
+            <div class="stat-box">
+                <strong>${data.attempted}</strong>
+                <span>Attempted</span>
+            </div>
+
+            <div class="stat-box correct">
+                <strong>${data.correct}</strong>
+                <span>Correct</span>
+            </div>
+
+            <div class="stat-box wrong">
+                <strong>${data.wrong}</strong>
+                <span>Wrong</span>
+            </div>
+
+        </div>
+
+    </div>
+`;
     `;
 }
