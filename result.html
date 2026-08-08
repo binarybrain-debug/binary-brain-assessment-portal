@@ -25,7 +25,11 @@ placeholder="Enter Your Name">
 type="password"
 id="resultPassword"
 placeholder="Enter DOB">
-
+<div id="captchaBox">
+    <b id="captchaText"></b>
+    <button type="button" onclick="generateCaptcha()">↻</button>
+    <input type="text" id="captchaInput" placeholder="Enter CAPTCHA">
+</div>
 <button onclick="checkResult()">
 📊 Check Result
 </button>
