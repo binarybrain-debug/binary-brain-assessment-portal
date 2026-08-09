@@ -114,7 +114,51 @@ placeholder="Enter Test Code">
 
 </div>
     </div>
+<!-- SUBMIT CONFIRMATION POPUP -->
 
+<div id="submitPopup" class="submit-popup-overlay" style="display:none;">
+
+    <div class="submit-popup">
+
+        <div class="submit-popup-icon">
+            ⚠️
+        </div>
+
+        <h2>Submit Test?</h2>
+
+        <p>
+            Are you sure you want to submit your examination?
+        </p>
+
+        <div class="submit-summary">
+
+            <div class="summary-box">
+                <strong id="popupAttempted">0</strong>
+                <span>Attempted</span>
+            </div>
+
+            <div class="summary-box">
+                <strong id="popupUnattempted">0</strong>
+                <span>Unattempted</span>
+            </div>
+
+        </div>
+
+        <div class="submit-popup-buttons">
+
+            <button id="cancelSubmit">
+                Cancel
+            </button>
+
+            <button id="confirmSubmit">
+                Submit Test
+            </button>
+
+        </div>
+
+    </div>
+
+</div>
     <!-- RESULT PAGE -->
 
     <div id="thankYouPage" style="display:none;">
