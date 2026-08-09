@@ -1,9 +1,74 @@
 // Login System
 let config = {};
 
-fetch("config.json")
+fetch("config.json?version=2", {
+    cache: "no-store"
+})
 .then(res => res.json())
 .then(data => {
+
+    config = data;
+
+    const closedPage = document.getElementById("siteClosedPage");
+    const container = document.querySelector(".container");
+
+    if (config.siteOpen === false) {
+
+        closedPage.style.display = "flex";
+        container.style.display = "none";
+
+        document.getElementById("closedTitle").innerText =
+            "EXAMINATION WINDOW NOT YET OPEN";
+
+        document.getElementById("closedMessage").innerText =
+            "The examination window is currently closed.";
+
+        document.getElementById("closedInstruction").innerText =
+            "Please wait for the official opening of the examination.";
+
+        const waitMessage =
+            document.getElementById("waitMessage");
+
+        const text = "PLEASE WAIT...";
+        let i = 0;
+
+        function typeWaitMessage() {
+
+            if (i < text.length) {
+                waitMessage.innerText += text.charAt(i);
+                i++;
+
+                setTimeout(typeWaitMessage, 100);
+
+            } else {
+
+                setTimeout(() => {
+                    waitMessage.innerText = "";
+                    i = 0;
+                    typeWaitMessage();
+                }, 1200);
+            }
+        }
+
+        typeWaitMessage();
+
+        return;
+    }
+
+    // =========================
+    // SITE OPEN
+    // =========================
+
+    closedPage.style.display = "none";
+    container.style.display = "block";
+
+    document.getElementById("testTitle").innerText =
+        config.tests.SET1.name;
+
+})
+.catch(error => {
+    console.error("Config error:", error);
+});
 
     config = data;
 
