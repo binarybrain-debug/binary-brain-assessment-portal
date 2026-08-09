@@ -176,66 +176,173 @@ document.getElementById("clearBtn").addEventListener("click", () => {
     updatePalette();
 updateProgress();
 });
-// Submit Test
+// ===============================
+// PROFESSIONAL SUBMIT SYSTEM
+// ===============================
 
-document.getElementById("submitBtn").addEventListener("click", () => {
+const submitBtn = document.getElementById("submitBtn");
+const submitPopup = document.getElementById("submitPopup");
+const cancelSubmit = document.getElementById("cancelSubmit");
+const confirmSubmit = document.getElementById("confirmSubmit");
+
+// Open confirmation popup
+submitBtn.addEventListener("click", () => {
+
+    saveAnswer();
+
+    if (submitPopup) {
+        submitPopup.style.display = "flex";
+    }
+
+});
+
+// Cancel submission
+if (cancelSubmit) {
+
+    cancelSubmit.addEventListener("click", () => {
+
+        submitPopup.style.display = "none";
+
+    });
+
+}
+
+
+// Final submission
+if (confirmSubmit) {
+
+    confirmSubmit.addEventListener("click", () => {
+
+        submitPopup.style.display = "none";
+
+        submitTest();
+
+    });
+
+}
+
+
+// ===============================
+// ACTUAL TEST SUBMISSION
+// ===============================
+
+function submitTest() {
 
     saveAnswer();
 
     let score = 0;
 
+    // Calculate score
     window.questions.forEach((q, index) => {
 
         if (window.answers[index] === q.answer) {
+
             score += 4;
-        }
-        else if (window.answers[index] !== undefined) {
+
+        } else if (
+            window.answers[index] !== undefined
+        ) {
+
             score -= 1;
+
         }
 
     });
 
+
     localStorage.setItem("finalScore", score);
-let attempted = 0;
 
-window.answers.forEach(ans => {
-    if (ans !== undefined) {
-        attempted++;
-    }
-});
-let correct = 0;
-let wrong = 0;
 
-window.questions.forEach((q, index) => {
-    if (window.answers[index] === q.answer) {
-        correct++;
-    } else if (window.answers[index] !== undefined) {
-        wrong++;
-    }
-});
+    // Attempted
+    let attempted = 0;
 
-fetch("https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulBGxx18MXSMdlHQKN-pHcCrCCC3TrZRCyZc/exec", {
-    method: "POST",
-  body: JSON.stringify({
-    name: localStorage.getItem("studentName"),
-     dob: localStorage.getItem("studentDob"),
-    score: score,
-    attempted: attempted,
-    correct: correct,
-    wrong: wrong,
-    answers: window.answers,
-    questionFile: localStorage.getItem("questionFile")
-})
-});
-document.getElementById("resultName").innerText =
-    "Candidate : " + localStorage.getItem("studentName");
+    window.answers.forEach(ans => {
 
-document.getElementById("attemptedCount").innerText =
-    "Attempted Questions : " + attempted + " / " + window.questions.length;
-    document.getElementById("examPage").style.display = "none";
-    document.getElementById("thankYouPage").style.display = "block";
+        if (ans !== undefined) {
 
-});
+            attempted++;
+
+        }
+
+    });
+
+
+    // Correct & Wrong
+    let correct = 0;
+    let wrong = 0;
+
+    window.questions.forEach((q, index) => {
+
+        if (window.answers[index] === q.answer) {
+
+            correct++;
+
+        } else if (
+            window.answers[index] !== undefined
+        ) {
+
+            wrong++;
+
+        }
+
+    });
+
+
+    // Stop timer
+    clearInterval(timerInterval);
+
+
+    // Send result to Google Sheets
+    fetch(
+        "https://script.google.com/macros/s/AKfycbxYT7gDEzvxeCnlA_5vfWxzdosjC32ulBGxx18MXSMdlHQKN-pHcCrCCC3TrZRCyZc/exec",
+        {
+            method: "POST",
+
+            body: JSON.stringify({
+
+                name: localStorage.getItem("studentName"),
+
+                dob: localStorage.getItem("studentDob"),
+
+                score: score,
+
+                attempted: attempted,
+
+                correct: correct,
+
+                wrong: wrong,
+
+                answers: window.answers,
+
+                questionFile:
+                    localStorage.getItem("questionFile")
+
+            })
+
+        }
+    );
+
+
+    // Result page
+    document.getElementById("resultName").innerText =
+        "Candidate : " +
+        localStorage.getItem("studentName");
+
+
+    document.getElementById("attemptedCount").innerText =
+        "Attempted Questions : " +
+        attempted +
+        " / " +
+        window.questions.length;
+
+
+    document.getElementById("examPage").style.display =
+        "none";
+
+    document.getElementById("thankYouPage").style.display =
+        "block";
+
+}
 let totalTime = 180 * 60;
 let timerInterval;
 function startTimer() {
@@ -250,13 +357,13 @@ function startTimer() {
 
         totalTime--;
 
-        if (totalTime < 0) {
+      if (totalTime < 0) {
 
-            clearInterval(timerInterval);
+    clearInterval(timerInterval);
 
-            document.getElementById("submitBtn").click();
+    submitTest();
 
-        }
+}
 
     }, 1000);
 
