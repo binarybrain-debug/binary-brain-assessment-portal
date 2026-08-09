@@ -715,3 +715,10 @@ body::after {
     background: none !important;
     background-image: none !important;
 }
+/* ===== FINAL WHITE PAGE BACKGROUND ===== */
+
+html,
+body {
+    background: #ffffff !important;
+    background-image: none !important;
+}
