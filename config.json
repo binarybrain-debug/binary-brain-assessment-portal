@@ -14,6 +14,6 @@
   "time": 180,
   "correctMarks": 4,
  "wrongMarks": -1,
-"showResult": false,
-"siteOpen": false
+"showResult": true,
+"siteOpen": true
 }
