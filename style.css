@@ -704,3 +704,14 @@ button:hover{
         background: #ffffff !important;
     }
 }
+html,
+body {
+    background: #ffffff !important;
+    background-image: none !important;
+}
+
+body::before,
+body::after {
+    background: none !important;
+    background-image: none !important;
+}
