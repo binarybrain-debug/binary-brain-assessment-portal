@@ -1236,3 +1236,106 @@ body {
         font-size: 13px !important;
     }
 }
+/* ===== FINAL FIX FOR CLOSED EXAM SCREEN ===== */
+
+html,
+body {
+    background: #f1f5f9 !important;
+}
+
+/* Main closed screen */
+#siteClosedPage {
+    position: fixed !important;
+
+    top: 50% !important;
+    left: 50% !important;
+
+    width: min(700px, 88vw) !important;
+    height: auto !important;
+    min-height: 0 !important;
+
+    transform: translate(-50%, -50%) !important;
+
+    display: flex !important;
+    flex-direction: column !important;
+
+    justify-content: center !important;
+    align-items: center !important;
+
+    padding: 45px 35px !important;
+
+    background: #ffffff !important;
+
+    border-radius: 24px !important;
+
+    border: 1px solid #e2e8f0 !important;
+
+    box-shadow:
+        0 25px 60px rgba(15,23,42,.15) !important;
+
+    box-sizing: border-box !important;
+
+    overflow: visible !important;
+
+    z-index: 999999 !important;
+}
+
+/* Warning icon */
+#siteClosedPage .closed-icon {
+    margin: 0 0 22px !important;
+
+    width: 78px !important;
+    height: 78px !important;
+
+    flex-shrink: 0 !important;
+}
+
+/* Heading */
+#siteClosedPage h1 {
+    margin: 0 0 15px !important;
+
+    text-align: center !important;
+
+    font-size: 27px !important;
+    line-height: 1.25 !important;
+}
+
+/* Messages */
+#siteClosedPage p {
+    margin: 6px 0 !important;
+
+    text-align: center !important;
+
+    width: 100% !important;
+}
+
+/* Wait message */
+#siteClosedPage .wait-text {
+    margin-top: 25px !important;
+
+    text-align: center !important;
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+
+    #siteClosedPage {
+        width: 90vw !important;
+        padding: 35px 20px !important;
+        border-radius: 20px !important;
+    }
+
+    #siteClosedPage .closed-icon {
+        width: 68px !important;
+        height: 68px !important;
+        font-size: 34px !important;
+    }
+
+    #siteClosedPage h1 {
+        font-size: 21px !important;
+    }
+
+    #siteClosedPage p {
+        font-size: 14px !important;
+    }
+}
