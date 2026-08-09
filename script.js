@@ -13,11 +13,55 @@ fetch("config.json")
 
         document.querySelector(".container").style.display = "none";
 
+        document.getElementById("closedTitle").innerText =
+            "EXAMINATION WINDOW NOT YET OPEN";
+
+        document.getElementById("closedMessage").innerText =
+            "The examination window is currently closed.";
+
+        document.getElementById("closedInstruction").innerText =
+            "Please wait for the official opening of the examination.";
+
+        const waitMessage =
+            document.getElementById("waitMessage");
+
+        const text = "PLEASE WAIT...";
+
+        let i = 0;
+
+        function typeWaitMessage() {
+
+            if (i < text.length) {
+
+                waitMessage.innerText += text.charAt(i);
+
+                i++;
+
+                setTimeout(typeWaitMessage, 100);
+
+            } else {
+
+                setTimeout(() => {
+
+                    waitMessage.innerText = "";
+
+                    i = 0;
+
+                    typeWaitMessage();
+
+                }, 1200);
+
+            }
+        }
+
+        typeWaitMessage();
+
         return;
     }
 
     document.getElementById("testTitle").innerText =
         config.tests.SET1.name;
+
 });
 let questionFile = "";
 const loginBtn = document.getElementById("loginBtn");
@@ -482,44 +526,3 @@ togglePassword.addEventListener("click", () => {
     }
 
 });
-// ===============================
-// EXAMINATION WINDOW CONTROL
-// ===============================
-
-if (config.siteOpen === false) {
-
-    document.getElementById("siteClosedPage").style.display = "flex";
-
-    document.getElementById("closedTitle").innerText =
-        "EXAMINATION WINDOW NOT YET OPEN";
-
-    document.getElementById("closedMessage").innerText =
-        "The examination window is currently closed.";
-
-    document.getElementById("closedInstruction").innerText =
-        "Please wait for the official opening of the examination.";
-
-    const waitMessage = document.getElementById("waitMessage");
-
-    const text = "PLEASE WAIT...";
-
-    let i = 0;
-
-    function typeWaitMessage() {
-
-        if (i < text.length) {
-            waitMessage.innerText += text.charAt(i);
-            i++;
-            setTimeout(typeWaitMessage, 100);
-        } else {
-            setTimeout(() => {
-                waitMessage.innerText = "";
-                i = 0;
-                typeWaitMessage();
-            }, 1200);
-        }
-    }
-
-    typeWaitMessage();
-
-}
