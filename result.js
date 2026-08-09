@@ -1,4 +1,59 @@
+// ===============================
+// RESULT PUBLICATION CONTROL
+// ===============================
 
+document.getElementById("resultContainer").style.display = "none";
+
+fetch("config.json")
+.then(response => response.json())
+.then(config => {
+
+    if (config.showResult === false) {
+
+        document.getElementById("resultClosedPage").style.display = "flex";
+
+        const waitMessage =
+            document.getElementById("resultWaitMessage");
+
+        const text = "PLEASE WAIT...";
+
+        let i = 0;
+
+        function typeWaitMessage() {
+
+            if (i < text.length) {
+
+                waitMessage.innerText += text.charAt(i);
+
+                i++;
+
+                setTimeout(typeWaitMessage, 100);
+
+            } else {
+
+                setTimeout(() => {
+
+                    waitMessage.innerText = "";
+
+                    i = 0;
+
+                    typeWaitMessage();
+
+                }, 1200);
+
+            }
+
+        }
+
+        typeWaitMessage();
+
+    } else {
+
+        document.getElementById("resultContainer").style.display = "block";
+
+    }
+
+});
 let captchaCode = "";
 
 function generateCaptcha() {
@@ -42,13 +97,7 @@ if (captchaInput !== captchaCode) {
     document.getElementById("captchaInput").value = "";
     return;
 }
-    const configResponse = await fetch("config.json");
-const config = await configResponse.json();
-
-if (config.showResult === false) {
-    alert("🔒 Result has not been published yet.");
-    return;
-}
+  
       document.getElementById("loading").style.display = "block";
 await new Promise(resolve => setTimeout(resolve, 2000));
     
