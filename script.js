@@ -190,6 +190,27 @@ submitBtn.addEventListener("click", () => {
 
     saveAnswer();
 
+    // Calculate attempted questions
+    let attempted = 0;
+
+    window.answers.forEach(ans => {
+        if (ans !== undefined) {
+            attempted++;
+        }
+    });
+
+    // Calculate unattempted questions
+    let unattempted =
+        window.questions.length - attempted;
+
+    // Show numbers in confirmation popup
+    document.getElementById("popupAttempted").innerText =
+        attempted;
+
+    document.getElementById("popupUnattempted").innerText =
+        unattempted;
+
+    // Open popup
     if (submitPopup) {
         submitPopup.style.display = "flex";
     }
