@@ -697,3 +697,10 @@ button:hover{
         font-size: 10px !important;
     }
 }
+/* White outer background on mobile */
+@media (max-width: 600px) {
+    html,
+    body {
+        background: #ffffff !important;
+    }
+}
