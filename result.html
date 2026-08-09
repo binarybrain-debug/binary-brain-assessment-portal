@@ -3,79 +3,183 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 <title>Binary Brain Result Portal</title>
 
 <link rel="stylesheet" href="style.css">
 
+<style>
+/* Result Published Warning */
+#resultClosedPage {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: rgba(245, 247, 250, 0.96);
+    align-items: center;
+    justify-content: center;
+    z-index: 99999;
+}
+
+.result-closed-box {
+    width: min(90%, 650px);
+    background: white;
+    padding: 40px 30px;
+    border-radius: 20px;
+    text-align: center;
+    box-shadow: 0 15px 45px rgba(0,0,0,0.20);
+    border: 1px solid #e5e7eb;
+}
+
+.result-closed-icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto 20px;
+    border: 2px solid #f59e0b;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 34px;
+}
+
+.result-closed-box h1 {
+    color: #b91c1c;
+    font-size: 28px;
+    margin-bottom: 18px;
+}
+
+.result-closed-box p {
+    color: #555;
+    font-size: 16px;
+    margin: 12px 0;
+}
+
+.result-wait {
+    margin-top: 25px;
+    color: #2563eb;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 17px;
+}
+
+.result-cursor {
+    animation: blink 0.8s infinite;
+}
+
+@keyframes blink {
+    50% {
+        opacity: 0;
+    }
+}
+</style>
+
 </head>
+
 <body>
 
-<div class="container">
+<!-- RESULT NOT PUBLISHED PAGE -->
 
-<h1>🧠 Binary Brain Result Portal</h1>
+<div id="resultClosedPage">
 
-<h3 id="testName"></h3>
+    <div class="result-closed-box">
 
-<input
-type="text"
-id="studentName"
-placeholder="Enter Your Name">
+        <div class="result-closed-icon">
+            🔒
+        </div>
 
-<input
-type="password"
-id="resultPassword"
-placeholder="Enter DOB">
-<div id="captchaBox" style="
-    display:flex;
-    align-items:center;
-    gap:10px;
-    margin:10px 0;
-">
+        <h1>RESULT NOT YET PUBLISHED</h1>
 
-    <div id="captchaText" style="
-        background:#eeeeee;
-        border:1px solid #ccc;
-        border-radius:6px;
-        padding:12px 20px;
-        font-weight:bold;
-        letter-spacing:3px;
-        min-width:100px;
-        text-align:center;
-    "></div>
+        <p>
+            The examination result has not been published yet.
+        </p>
+
+        <p>
+            Please wait for the official result declaration.
+        </p>
+
+        <div class="result-wait">
+            <span id="resultWaitMessage"></span>
+            <span class="result-cursor">|</span>
+        </div>
+
+    </div>
+
+</div>
+
+
+<!-- NORMAL RESULT PORTAL -->
+
+<div class="container" id="resultContainer">
+
+    <h1>🧠 Binary Brain Result Portal</h1>
+
+    <h3 id="testName"></h3>
 
     <input
-        type="text"
-        id="captchaInput"
-        placeholder="Enter CAPTCHA"
-        style="
-            flex:1;
-            margin:0;
-        "
-    >
+    type="text"
+    id="studentName"
+    placeholder="Enter Your Name">
 
-    <button
-        type="button"
-        onclick="generateCaptcha()"
-        style="
-            width:50px;
-            margin:0;
-            padding:12px;
-        "
-    >↻</button>
+    <input
+    type="password"
+    id="resultPassword"
+    placeholder="Enter DOB">
+
+    <div id="captchaBox" style="
+        display:flex;
+        align-items:center;
+        gap:10px;
+        margin:10px 0;
+    ">
+
+        <div id="captchaText" style="
+            background:#eeeeee;
+            border:1px solid #ccc;
+            border-radius:6px;
+            padding:12px 20px;
+            font-weight:bold;
+            letter-spacing:3px;
+            min-width:100px;
+            text-align:center;
+        "></div>
+
+        <input
+            type="text"
+            id="captchaInput"
+            placeholder="Enter CAPTCHA"
+            style="
+                flex:1;
+                margin:0;
+            "
+        >
+
+        <button
+            type="button"
+            onclick="generateCaptcha()"
+            style="
+                width:50px;
+                margin:0;
+                padding:12px;
+            "
+        >↻</button>
+
+    </div>
+
+    <button onclick="checkResult()">
+        📊 Check Result
+    </button>
+
+    <div id="loading" style="display:none;">
+        <div class="loader"></div>
+        <p>Checking Result...</p>
+    </div>
+
+    <div id="result"></div>
+
+    <div id="analysis"></div>
 
 </div>
-<button onclick="checkResult()">
-📊 Check Result
-</button>
-<div id="loading" style="display:none;">
-    <div class="loader"></div>
-    <p>Checking Result...</p>
-</div>
-<div id="result"></div>
 
-<div id="analysis"></div>
-
-</div>
 
 <script src="result.js"></script>
 
