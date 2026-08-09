@@ -1101,3 +1101,138 @@ body {
         letter-spacing: 1.5px;
     }
 }
+/* =========================================
+   PREMIUM EXAMINATION CLOSED CARD
+   ========================================= */
+
+#siteClosedPage {
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    inset: auto !important;
+
+    transform: translate(-50%, -50%) !important;
+
+    width: min(760px, 90vw) !important;
+    min-height: 420px !important;
+
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+    text-align: center !important;
+
+    padding: 45px 50px !important;
+
+    background: #ffffff !important;
+
+    border: 1px solid #e5e7eb !important;
+    border-radius: 24px !important;
+
+    box-shadow:
+        0 25px 70px rgba(15, 23, 42, 0.15),
+        0 0 0 1px rgba(15, 23, 42, 0.03) !important;
+
+    z-index: 999999 !important;
+}
+
+/* Warning Icon */
+
+#siteClosedPage .closed-icon {
+    width: 85px !important;
+    height: 85px !important;
+
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+    font-size: 42px !important;
+
+    background: #fff7ed !important;
+
+    border: 3px solid #f59e0b !important;
+    border-radius: 50% !important;
+
+    margin: 0 0 25px !important;
+
+    flex-shrink: 0 !important;
+}
+
+/* Heading */
+
+#siteClosedPage h1 {
+    margin: 0 0 15px !important;
+
+    font-size: 28px !important;
+    font-weight: 800 !important;
+
+    color: #b91c1c !important;
+
+    text-align: center !important;
+}
+
+/* Messages */
+
+#siteClosedPage p {
+    margin: 6px 0 !important;
+
+    max-width: 600px !important;
+
+    font-size: 16px !important;
+    line-height: 1.6 !important;
+
+    color: #475569 !important;
+
+    text-align: center !important;
+}
+
+/* Please Wait */
+
+#siteClosedPage .wait-text {
+    margin-top: 28px !important;
+
+    font-size: 16px !important;
+    font-weight: 800 !important;
+
+    letter-spacing: 2px !important;
+
+    color: #1d4ed8 !important;
+
+    text-align: center !important;
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+
+    #siteClosedPage {
+        width: 90vw !important;
+        min-height: 380px !important;
+
+        padding: 35px 22px !important;
+
+        border-radius: 20px !important;
+    }
+
+    #siteClosedPage .closed-icon {
+        width: 70px !important;
+        height: 70px !important;
+
+        font-size: 34px !important;
+
+        margin-bottom: 20px !important;
+    }
+
+    #siteClosedPage h1 {
+        font-size: 21px !important;
+    }
+
+    #siteClosedPage p {
+        font-size: 14px !important;
+    }
+
+    #siteClosedPage .wait-text {
+        font-size: 13px !important;
+    }
+}
