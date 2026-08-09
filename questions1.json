@@ -1,1 +1,2967 @@
-
+[
+  {
+    "id": 1,
+    "number": 1,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q1",
+    "question": "Assertion: A particle can have zero velocity but non-zero acceleration at an instant. Reason: At the highest point of vertically upward motion, velocity is zero but acceleration due to gravity is non-zero.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "A",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion"
+  },
+  {
+    "id": 2,
+    "number": 2,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q2",
+    "question": "Assertion: If acceleration of a particle is zero, its velocity must be zero. Reason: Zero acceleration means velocity does not change with time.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "D",
+    "answer": "Assertion is false, but Reason is true"
+  },
+  {
+    "id": 3,
+    "number": 3,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q3",
+    "question": "Assertion: A particle moving with constant speed can have non-zero acceleration. Reason: Acceleration is the rate of change of velocity, and velocity depends on both magnitude and direction.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "A",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion"
+  },
+  {
+    "id": 4,
+    "number": 4,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q4",
+    "question": "Assertion: If the velocity-time graph of a particle is a horizontal straight line, its acceleration is zero. Reason: Acceleration is equal to the slope of the velocity-time graph.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "A",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion"
+  },
+  {
+    "id": 5,
+    "number": 5,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q5",
+    "question": "Assertion: The distance travelled by a particle can never be less than the magnitude of its displacement. Reason: Distance is the actual path length whereas displacement is the shortest directed distance between initial and final positions.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "A",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion"
+  },
+  {
+    "id": 6,
+    "number": 6,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q6",
+    "question": "Assertion: A particle may have positive velocity and negative acceleration simultaneously. Reason: Velocity and acceleration always have the same direction.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "C",
+    "answer": "Assertion is true, but Reason is false"
+  },
+  {
+    "id": 7,
+    "number": 7,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q7",
+    "question": "Assertion: For uniformly accelerated motion, average velocity is equal to the arithmetic mean of initial and final velocities. Reason: In uniformly accelerated motion, velocity varies linearly with time.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "A",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion"
+  },
+  {
+    "id": 8,
+    "number": 8,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q8",
+    "question": "Assertion: A body moving with constant velocity has zero acceleration. Reason: Acceleration is the rate of change of velocity.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "A",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion"
+  },
+  {
+    "id": 9,
+    "number": 9,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q9",
+    "question": "Assertion: The area under a velocity-time graph gives displacement. Reason: Displacement is obtained by integrating velocity with respect to time.",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "A",
+    "answer": "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion"
+  },
+  {
+    "id": 10,
+    "number": 10,
+    "subject": "Physics",
+    "section": "Assertion-Reason",
+    "sourceLabel": "PHYS-Q10",
+    "question": "Assertion: If a particle returns to its starting point, its average velocity is zero. Reason: Average velocity depends on total distance travelled. Section B — JEE Main Level (Q11–20)",
+    "options": [
+      "Both Assertion and Reason are true, and Reason is the correct explanation of Assertion",
+      "Both Assertion and Reason are true, but Reason is not the correct explanation of Assertion",
+      "Assertion is true, but Reason is false",
+      "Assertion is false, but Reason is true"
+    ],
+    "answerLetter": "C",
+    "answer": "Assertion is true, but Reason is false"
+  },
+  {
+    "id": 11,
+    "number": 11,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q11",
+    "question": "A particle starts from rest and moves with constant acceleration 4 m/s². Its displacement in the first 5 s is:",
+    "options": [
+      "20 m",
+      "40 m",
+      "50 m",
+      "100 m"
+    ],
+    "answerLetter": "C",
+    "answer": "50 m"
+  },
+  {
+    "id": 12,
+    "number": 12,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q12",
+    "question": "A car moving at 20 m/s is uniformly retarded at 2 m/s². The distance travelled before coming to rest is:",
+    "options": [
+      "50 m",
+      "100 m",
+      "150 m",
+      "200 m"
+    ],
+    "answerLetter": "B",
+    "answer": "100 m"
+  },
+  {
+    "id": 13,
+    "number": 13,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q13",
+    "question": "A particle has velocity v = 3t² + 2t. Its acceleration at t = 2 s is:",
+    "options": [
+      "10 m/s²",
+      "12 m/s²",
+      "14 m/s²",
+      "16 m/s²"
+    ],
+    "answerLetter": "C",
+    "answer": "14 m/s²"
+  },
+  {
+    "id": 14,
+    "number": 14,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q14",
+    "question": "A particle travels half of a distance with speed v and the remaining half with speed 2v. Its average speed is:",
+    "options": [
+      "3v/2",
+      "4v/3",
+      "5v/3",
+      "2v"
+    ],
+    "answerLetter": "B",
+    "answer": "4v/3"
+  },
+  {
+    "id": 15,
+    "number": 15,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q15",
+    "question": "A body is projected vertically upward with speed 30 m/s. Taking g = 10 m/s², maximum height reached is:",
+    "options": [
+      "30 m",
+      "40 m",
+      "45 m",
+      "60 m"
+    ],
+    "answerLetter": "C",
+    "answer": "45 m"
+  },
+  {
+    "id": 16,
+    "number": 16,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q16",
+    "question": "A particle moves according to x = 2t² + 3t + 1. Its velocity at t = 3 s is:",
+    "options": [
+      "9 m/s",
+      "12 m/s",
+      "15 m/s",
+      "18 m/s"
+    ],
+    "answerLetter": "C",
+    "answer": "15 m/s"
+  },
+  {
+    "id": 17,
+    "number": 17,
+    "subject": "Physics",
+    "section": "JEE Main Level",
+    "sourceLabel": "PHYS-Q17",
+    "question": "A train starts from rest and accelerates uniformly at 1 m/s² for 20 s. It then moves with constant velocity for 30 s. Total distance travelled is:",
+    "options": [
+      "400 m",
+      "500 m",
+      "600 m",
+      "800 m (calculated; source PDF prints 700 m)"
+    ],
+    "answerLetter": "D",
+    "answer": "800 m (calculated; source PDF prints 700 m)",
+    "sourceIssue": "The supplied PDF has a numerical mismatch: the calculation gives 800 m, while the printed option D says 700 m. The option was corrected only to make the CBT answerable."
+  },
+  {
+    "id": 18,
+    "number": 18,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q18",
+    "question": "A particle moving with velocity 10 m/s experiences acceleration −2 m/s². After what time will its velocity become −6 m/s?",
+    "options": [
+      "4 s",
+      "6 s",
+      "8 s",
+      "10 s"
+    ],
+    "answerLetter": "C",
+    "answer": "8 s"
+  },
+  {
+    "id": 19,
+    "number": 19,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q19",
+    "question": "A particle covers 10 m in the first 2 s and 30 m in the next 2 s under uniform acceleration. Its initial velocity is:",
+    "options": [
+      "0 m/s",
+      "2 m/s",
+      "3 m/s",
+      "5 m/s"
+    ],
+    "answerLetter": "A",
+    "answer": "0 m/s"
+  },
+  {
+    "id": 20,
+    "number": 20,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q20",
+    "question": "The position of a particle is x = t³ − 6t² + 9t. The particle is instantaneously at rest at:",
+    "options": [
+      "t=1 s only",
+      "t=3 s only",
+      "t=1 s and 3 s",
+      "t=0 s and 3 s Section C — Conceptual HARD (Q21–30)"
+    ],
+    "answerLetter": "C",
+    "answer": "t=1 s and 3 s"
+  },
+  {
+    "id": 21,
+    "number": 21,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q21",
+    "question": "A particle moves along the x-axis. Its velocity is positive for 0<t<2 s and negative for 2<t<5 s. Which must be true?",
+    "options": [
+      "Displacement is necessarily zero.",
+      "Acceleration is always negative.",
+      "Particle changes direction at t=2 s.",
+      "Speed is zero throughout 2<t<5 s."
+    ],
+    "answerLetter": "C",
+    "answer": "Particle changes direction at t=2 s."
+  },
+  {
+    "id": 22,
+    "number": 22,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q22",
+    "question": "Two particles A and B start simultaneously from the same point. A moves with constant velocity 10 m/s, while B starts from rest with constant acceleration 2 m/s². At what time will they meet again?",
+    "options": [
+      "5 s",
+      "10 s",
+      "15 s",
+      "They never meet again."
+    ],
+    "answerLetter": "B",
+    "answer": "10 s"
+  },
+  {
+    "id": 23,
+    "number": 23,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q23",
+    "question": "A particle's velocity: 0–2 s increases uniformly from 0 to 10 m/s; 2–4 s remains 10 m/s; 4–6 s decreases uniformly to 0. Total displacement is:",
+    "options": [
+      "30 m",
+      "40 m",
+      "50 m",
+      "60 m."
+    ],
+    "answerLetter": "B",
+    "answer": "40 m"
+  },
+  {
+    "id": 24,
+    "number": 24,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q24",
+    "question": "A particle is moving in +x direction and its acceleration is in −x direction. Which is necessarily correct?",
+    "options": [
+      "Speed increasing.",
+      "Speed decreasing at that instant.",
+      "Velocity negative.",
+      "It has stopped."
+    ],
+    "answerLetter": "B",
+    "answer": "Speed decreasing at that instant."
+  },
+  {
+    "id": 25,
+    "number": 25,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q25",
+    "question": "A particle covers equal distances with speeds v1, v2 and v3. Average speed is:",
+    "options": [
+      "(v1+v2+v3)/3",
+      "v1v2v3/(v1+v2+v3)",
+      "3v1v2v3/(v1v2+v2v3+v3v1)",
+      "cube-root(v1v2v3)."
+    ],
+    "answerLetter": "C",
+    "answer": "3v1v2v3/(v1v2+v2v3+v3v1)"
+  },
+  {
+    "id": 26,
+    "number": 26,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q26",
+    "question": "A particle starts from rest with acceleration a. After distance S its velocity is v. If acceleration is doubled for the same distance, new final velocity is:",
+    "options": [
+      "v/sqrt(2)",
+      "v",
+      "sqrt(2)v",
+      "2v."
+    ],
+    "answerLetter": "C",
+    "answer": "sqrt(2)v"
+  },
+  {
+    "id": 27,
+    "number": 27,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q27",
+    "question": "A particle moves along a straight line such that its speed first increases and then decreases. Which is possible?",
+    "options": [
+      "Acceleration remains constant throughout.",
+      "Acceleration is always in direction of velocity.",
+      "Acceleration changes sign at some instant.",
+      "Velocity must become zero exactly when speed is maximum."
+    ],
+    "answerLetter": "C",
+    "answer": "Acceleration changes sign at some instant."
+  },
+  {
+    "id": 28,
+    "number": 28,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q28",
+    "question": "Two cars A and B have velocities 20 m/s and 15 m/s in the same direction. Relative velocity of A w.r.t. B is:",
+    "options": [
+      "5",
+      "15",
+      "20",
+      "35 m/s. If B reverses direction at the same speed, relative velocity magnitude is:",
+      "5",
+      "20",
+      "25",
+      "35 m/s."
+    ],
+    "answerLetter": "D",
+    "answer": null
+  },
+  {
+    "id": 29,
+    "number": 29,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q29",
+    "question": "A particle has constant acceleration. Its velocity changes from 5 m/s to 15 m/s while covering 50 m. Acceleration is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4 m/s²."
+    ],
+    "answerLetter": "A",
+    "answer": "1"
+  },
+  {
+    "id": 30,
+    "number": 30,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q30",
+    "question": "A stone is thrown vertically upward. At two different instants it has the same speed. Which is correct?",
+    "options": [
+      "Acceleration is zero at one instant.",
+      "Acceleration has opposite directions.",
+      "Acceleration has same magnitude and direction.",
+      "Displacement from initial point is necessarily same. Section D — JEE Advanced Level (Q31–33)"
+    ],
+    "answerLetter": "C",
+    "answer": "Acceleration has same magnitude and direction."
+  },
+  {
+    "id": 31,
+    "number": 31,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q31",
+    "question": "A particle moves with x(t)=t³−6t²+9t+2. Determine total distance travelled from t=0 to t=4 s.",
+    "options": [
+      "8 m",
+      "10 m",
+      "12 m",
+      "14 m."
+    ],
+    "answerLetter": "C",
+    "answer": "12 m"
+  },
+  {
+    "id": 32,
+    "number": 32,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q32",
+    "question": "A particle starts from rest at x=0. Its acceleration varies with position as a=2x. Relation between velocity v and position x is:",
+    "options": [
+      "v=2x",
+      "v=x",
+      "v=sqrt(2)x",
+      "v=sqrt(2x²)."
+    ],
+    "answerLetter": "C",
+    "answer": "v=sqrt(2)x"
+  },
+  {
+    "id": 33,
+    "number": 33,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q33",
+    "question": "A particle has v(t)=t²−4t+3. It changes direction during which interval(s)?",
+    "options": [
+      "0<t<1 only",
+      "1<t<3 only",
+      "At t=1 and t=3",
+      "Never. Section E — NEET PYQ-Based / Paraphrased (Q34–45)"
+    ],
+    "answerLetter": "C",
+    "answer": "At t=1 and t=3"
+  },
+  {
+    "id": 34,
+    "number": 34,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q34",
+    "question": "A body starts from rest with uniform acceleration. Ratio of distances covered in 1st, 2nd and 3rd seconds is:",
+    "options": [
+      "1:2:3",
+      "1:3:5",
+      "1:4:9",
+      "1:2:4."
+    ],
+    "answerLetter": "B",
+    "answer": "1:3:5"
+  },
+  {
+    "id": 35,
+    "number": 35,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q35",
+    "question": "A freely falling body covers distance h during the first second. Distance covered during the third second is:",
+    "options": [
+      "h",
+      "3h",
+      "5h",
+      "9h."
+    ],
+    "answerLetter": "C",
+    "answer": "5h"
+  },
+  {
+    "id": 36,
+    "number": 36,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q36",
+    "question": "A car moving at 20 m/s comes to rest in 5 s with uniform retardation. Retardation is:",
+    "options": [
+      "2",
+      "4",
+      "5",
+      "10 m/s²."
+    ],
+    "answerLetter": "B",
+    "answer": "4"
+  },
+  {
+    "id": 37,
+    "number": 37,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q37",
+    "question": "A particle travels 100 m in 10 s and returns to its starting point in another 10 s. Average velocity is:",
+    "options": [
+      "0",
+      "5",
+      "10",
+      "20 m/s."
+    ],
+    "answerLetter": "A",
+    "answer": "0"
+  },
+  {
+    "id": 38,
+    "number": 38,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q38",
+    "question": "The slope of a displacement-time graph represents:",
+    "options": [
+      "Acceleration",
+      "Speed",
+      "Velocity",
+      "Distance."
+    ],
+    "answerLetter": "C",
+    "answer": "Velocity"
+  },
+  {
+    "id": 39,
+    "number": 39,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q39",
+    "question": "The area under an acceleration-time graph represents:",
+    "options": [
+      "Displacement",
+      "Change in velocity",
+      "Average velocity",
+      "Distance."
+    ],
+    "answerLetter": "B",
+    "answer": "Change in velocity"
+  },
+  {
+    "id": 40,
+    "number": 40,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q40",
+    "question": "A body is thrown vertically upward with initial velocity u. Its velocity becomes zero at:",
+    "options": [
+      "u/g",
+      "u/2g",
+      "2u/g",
+      "g/u."
+    ],
+    "answerLetter": "A",
+    "answer": "u/g"
+  },
+  {
+    "id": 41,
+    "number": 41,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q41",
+    "question": "A particle moves with constant velocity. Which graph is necessarily a straight line?",
+    "options": [
+      "Position-time",
+      "Acceleration-time only",
+      "Speed-time only",
+      "All must be curved."
+    ],
+    "answerLetter": "A",
+    "answer": "Position-time"
+  },
+  {
+    "id": 42,
+    "number": 42,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q42",
+    "question": "A body starts from rest and moves with acceleration 2 m/s². Its velocity after travelling 16 m is:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "16 m/s."
+    ],
+    "answerLetter": "C",
+    "answer": "8"
+  },
+  {
+    "id": 43,
+    "number": 43,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q43",
+    "question": "Two bodies are dropped from the same height at the same time in vacuum. Their masses are m and 2m. Which reaches first?",
+    "options": [
+      "m",
+      "2m",
+      "Both simultaneously",
+      "Depends on shape."
+    ],
+    "answerLetter": "C",
+    "answer": "Both simultaneously"
+  },
+  {
+    "id": 44,
+    "number": 44,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q44",
+    "question": "A particle moves with velocity v=5+2t. Displacement during first 5 s is:",
+    "options": [
+      "25",
+      "30",
+      "40",
+      "50 m."
+    ],
+    "answerLetter": "C",
+    "answer": "40"
+  },
+  {
+    "id": 45,
+    "number": 45,
+    "subject": "Physics",
+    "section": "Source PDF",
+    "sourceLabel": "PHYS-Q45",
+    "question": "A body has velocity 10 m/s and acceleration 2 m/s² in the same direction. After 5 s its velocity is:",
+    "options": [
+      "12",
+      "15",
+      "20",
+      "25 m/s."
+    ],
+    "answerLetter": "C",
+    "answer": "20"
+  },
+  {
+    "id": 46,
+    "number": 46,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q1",
+    "question": "Periodic Trend Graph A graph is plotted between atomic number and first ionisation enthalpy for the second-period elements. At which transition is an unexpected decrease most likely observed?",
+    "options": [
+      "Be → B only",
+      "N → O only",
+      "Both Be → B and N → O",
+      "No decrease occurs"
+    ],
+    "answerLetter": "C",
+    "answer": "Both Be → B and N → O",
+    "image": "question_assets/chemG_01.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 47,
+    "number": 47,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q2",
+    "question": "Atomic Radius Graph A qualitative graph shows atomic radius decreasing across a period as atomic number increases. Which factor primarily explains the trend?",
+    "options": [
+      "Decrease in nuclear charge",
+      "Increase in effective nuclear charge",
+      "Increase in principal quantum number",
+      "Decrease in number of protons"
+    ],
+    "answerLetter": "B",
+    "answer": "Increase in effective nuclear charge",
+    "image": "question_assets/chemG_02.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 48,
+    "number": 48,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q3",
+    "question": "Electron Gain Enthalpy Graph For the halogens, which element is expected to show the most negative electron gain enthalpy?",
+    "options": [
+      "F",
+      "Cl",
+      "Br",
+      "I"
+    ],
+    "answerLetter": "B",
+    "answer": "Cl",
+    "image": "question_assets/chemG_03.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 49,
+    "number": 49,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q4",
+    "question": "Bond Order–Bond Length Graph For related diatomic species, bond length decreases as bond order increases. Which statement explains this?",
+    "options": [
+      "Higher bond order increases bond length",
+      "Higher bond order generally decreases bond length",
+      "Bond order has no relation with bond length",
+      "Bond length depends only on atomic mass"
+    ],
+    "answerLetter": "B",
+    "answer": "Higher bond order generally decreases bond length",
+    "image": "question_assets/chemG_04.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 50,
+    "number": 50,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q5",
+    "question": "Bond Order–Bond Strength Graph For O■-related species, bond strength follows bond order. Which species is expected to have the strongest bond?",
+    "options": [
+      "O■²■",
+      "O■■",
+      "O■",
+      "O■■"
+    ],
+    "answerLetter": "D",
+    "answer": "O■■",
+    "image": "question_assets/chemG_05.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 51,
+    "number": 51,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q6",
+    "question": "Dipole Moment Graph NH■ has a considerably larger dipole moment than NF■. Why?",
+    "options": [
+      "NH■ is linear whereas NF■ is planar",
+      "Direction of bond moments and lone-pair contribution produce different resultant dipoles",
+      "NF■ contains no polar bonds",
+      "Nitrogen is more electronegative than fluorine"
+    ],
+    "answerLetter": "B",
+    "answer": "Direction of bond moments and lone-pair contribution produce different resultant dipoles",
+    "image": "question_assets/chemG_06.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 52,
+    "number": 52,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q7",
+    "question": "CFT Splitting Graph Replacing a weaker-field ligand by a stronger-field ligand in an octahedral complex changes ∆o. What happens?",
+    "options": [
+      "Smaller ∆o",
+      "Larger ∆o",
+      "No change in ∆o",
+      "d-orbitals disappear"
+    ],
+    "answerLetter": "B",
+    "answer": "Larger ∆o",
+    "image": "question_assets/chemG_07.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 53,
+    "number": 53,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q8",
+    "question": "Lanthanoid Contraction Graph The ionic radius of Ln³■ decreases from La to Lu. The decrease is mainly due to:",
+    "options": [
+      "Increasing principal quantum number",
+      "Poor shielding by 4f electrons",
+      "Complete shielding by 4f electrons",
+      "Decrease in nuclear charge"
+    ],
+    "answerLetter": "B",
+    "answer": "Poor shielding by 4f electrons",
+    "image": "question_assets/chemG_08.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 54,
+    "number": 54,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q9",
+    "question": "Oxidation-State Graph Which region of the first transition series is expected to show the maximum variety of oxidation states?",
+    "options": [
+      "Sc–Ti",
+      "V–Mn",
+      "Fe–Co",
+      "Ni–Zn"
+    ],
+    "answerLetter": "B",
+    "answer": "V–Mn",
+    "image": "question_assets/chemG_09.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 55,
+    "number": 55,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q10",
+    "question": "Magnetic Moment Graph For high-spin octahedral d■ ions, which configuration gives the maximum number of unpaired electrons?",
+    "options": [
+      "d¹",
+      "d■",
+      "d■",
+      "d¹■"
+    ],
+    "answerLetter": "B",
+    "answer": "d■",
+    "image": "question_assets/chemG_10.png",
+    "imageAlt": "chemG question visual"
+  },
+  {
+    "id": 56,
+    "number": 56,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q11",
+    "question": "[AIPMT 2000 — Chemical Bonding] Which species is expected to be diamagnetic according to molecular orbital theory?",
+    "options": [
+      "O■",
+      "O■■",
+      "O■■",
+      "O■²■"
+    ],
+    "answerLetter": "D",
+    "answer": "O■²■"
+  },
+  {
+    "id": 57,
+    "number": 57,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q12",
+    "question": "[AIPMT 2001 — Periodic Properties] Which trend correctly represents the first ionisation enthalpy of Be, B, C, N and O?",
+    "options": [
+      "Be < B < C < N < O",
+      "Be > B < C < N > O",
+      "B > Be < C < O < N",
+      "O > N > C > B > Be"
+    ],
+    "answerLetter": "B",
+    "answer": "Be > B < C < N > O"
+  },
+  {
+    "id": 58,
+    "number": 58,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q13",
+    "question": "[AIPMT 2004 — Chemical Bonding] In an octahedral species MX■, how many X–M–X angles are exactly 180°?",
+    "options": [
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "answerLetter": "A",
+    "answer": "3"
+  },
+  {
+    "id": 59,
+    "number": 59,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q14",
+    "question": "[AIPMT 2006 — Chemical Bonding] NH■ has a larger dipole moment than NF■ mainly because:",
+    "options": [
+      "N–F bonds are non-polar",
+      "Molecular geometry causes different vector addition of bond moments and lone-pair effects",
+      "NH■ has no lone pair",
+      "Fluorine is electropositive"
+    ],
+    "answerLetter": "B",
+    "answer": "Molecular geometry causes different vector addition of bond moments and lone-pair effects"
+  },
+  {
+    "id": 60,
+    "number": 60,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q15",
+    "question": "[AIPMT 2009 — Chemical Bonding] Which change generally increases molecular bond order?",
+    "options": [
+      "Increasing antibonding-electron population",
+      "Decreasing antibonding-electron population",
+      "Increasing atomic mass",
+      "Increasing number of lone pairs"
+    ],
+    "answerLetter": "B",
+    "answer": "Decreasing antibonding-electron population"
+  },
+  {
+    "id": 61,
+    "number": 61,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q16",
+    "question": "[AIPMT 2010 — Coordination Compounds] A Co(III) complex containing four NH■ ligands and two chloride ligands can give two geometrical arrangements. This is:",
+    "options": [
+      "Optical isomerism",
+      "Linkage isomerism",
+      "Geometrical isomerism",
+      "Ionisation isomerism"
+    ],
+    "answerLetter": "C",
+    "answer": "Geometrical isomerism"
+  },
+  {
+    "id": 62,
+    "number": 62,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q17",
+    "question": "[AIPMT 2011 — Coordination Compounds] For a d■ metal ion in an octahedral low-spin complex, the distribution is:",
+    "options": [
+      "t■g■ eg²",
+      "t■g■ eg¹",
+      "t■g■ eg■",
+      "t■g³ eg³"
+    ],
+    "answerLetter": "C",
+    "answer": "t■g■ eg■"
+  },
+  {
+    "id": 63,
+    "number": 63,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q18",
+    "question": "[AIPMT 2015 — d & f Block] Because of lanthanoid contraction, which pair has unusually similar sizes?",
+    "options": [
+      "Na and K",
+      "Zr and Hf",
+      "Mg and Ca",
+      "Cr and Mn"
+    ],
+    "answerLetter": "B",
+    "answer": "Zr and Hf"
+  },
+  {
+    "id": 64,
+    "number": 64,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q19",
+    "question": "[NEET 2021 — Chemical Bonding] BF■ is planar and electron deficient. The hybridisation of B and number of electrons around B are:",
+    "options": [
+      "sp³, 8",
+      "sp², 6",
+      "sp, 4",
+      "sp³, 6"
+    ],
+    "answerLetter": "B",
+    "answer": "sp², 6"
+  },
+  {
+    "id": 65,
+    "number": 65,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q20",
+    "question": "[NEET 2026-style — Coordination Compounds] Which type of ligand can coordinate through two different donor atoms depending on its mode of attachment?",
+    "options": [
+      "Monodentate",
+      "Ambidentate",
+      "Chelating only",
+      "Neutral only"
+    ],
+    "answerLetter": "B",
+    "answer": "Ambidentate"
+  },
+  {
+    "id": 66,
+    "number": 66,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q21",
+    "question": "An element X belongs to the second period. A large jump in successive ionisation enthalpies occurs after removal of three electrons. X forms an acidic oxide and an electron-deficient halide. Which combination fits best?",
+    "options": [
+      "B; BF■ is electron deficient and B■O■ is acidic",
+      "C; CO■ is basic and CH■ is electron deficient",
+      "N; N■O■ is basic and NH■ is electron deficient",
+      "Be; BeO is strongly acidic and BeCl■ is ionic"
+    ],
+    "answerLetter": "A",
+    "answer": "B; BF■ is electron deficient and B■O■ is acidic"
+  },
+  {
+    "id": 67,
+    "number": 67,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q22",
+    "question": "A transition element M forms M²■ with a d■ configuration. Its higher oxidation states are stabilised particularly in oxides and fluorides, while its +2 state is especially stable. Which element fits best?",
+    "options": [
+      "Cr",
+      "Mn",
+      "Fe",
+      "Co"
+    ],
+    "answerLetter": "B",
+    "answer": "Mn"
+  },
+  {
+    "id": 68,
+    "number": 68,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q23",
+    "question": "A first-row transition element forms coloured ions and readily forms complexes. Which statement best explains variable oxidation states?",
+    "options": [
+      "They arise only from ns electrons",
+      "Similar energies of ns and (n−1)d orbitals facilitate variable oxidation states",
+      "d-electrons never participate in bonding",
+      "Transition elements cannot form coordination compounds"
+    ],
+    "answerLetter": "B",
+    "answer": "Similar energies of ns and (n−1)d orbitals facilitate variable oxidation states"
+  },
+  {
+    "id": 69,
+    "number": 69,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q24",
+    "question": "A strong-field ligand produces large octahedral splitting. For a d■ metal ion, pairing occurs in t■g and the complex is diamagnetic. Which species could represent it?",
+    "options": [
+      "[FeF■]■■",
+      "[Fe(CN)■]■■",
+      "[MnF■]³■",
+      "[CoF■]³■"
+    ],
+    "answerLetter": "B",
+    "answer": "[Fe(CN)■]■■"
+  },
+  {
+    "id": 70,
+    "number": 70,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q25",
+    "question": "A lanthanoid generally prefers +3. One member readily exhibits +2 due to unusual stability, while another exhibits +4 due to unusual stability. Which pair is appropriate?",
+    "options": [
+      "Eu(+2) and Ce(+4)",
+      "La(+2) and Lu(+4)",
+      "Gd(+2) and Yb(+4)",
+      "Nd(+2) and Sm(+4)"
+    ],
+    "answerLetter": "A",
+    "answer": "Eu(+2) and Ce(+4)"
+  },
+  {
+    "id": 71,
+    "number": 71,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q26",
+    "question": "In the Lewis structure of BF■, boron is bonded to three fluorine atoms. Around boron, there are:",
+    "options": [
+      "4 bond pairs and 0 lone pairs",
+      "3 bond pairs and 1 lone pair",
+      "3 bond pairs and no lone pair",
+      "2 bond pairs and 2 lone pairs"
+    ],
+    "answerLetter": "C",
+    "answer": "3 bond pairs and no lone pair"
+  },
+  {
+    "id": 72,
+    "number": 72,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q27",
+    "question": "The molecular orbital diagram of O■ contains two electrons in degenerate π*2p orbitals. The species is:",
+    "options": [
+      "Diamagnetic, bond order 1",
+      "Paramagnetic, bond order 2",
+      "Diamagnetic, bond order 2",
+      "Paramagnetic, bond order 3"
+    ],
+    "answerLetter": "B",
+    "answer": "Paramagnetic, bond order 2"
+  },
+  {
+    "id": 73,
+    "number": 73,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q28",
+    "question": "XeF■ has four bond pairs and two lone pairs around Xe. The four F atoms occupy a:",
+    "options": [
+      "Tetrahedral arrangement",
+      "Square-planar arrangement",
+      "Trigonal-planar arrangement",
+      "Linear arrangement"
+    ],
+    "answerLetter": "B",
+    "answer": "Square-planar arrangement"
+  },
+  {
+    "id": 74,
+    "number": 74,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q29",
+    "question": "For a high-spin d■ octahedral ion, the crystal-field distribution is:",
+    "options": [
+      "t■g■ eg■",
+      "t■g³ eg¹",
+      "t■g² eg²",
+      "t■g■ eg¹"
+    ],
+    "answerLetter": "B",
+    "answer": "t■g³ eg¹"
+  },
+  {
+    "id": 75,
+    "number": 75,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q30",
+    "question": "For [Pt(NH■)■Cl■], the two Cl ligands are opposite each other. This is the:",
+    "options": [
+      "Tetrahedral form",
+      "Square-planar cis form",
+      "Square-planar trans form",
+      "Octahedral form"
+    ],
+    "answerLetter": "C",
+    "answer": "Square-planar trans form"
+  },
+  {
+    "id": 76,
+    "number": 76,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q31",
+    "question": "For I: [Ni(CN)■]²■, II: [NiCl■]²■, III: [Ni(CO)■], the correct magnetic behaviour is:",
+    "options": [
+      "All paramagnetic",
+      "I diamagnetic, II paramagnetic, III diamagnetic",
+      "I and II diamagnetic",
+      "II and III paramagnetic"
+    ],
+    "answerLetter": "B",
+    "answer": "I diamagnetic, II paramagnetic, III diamagnetic"
+  },
+  {
+    "id": 77,
+    "number": 77,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q32",
+    "question": "An aqueous coordination compound gives AgCl with excess AgNO■. If only chloride ions outside the coordination sphere precipitate, AgCl formation depends upon:",
+    "options": [
+      "Total chloride in formula only",
+      "Chloride ions outside the coordination sphere",
+      "Coordination number only",
+      "Oxidation state of chloride"
+    ],
+    "answerLetter": "B",
+    "answer": "Chloride ions outside the coordination sphere"
+  },
+  {
+    "id": 78,
+    "number": 78,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q33",
+    "question": "For oxygen molecular species, bond strength follows bond order. Which is the correct increasing order?",
+    "options": [
+      "O■²■ < O■■ < O■ < O■■",
+      "O■■ < O■ < O■■ < O■²■",
+      "O■ < O■■ < O■■ < O■²■",
+      "O■²■ < O■ < O■■ < O■■"
+    ],
+    "answerLetter": "A",
+    "answer": "O■²■ < O■■ < O■ < O■■"
+  },
+  {
+    "id": 79,
+    "number": 79,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q34",
+    "question": "A molecule has five electron domains around the central atom: three bond pairs and two lone pairs. Its molecular geometry is:",
+    "options": [
+      "Trigonal planar",
+      "T-shaped",
+      "Linear",
+      "Square planar"
+    ],
+    "answerLetter": "B",
+    "answer": "T-shaped"
+  },
+  {
+    "id": 80,
+    "number": 80,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q35",
+    "question": "Consider [MnBr■]²■, [NiCl■]²■, [Ni(CN)■]²■ and [CoF■]³■. How many are paramagnetic?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answerLetter": "C",
+    "answer": "3"
+  },
+  {
+    "id": 81,
+    "number": 81,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q36",
+    "question": "Which order is correct for atomic radius?",
+    "options": [
+      "Na > Mg > Al > Si",
+      "Si > Al > Mg > Na",
+      "Na < Mg < Al < Si",
+      "Al > Na > Mg > Si"
+    ],
+    "answerLetter": "A",
+    "answer": "Na > Mg > Al > Si"
+  },
+  {
+    "id": 82,
+    "number": 82,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q37",
+    "question": "Which species has the highest bond order?",
+    "options": [
+      "O■²■",
+      "O■■",
+      "O■",
+      "O■■"
+    ],
+    "answerLetter": "D",
+    "answer": "O■■"
+  },
+  {
+    "id": 83,
+    "number": 83,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q38",
+    "question": "Which molecule has the largest bond angle?",
+    "options": [
+      "H■O",
+      "NH■",
+      "CH■",
+      "BF■"
+    ],
+    "answerLetter": "D",
+    "answer": "BF■"
+  },
+  {
+    "id": 84,
+    "number": 84,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q39",
+    "question": "Which of the following is an ambidentate ligand?",
+    "options": [
+      "NH■",
+      "H■O",
+      "NO■■",
+      "en"
+    ],
+    "answerLetter": "C",
+    "answer": "NO■■"
+  },
+  {
+    "id": 85,
+    "number": 85,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q40",
+    "question": "The oxidation state of Fe in K■[Fe(CN)■] is:",
+    "options": [
+      "+1",
+      "+2",
+      "+3",
+      "+4"
+    ],
+    "answerLetter": "B",
+    "answer": "+2"
+  },
+  {
+    "id": 86,
+    "number": 86,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q41",
+    "question": "Which ion is colourless because it has no d–d transition possible?",
+    "options": [
+      "Ti³■",
+      "Fe²■",
+      "Cu²■",
+      "Sc³■"
+    ],
+    "answerLetter": "D",
+    "answer": "Sc³■"
+  },
+  {
+    "id": 87,
+    "number": 87,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q42",
+    "question": "Which transition-metal ion has the maximum number of unpaired electrons?",
+    "options": [
+      "Ti³■",
+      "V²■",
+      "Mn²■",
+      "Fe²■"
+    ],
+    "answerLetter": "C",
+    "answer": "Mn²■"
+  },
+  {
+    "id": 88,
+    "number": 88,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q43",
+    "question": "Which statement regarding lanthanoid contraction is correct?",
+    "options": [
+      "It is caused by poor shielding of nuclear charge by 4f electrons",
+      "It results from increasing principal quantum number",
+      "It increases Ln³■ size from La to Lu",
+      "It occurs because 5d electrons shield extremely poorly"
+    ],
+    "answerLetter": "A",
+    "answer": "It is caused by poor shielding of nuclear charge by 4f electrons"
+  },
+  {
+    "id": 89,
+    "number": 89,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q44",
+    "question": "Which complex can exhibit optical isomerism?",
+    "options": [
+      "[Co(NH■)■]³■",
+      "[Co(en)■]³■",
+      "[Pt(NH■)■Cl■]",
+      "[Ni(CO)■]"
+    ],
+    "answerLetter": "B",
+    "answer": "[Co(en)■]³■"
+  },
+  {
+    "id": 90,
+    "number": 90,
+    "subject": "Chemistry",
+    "section": "Source PDF",
+    "sourceLabel": "CHEM-Q45",
+    "question": "Which statement about Zn is correct?",
+    "options": [
+      "Zn is a typical transition element because Zn²■ is d■",
+      "Zn is not considered a transition element because Zn and Zn²■ have completely filled d-subshells",
+      "Zn has five unpaired electrons",
+      "Zn²■ is strongly paramagnetic ANSWER KEY Question Ans Question Ans Question Ans Q1 C Q2 B Q3 B Q4 B Q5 D Q6 B Q7 B Q8 B Q9 B Q10 B Q11 D Q12 B Q13 A Q14 B Q15 B Q16 C Q17 C Q18 B Q19 B Q20 B Q21 A Q22 B Q23 B Q24 B Q25 A Q26 C Q27 B Q28 B Q29 B Q30 C Q31 B Q32 B Q33 A Q34 B Q35 C Q36 A Q37 D Q38 D Q39 C Q40 B Q41 D Q42 C Q43 A Q44 B Q45 B PYQ-based questions are paraphrased for practice and are not verbatim reproductions. Designed by Binary Brain"
+    ],
+    "answerLetter": "B",
+    "answer": "Zn is not considered a transition element because Zn and Zn²■ have completely filled d-subshells"
+  },
+  {
+    "id": 91,
+    "number": 91,
+    "section": "Graph-based",
+    "sourceLabel": "G1",
+    "question": "The graph compares Hb-O2 saturation with PO2 under two conditions. Which curve indicates reduced haemoglobin affinity for oxygen? Alveolus Capillary",
+    "options": [
+      "Curve A",
+      "Curve B",
+      "Both curves",
+      "Neither curve"
+    ],
+    "answerLetter": "B",
+    "answer": "Curve B",
+    "subject": "Biology",
+    "image": "question_assets/bioG_01.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 92,
+    "number": 92,
+    "section": "Graph-based",
+    "sourceLabel": "G2",
+    "question": "The graph shows lung volume during quiet breathing. The vertical difference between normal inspiration and normal expiration represents: X",
+    "options": [
+      "Tidal volume",
+      "Residual volume",
+      "Vital capacity",
+      "Inspiratory capacity"
+    ],
+    "answerLetter": "A",
+    "answer": "Tidal volume",
+    "subject": "Biology",
+    "image": "question_assets/bioG_02.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 93,
+    "number": 93,
+    "section": "Graph-based",
+    "sourceLabel": "G3",
+    "question": "An aortic pressure trace contains a small notch during the falling phase. The notch is produced by: X RV LV",
+    "options": [
+      "Closure of aortic semilunar valve",
+      "Opening of mitral valve",
+      "Atrial systole",
+      "Opening of pulmonary valve"
+    ],
+    "answerLetter": "A",
+    "answer": "Closure of aortic semilunar valve",
+    "subject": "Biology",
+    "image": "question_assets/bioG_03.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 94,
+    "number": 94,
+    "section": "Graph-based",
+    "sourceLabel": "G4",
+    "question": "The graph shows cardiac output rising with heart rate and then falling at very high rates. The fall is best explained by: X Right Left",
+    "options": [
+      "Increased filling time",
+      "Reduced ventricular filling time",
+      "Complete loss of venous return",
+      "Permanent closure of coronary arteries"
+    ],
+    "answerLetter": "B",
+    "answer": "Reduced ventricular filling time",
+    "subject": "Biology",
+    "image": "question_assets/bioG_04.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 95,
+    "number": 95,
+    "section": "Graph-based",
+    "sourceLabel": "G5",
+    "question": "Filtered glucose load is plotted against glucose reabsorption. Reabsorption becomes almost constant after a point. That plateau represents: X",
+    "options": [
+      "Tubular maximum for glucose reabsorption",
+      "Maximum ADH secretion",
+      "Complete loss of GFR",
+      "Glucose secretion into urine"
+    ],
+    "answerLetter": "A",
+    "answer": "Tubular maximum for glucose reabsorption",
+    "subject": "Biology",
+    "image": "question_assets/bioG_05.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 96,
+    "number": 96,
+    "section": "Graph-based",
+    "sourceLabel": "G6",
+    "question": "A graph shows urine osmolarity becoming higher as plasma water availability falls. The physiological response most directly responsible is: X Ascending",
+    "options": [
+      "Reduced ADH release",
+      "Increased ADH action on collecting ducts",
+      "Complete stoppage of filtration",
+      "Reduced water permeability of collecting ducts"
+    ],
+    "answerLetter": "B",
+    "answer": "Increased ADH action on collecting ducts",
+    "subject": "Biology",
+    "image": "question_assets/bioG_06.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 97,
+    "number": 97,
+    "section": "Graph-based",
+    "sourceLabel": "G7",
+    "question": "A force-versus-sarcomere-length curve reaches maximum force at an intermediate length. The peak is due mainly to: X",
+    "options": [
+      "Optimal actin-myosin overlap",
+      "Absence of ATP",
+      "Complete loss of calcium",
+      "Shortening of thick filaments"
+    ],
+    "answerLetter": "A",
+    "answer": "Optimal actin-myosin overlap",
+    "subject": "Biology",
+    "image": "question_assets/bioG_07.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 98,
+    "number": 98,
+    "section": "Graph-based",
+    "sourceLabel": "G8",
+    "question": "A membrane-potential graph shows a rapid rising phase followed by a falling phase. The falling phase is primarily associated with: X",
+    "options": [
+      "Na+ influx",
+      "K+ efflux",
+      "Ca2+ influx",
+      "Na+ storage"
+    ],
+    "answerLetter": "B",
+    "answer": "K+ efflux",
+    "subject": "Biology",
+    "image": "question_assets/bioG_08.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 99,
+    "number": 99,
+    "section": "Graph-based",
+    "sourceLabel": "G9",
+    "question": "A graph shows neurotransmitter release increasing sharply when Ca2+ enters a presynaptic terminal. The immediate event is: X Presynaptic Postsynaptic",
+    "options": [
+      "Vesicle fusion with presynaptic membrane",
+      "DNA replication",
+      "Myelin degradation",
+      "Postsynaptic nuclear division"
+    ],
+    "answerLetter": "A",
+    "answer": "Vesicle fusion with presynaptic membrane",
+    "subject": "Biology",
+    "image": "question_assets/bioG_09.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 100,
+    "number": 100,
+    "section": "Graph-based",
+    "sourceLabel": "G10",
+    "question": "Plasma glucose falls after administration of a pancreatic hormone. Which hormone best explains the graph? X",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "ADH",
+      "Thyroxine"
+    ],
+    "answerLetter": "A",
+    "answer": "Insulin",
+    "subject": "Biology",
+    "image": "question_assets/bioG_10.png",
+    "imageAlt": "bioG question visual"
+  },
+  {
+    "id": 101,
+    "number": 101,
+    "section": "Diagram-based",
+    "sourceLabel": "D1",
+    "question": "In the alveolus-capillary diagram, gas exchange occurs across the thinnest interface. Which feature is most important? Alveolus Capillary",
+    "options": [
+      "Thick cartilage layer",
+      "Very thin alveolar and capillary walls",
+      "Skeletal muscle layer",
+      "Bone layer"
+    ],
+    "answerLetter": "B",
+    "answer": "Very thin alveolar and capillary walls",
+    "subject": "Biology",
+    "image": "question_assets/bioD_01.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 102,
+    "number": 102,
+    "section": "Diagram-based",
+    "sourceLabel": "D2",
+    "question": "The heart diagram shows a chamber receiving oxygenated blood from pulmonary veins. Which chamber is indicated? X Right Left",
+    "options": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle"
+    ],
+    "answerLetter": "C",
+    "answer": "Left atrium",
+    "subject": "Biology",
+    "image": "question_assets/bioD_02.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 103,
+    "number": 103,
+    "section": "Diagram-based",
+    "sourceLabel": "D3",
+    "question": "A vessel leaves the right ventricle and carries blood towards the lungs. Identify it. X Right ventricle Lungs",
+    "options": [
+      "Aorta",
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava"
+    ],
+    "answerLetter": "B",
+    "answer": "Pulmonary artery",
+    "subject": "Biology",
+    "image": "question_assets/bioD_03.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 104,
+    "number": 104,
+    "section": "Diagram-based",
+    "sourceLabel": "D4",
+    "question": "The nephron diagram marks the capillary tuft enclosed by Bowman's capsule. Identify it. X Bowman capsule",
+    "options": [
+      "Glomerulus",
+      "Collecting duct",
+      "Loop of Henle",
+      "Ureter"
+    ],
+    "answerLetter": "A",
+    "answer": "Glomerulus",
+    "subject": "Biology",
+    "image": "question_assets/bioD_04.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 105,
+    "number": 105,
+    "section": "Diagram-based",
+    "sourceLabel": "D5",
+    "question": "The nephron diagram marks the first highly coiled tubule after Bowman's capsule. Which segment is shown? X",
+    "options": [
+      "Distal convoluted tubule",
+      "Proximal convoluted tubule",
+      "Collecting duct",
+      "Ureter"
+    ],
+    "answerLetter": "B",
+    "answer": "Proximal convoluted tubule",
+    "subject": "Biology",
+    "image": "question_assets/bioD_05.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 106,
+    "number": 106,
+    "section": "Diagram-based",
+    "sourceLabel": "D6",
+    "question": "The sarcomere diagram marks the region containing thick filaments but no actin overlap. Identify it. X",
+    "options": [
+      "I band",
+      "H zone",
+      "Z line",
+      "Neuromuscular junction"
+    ],
+    "answerLetter": "B",
+    "answer": "H zone",
+    "subject": "Biology",
+    "image": "question_assets/bioD_06.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 107,
+    "number": 107,
+    "section": "Diagram-based",
+    "sourceLabel": "D7",
+    "question": "The neuron diagram marks branched processes specialized mainly for receiving signals. Identify them. X",
+    "options": [
+      "Dendrites",
+      "Axon",
+      "Myelin sheath",
+      "Axon terminal"
+    ],
+    "answerLetter": "A",
+    "answer": "Dendrites",
+    "subject": "Biology",
+    "image": "question_assets/bioD_07.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 108,
+    "number": 108,
+    "section": "Diagram-based",
+    "sourceLabel": "D8",
+    "question": "The synapse diagram marks the small gap between pre- and postsynaptic membranes. Identify it. X Presynaptic Postsynaptic",
+    "options": [
+      "Node of Ranvier",
+      "Synaptic cleft",
+      "Myelin sheath",
+      "Cell body"
+    ],
+    "answerLetter": "B",
+    "answer": "Synaptic cleft",
+    "subject": "Biology",
+    "image": "question_assets/bioD_08.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 109,
+    "number": 109,
+    "section": "Diagram-based",
+    "sourceLabel": "D9",
+    "question": "The endocrine diagram marks the butterfly-shaped gland in the neck. Identify it. X Neck",
+    "options": [
+      "Thyroid",
+      "Adrenal",
+      "Pituitary",
+      "Pineal"
+    ],
+    "answerLetter": "A",
+    "answer": "Thyroid",
+    "subject": "Biology",
+    "image": "question_assets/bioD_09.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 110,
+    "number": 110,
+    "section": "Diagram-based",
+    "sourceLabel": "D10",
+    "question": "The pancreas diagram marks clusters of endocrine cells scattered within exocrine tissue. Identify them. X",
+    "options": [
+      "Nephrons",
+      "Alveoli",
+      "Islets of Langerhans",
+      "Hepatic lobules"
+    ],
+    "answerLetter": "C",
+    "answer": "Islets of Langerhans",
+    "subject": "Biology",
+    "image": "question_assets/bioD_10.png",
+    "imageAlt": "bioD question visual"
+  },
+  {
+    "id": 111,
+    "number": 111,
+    "section": "Diagram-label",
+    "sourceLabel": "L1",
+    "question": "In the respiratory-tract diagram, label X points to the tube supported by C-shaped cartilage rings. X is: X",
+    "options": [
+      "Trachea",
+      "Bronchiole",
+      "Alveolus",
+      "Diaphragm"
+    ],
+    "answerLetter": "A",
+    "answer": "Trachea",
+    "subject": "Biology",
+    "image": "question_assets/bioL_01.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 112,
+    "number": 112,
+    "section": "Diagram-label",
+    "sourceLabel": "L2",
+    "question": "In the lung diagram, label X points to the terminal air sacs surrounded by capillaries. X is: X",
+    "options": [
+      "Larynx",
+      "Alveoli",
+      "Trachea",
+      "Pleura"
+    ],
+    "answerLetter": "B",
+    "answer": "Alveoli",
+    "subject": "Biology",
+    "image": "question_assets/bioL_02.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 113,
+    "number": 113,
+    "section": "Diagram-label",
+    "sourceLabel": "L3",
+    "question": "In the blood-smear diagram, label X points to small cell fragments involved in clot formation. X is: X",
+    "options": [
+      "RBCs",
+      "Platelets",
+      "Lymphocytes",
+      "Monocytes"
+    ],
+    "answerLetter": "B",
+    "answer": "Platelets",
+    "subject": "Biology",
+    "image": "question_assets/bioL_03.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 114,
+    "number": 114,
+    "section": "Diagram-label",
+    "sourceLabel": "L4",
+    "question": "In the heart diagram, label X points to the chamber with the thickest myocardium. X is: X RV LV",
+    "options": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle"
+    ],
+    "answerLetter": "D",
+    "answer": "Left ventricle",
+    "subject": "Biology",
+    "image": "question_assets/bioL_04.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 115,
+    "number": 115,
+    "section": "Diagram-label",
+    "sourceLabel": "L5",
+    "question": "In the nephron diagram, label X points to the descending limb of the loop of Henle. Compared with the ascending limb, X is more permeable to: X Ascending",
+    "options": [
+      "Water",
+      "Proteins",
+      "Glucose",
+      "Sodium only"
+    ],
+    "answerLetter": "A",
+    "answer": "Water",
+    "subject": "Biology",
+    "image": "question_assets/bioL_05.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 116,
+    "number": 116,
+    "section": "Diagram-label",
+    "sourceLabel": "L6",
+    "question": "In the sarcomere diagram, label X marks the boundary of one sarcomere. X is: X Z",
+    "options": [
+      "M line",
+      "H zone",
+      "Z line",
+      "A band"
+    ],
+    "answerLetter": "C",
+    "answer": "Z line",
+    "subject": "Biology",
+    "image": "question_assets/bioL_06.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 117,
+    "number": 117,
+    "section": "Diagram-label",
+    "sourceLabel": "L7",
+    "question": "In the brain diagram, label X points to the region mainly associated with posture, balance and coordination. X is: X Brain",
+    "options": [
+      "Thalamus",
+      "Cerebellum",
+      "Hypothalamus",
+      "Medulla"
+    ],
+    "answerLetter": "B",
+    "answer": "Cerebellum",
+    "subject": "Biology",
+    "image": "question_assets/bioL_07.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 118,
+    "number": 118,
+    "section": "Diagram-label",
+    "sourceLabel": "L8",
+    "question": "In the neuron diagram, label X points to the myelinated gaps where action potentials are regenerated. X is: X",
+    "options": [
+      "Synaptic clefts",
+      "Nodes of Ranvier",
+      "Dendrites",
+      "Cell bodies"
+    ],
+    "answerLetter": "B",
+    "answer": "Nodes of Ranvier",
+    "subject": "Biology",
+    "image": "question_assets/bioL_08.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 119,
+    "number": 119,
+    "section": "Diagram-label",
+    "sourceLabel": "L9",
+    "question": "In the neck diagram, label X points to small glands on the posterior surface of the thyroid. X is: Thyroid X",
+    "options": [
+      "Parathyroid glands",
+      "Adrenal glands",
+      "Pineal gland",
+      "Thymus"
+    ],
+    "answerLetter": "A",
+    "answer": "Parathyroid glands",
+    "subject": "Biology",
+    "image": "question_assets/bioL_09.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 120,
+    "number": 120,
+    "section": "Diagram-label",
+    "sourceLabel": "L10",
+    "question": "In the body diagram, label X points to a gland located superior to each kidney. X is: X",
+    "options": [
+      "Pituitary",
+      "Adrenal",
+      "Thyroid",
+      "Pancreas"
+    ],
+    "answerLetter": "B",
+    "answer": "Adrenal",
+    "subject": "Biology",
+    "image": "question_assets/bioL_10.png",
+    "imageAlt": "bioL question visual"
+  },
+  {
+    "id": 121,
+    "number": 121,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P1",
+    "question": "A student moves from sea level to high altitude. Inspired PO2 falls. During acclimatisation, ventilation rises, RBC production increases and tissue oxygen unloading becomes more effective. Which combination best explains the coordinated response?",
+    "options": [
+      "Hypoventilation, reduced RBC production and left shift",
+      "Hyperventilation, increased RBC production and enhanced unloading",
+      "Reduced ventilation, increased plasma volume and reduced unloading",
+      "Reduced haemoglobin concentration and increased affinity only"
+    ],
+    "answerLetter": "B",
+    "answer": "Hyperventilation, increased RBC production and enhanced unloading",
+    "subject": "Biology"
+  },
+  {
+    "id": 122,
+    "number": 122,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P2",
+    "question": "A person develops increased alveolar ventilation without a change in dead-space volume. Another person has the same minute ventilation but a much larger dead-space fraction. Which conclusion is most appropriate?",
+    "options": [
+      "The first person can have greater effective alveolar ventilation",
+      "The second must have greater alveolar ventilation",
+      "Dead space has no effect on alveolar ventilation",
+      "Minute ventilation alone always determines alveolar ventilation"
+    ],
+    "answerLetter": "A",
+    "answer": "The first person can have greater effective alveolar ventilation",
+    "subject": "Biology"
+  },
+  {
+    "id": 123,
+    "number": 123,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P3",
+    "question": "In metabolically active tissue, temperature, CO2 and H+ rise. At the same time, blood reaches the tissue with a high oxygen content. Which integrated effect most directly promotes oxygen delivery?",
+    "options": [
+      "Left shift with increased Hb affinity",
+      "Right shift with enhanced oxygen unloading",
+      "No change because haemoglobin affinity is fixed",
+      "Right shift that prevents oxygen release"
+    ],
+    "answerLetter": "B",
+    "answer": "Right shift with enhanced oxygen unloading",
+    "subject": "Biology"
+  },
+  {
+    "id": 124,
+    "number": 124,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P4",
+    "question": "During ventricular systole, ventricular pressure first exceeds atrial pressure and later exceeds arterial pressure. Which sequence correctly links pressure changes with valve events?",
+    "options": [
+      "AV closure followed by semilunar opening",
+      "Semilunar closure followed by AV closure",
+      "AV opening followed by semilunar closure",
+      "All valves open together"
+    ],
+    "answerLetter": "A",
+    "answer": "AV closure followed by semilunar opening",
+    "subject": "Biology"
+  },
+  {
+    "id": 125,
+    "number": 125,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P5",
+    "question": "A patient has a reduced number of functional RBCs but normal plasma volume. Another has a severe reduction in plasma proteins. Which pair of consequences is most direct?",
+    "options": [
+      "Reduced oxygen-carrying capacity; reduced colloid osmotic pressure",
+      "Increased oxygen capacity; increased oncotic pressure",
+      "Reduced lymphocyte count; increased RBC production",
+      "Increased clotting; increased oncotic pressure"
+    ],
+    "answerLetter": "A",
+    "answer": "Reduced oxygen-carrying capacity; reduced colloid osmotic pressure",
+    "subject": "Biology"
+  },
+  {
+    "id": 126,
+    "number": 126,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P6",
+    "question": "A coronary vessel is narrowed. During exercise, the affected myocardium receives inadequate oxygen despite normal pulmonary ventilation. Which conclusion follows?",
+    "options": [
+      "The problem is primarily in pulmonary gas exchange",
+      "The affected vessel belongs to coronary circulation",
+      "The vena cava is obstructed",
+      "The pulmonary vein is carrying deoxygenated blood"
+    ],
+    "answerLetter": "B",
+    "answer": "The affected vessel belongs to coronary circulation",
+    "subject": "Biology"
+  },
+  {
+    "id": 127,
+    "number": 127,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P7",
+    "question": "A freely filtered substance is almost completely reabsorbed in the PCT under normal conditions and is absent from final urine. Another substance is filtered but neither reabsorbed nor secreted. Which pair fits best?",
+    "options": [
+      "Glucose and inulin",
+      "Urea and glucose",
+      "Creatinine and glucose",
+      "Inulin and amino acids"
+    ],
+    "answerLetter": "A",
+    "answer": "Glucose and inulin",
+    "subject": "Biology"
+  },
+  {
+    "id": 128,
+    "number": 128,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P8",
+    "question": "Dehydration raises plasma osmolarity. ADH secretion increases and the collecting ducts become more permeable to water. Which additional change is required for strongly concentrated urine?",
+    "options": [
+      "Loss of medullary osmotic gradient",
+      "Maintenance of a hyperosmotic medulla",
+      "Complete inhibition of glomerular filtration",
+      "Increased water loss from collecting ducts"
+    ],
+    "answerLetter": "B",
+    "answer": "Maintenance of a hyperosmotic medulla",
+    "subject": "Biology"
+  },
+  {
+    "id": 129,
+    "number": 129,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P9",
+    "question": "The descending limb permits water movement while the ascending limb contributes solute without allowing comparable water movement. What is the functional consequence when the collecting duct responds to ADH?",
+    "options": [
+      "Water can move into the hyperosmotic medulla",
+      "Water cannot leave the collecting duct",
+      "Medullary osmolarity becomes zero",
+      "ADH acts directly as a tubular solute"
+    ],
+    "answerLetter": "A",
+    "answer": "Water can move into the hyperosmotic medulla",
+    "subject": "Biology"
+  },
+  {
+    "id": 130,
+    "number": 130,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P10",
+    "question": "A skeletal muscle is stimulated and Ca2+ is released from the sarcoplasmic reticulum. Ca2+ binds troponin, exposing actin sites. During contraction, the thick and thin filaments retain their lengths. Which combination is correct?",
+    "options": [
+      "A band remains approximately constant; I band decreases",
+      "A band decreases; I band remains constant",
+      "H zone increases; A band decreases",
+      "Myosin itself shortens; Z lines move apart"
+    ],
+    "answerLetter": "A",
+    "answer": "A band remains approximately constant; I band decreases",
+    "subject": "Biology"
+  },
+  {
+    "id": 131,
+    "number": 131,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P11",
+    "question": "A sarcomere is initially too short and then lengthened gradually. Active force first increases, reaches an optimum and then falls. Which explanation best fits the graph?",
+    "options": [
+      "Optimal overlap occurs at intermediate length",
+      "ATP is absent only at intermediate length",
+      "Calcium cannot bind at intermediate length",
+      "Thick filaments shorten at intermediate length"
+    ],
+    "answerLetter": "A",
+    "answer": "Optimal overlap occurs at intermediate length",
+    "subject": "Biology"
+  },
+  {
+    "id": 132,
+    "number": 132,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P12",
+    "question": "A painful skin stimulus produces withdrawal before conscious recognition. The sensory signal enters the CNS and an appropriate motor response is organised rapidly. Which structure is central to this rapid integration?",
+    "options": [
+      "Spinal cord",
+      "Thyroid",
+      "Cerebellum alone",
+      "Pituitary"
+    ],
+    "answerLetter": "A",
+    "answer": "Spinal cord",
+    "subject": "Biology"
+  },
+  {
+    "id": 133,
+    "number": 133,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P13",
+    "question": "A neuron reaches threshold. Voltage-gated Na+ channels open rapidly, followed by Na+ channel inactivation and increased K+ conductance. Which sequence best describes the action potential?",
+    "options": [
+      "Depolarisation followed by repolarisation",
+      "Repolarisation followed by depolarisation",
+      "Continuous graded depolarisation only",
+      "Hyperpolarisation without ion-channel changes"
+    ],
+    "answerLetter": "A",
+    "answer": "Depolarisation followed by repolarisation",
+    "subject": "Biology"
+  },
+  {
+    "id": 134,
+    "number": 134,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P14",
+    "question": "A large myelinated axon and a small unmyelinated axon carry impulses over the same distance. Which is expected?",
+    "options": [
+      "Small unmyelinated conduction is faster",
+      "Large myelinated conduction is faster due to saltatory conduction",
+      "Both have identical conduction velocity",
+      "Myelination stops action potentials"
+    ],
+    "answerLetter": "B",
+    "answer": "Large myelinated conduction is faster due to saltatory conduction",
+    "subject": "Biology"
+  },
+  {
+    "id": 135,
+    "number": 135,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P15",
+    "question": "At a chemical synapse, an action potential reaches the presynaptic terminal and Ca2+ enters. Which chain is most accurate?",
+    "options": [
+      "Ca2+ entry -> vesicle fusion -> neurotransmitter release",
+      "Ca2+ entry -> DNA replication -> neurotransmitter -> postsynaptic response release",
+      "Ca2+ entry -> myelin breakdown -> receptor synthesis",
+      "Ca2+ entry -> inhibition of all membrane proteins"
+    ],
+    "answerLetter": "A",
+    "answer": "Ca2+ entry -> vesicle fusion -> neurotransmitter release",
+    "subject": "Biology"
+  },
+  {
+    "id": 136,
+    "number": 136,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P16",
+    "question": "Blood glucose rises after a meal. Pancreatic beta cells respond and glucose later approaches normal. Which feedback relationship is involved?",
+    "options": [
+      "Insulin secretion promotes correction and the stimulus then decreases",
+      "Glucagon secretion continuously raises glucose",
+      "Insulin and glucagon must both remain maximal",
+      "Hormones have no role in the correction"
+    ],
+    "answerLetter": "A",
+    "answer": "Insulin secretion promotes correction and the stimulus then decreases",
+    "subject": "Biology"
+  },
+  {
+    "id": 137,
+    "number": 137,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P17",
+    "question": "Plasma Ca2+ falls. A hormone increases calcium availability partly through effects on bone and kidney. Which hormone and direction of regulation are correct?",
+    "options": [
+      "PTH; raises plasma Ca2+",
+      "Calcitonin; raises plasma Ca2+",
+      "Insulin; raises plasma Ca2+",
+      "Melatonin; raises plasma Ca2+"
+    ],
+    "answerLetter": "A",
+    "answer": "PTH; raises plasma Ca2+",
+    "subject": "Biology"
+  },
+  {
+    "id": 138,
+    "number": 138,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P18",
+    "question": "TSH rises and thyroid hormone secretion increases. As thyroid hormone concentration rises, upstream stimulation is reduced. Which interpretation is most appropriate?",
+    "options": [
+      "Thyroid hormone participates in negative feedback",
+      "Thyroid hormone causes only positive feedback",
+      "TSH is secreted by thyroid follicles",
+      "Thyroid hormone is produced by adrenal medulla"
+    ],
+    "answerLetter": "A",
+    "answer": "Thyroid hormone participates in negative feedback",
+    "subject": "Biology"
+  },
+  {
+    "id": 139,
+    "number": 139,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P19",
+    "question": "A person has a very rapid heart rate. Initially cardiac output rises, but at still higher rates it falls. Which pair of mechanisms best explains the change?",
+    "options": [
+      "Increased rate initially raises output; excessive rate shortens filling time",
+      "Increased rate always lowers venous return",
+      "Excessive rate always increases ventricular filling time",
+      "Cardiac output is independent of filling"
+    ],
+    "answerLetter": "A",
+    "answer": "Increased rate initially raises output; excessive rate shortens filling time",
+    "subject": "Biology"
+  },
+  {
+    "id": 140,
+    "number": 140,
+    "section": "Very Very Hard Paragraph-based",
+    "sourceLabel": "P20",
+    "question": "A dehydrated person at high altitude has increased plasma osmolarity and reduced inspired PO2. Which pair of responses would be expected without assuming a change in the basic direction of either control system?",
+    "options": [
+      "Increased ADH action and increased ventilation",
+      "Reduced ADH action and reduced ventilation",
+      "Reduced ADH action and increased ventilation",
+      "Increased ADH action and reduced ventilation"
+    ],
+    "answerLetter": "A",
+    "answer": "Increased ADH action and increased ventilation",
+    "subject": "Biology"
+  },
+  {
+    "id": 141,
+    "number": 141,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N1",
+    "question": "Which statement is correct?",
+    "options": [
+      "Vital capacity includes residual volume",
+      "Inspiratory capacity equals tidal volume plus inspiratory reserve volume",
+      "Residual volume can be exhaled forcefully",
+      "Expiratory capacity includes residual volume"
+    ],
+    "answerLetter": "B",
+    "answer": "Inspiratory capacity equals tidal volume plus inspiratory reserve volume",
+    "subject": "Biology"
+  },
+  {
+    "id": 142,
+    "number": 142,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N2",
+    "question": "Most CO2 in human blood is transported mainly as:",
+    "options": [
+      "Dissolved CO2",
+      "Carbaminohaemoglobin",
+      "Bicarbonate ions",
+      "Carbonic acid only"
+    ],
+    "answerLetter": "C",
+    "answer": "Bicarbonate ions",
+    "subject": "Biology"
+  },
+  {
+    "id": 143,
+    "number": 143,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N3",
+    "question": "Which statement about gas exchange is correct?",
+    "options": [
+      "O2 diffuses from blood to alveoli in normal pulmonary exchange",
+      "CO2 normally diffuses from alveoli to blood",
+      "O2 diffuses from alveoli to blood because of a partial-pressure gradient",
+      "Both gases move only by active transport"
+    ],
+    "answerLetter": "C",
+    "answer": "O2 diffuses from alveoli to blood because of a partial-pressure gradient",
+    "subject": "Biology"
+  },
+  {
+    "id": 144,
+    "number": 144,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N4",
+    "question": "Which statement is correct?",
+    "options": [
+      "Pulmonary artery carries oxygenated blood",
+      "Pulmonary vein carries oxygenated blood",
+      "Aorta leaves the right ventricle",
+      "Vena cava carries oxygenated blood from lungs"
+    ],
+    "answerLetter": "B",
+    "answer": "Pulmonary vein carries oxygenated blood",
+    "subject": "Biology"
+  },
+  {
+    "id": 145,
+    "number": 145,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N5",
+    "question": "Which statement about valves is correct?",
+    "options": [
+      "AV valves prevent backflow into atria during ventricular",
+      "Semilunar valves remain open throughout diastole systole",
+      "All valves open simultaneously",
+      "AV valves open when ventricular pressure exceeds atrial pressure"
+    ],
+    "answerLetter": "A",
+    "answer": "AV valves prevent backflow into atria during ventricular",
+    "subject": "Biology"
+  },
+  {
+    "id": 146,
+    "number": 146,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N6",
+    "question": "Which formed element is directly associated with blood clotting?",
+    "options": [
+      "RBC",
+      "Platelet",
+      "Lymphocyte",
+      "Monocyte"
+    ],
+    "answerLetter": "B",
+    "answer": "Platelet",
+    "subject": "Biology"
+  },
+  {
+    "id": 147,
+    "number": 147,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N7",
+    "question": "Which statement is correct?",
+    "options": [
+      "Nephrons are structural and functional units of kidneys",
+      "Ureter is the functional unit of kidney",
+      "Glucose is normally abundant in final urine",
+      "Bowman capsule is a blood vessel"
+    ],
+    "answerLetter": "A",
+    "answer": "Nephrons are structural and functional units of kidneys",
+    "subject": "Biology"
+  },
+  {
+    "id": 148,
+    "number": 148,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N8",
+    "question": "Which statement about the loop of Henle is correct?",
+    "options": [
+      "Descending limb is relatively impermeable to water",
+      "Ascending limb is relatively impermeable to water",
+      "Both limbs have identical permeability to water",
+      "Neither limb contributes to urine concentration"
+    ],
+    "answerLetter": "B",
+    "answer": "Ascending limb is relatively impermeable to water",
+    "subject": "Biology"
+  },
+  {
+    "id": 149,
+    "number": 149,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N9",
+    "question": "ADH primarily increases water reabsorption by increasing water permeability of:",
+    "options": [
+      "Collecting ducts and distal nephron",
+      "Glomerulus only",
+      "Ureter",
+      "Renal artery"
+    ],
+    "answerLetter": "A",
+    "answer": "Collecting ducts and distal nephron",
+    "subject": "Biology"
+  },
+  {
+    "id": 150,
+    "number": 150,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N10",
+    "question": "Under normal conditions, glucose reabsorption occurs mainly in:",
+    "options": [
+      "PCT",
+      "Loop of Henle",
+      "Collecting duct",
+      "Ureter"
+    ],
+    "answerLetter": "A",
+    "answer": "PCT",
+    "subject": "Biology"
+  },
+  {
+    "id": 151,
+    "number": 151,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N11",
+    "question": "Which statement is correct?",
+    "options": [
+      "Actin is a thick filament",
+      "Myosin is a thin filament",
+      "A band remains approximately constant during sliding-filament contraction",
+      "H zone becomes wider during contraction"
+    ],
+    "answerLetter": "C",
+    "answer": "A band remains approximately constant during sliding-filament contraction",
+    "subject": "Biology"
+  },
+  {
+    "id": 152,
+    "number": 152,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N12",
+    "question": "Calcium initiates skeletal muscle contraction by binding to:",
+    "options": [
+      "Troponin",
+      "Myosin tail",
+      "ATP synthase",
+      "Actin active site directly"
+    ],
+    "answerLetter": "A",
+    "answer": "Troponin",
+    "subject": "Biology"
+  },
+  {
+    "id": 153,
+    "number": 153,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N13",
+    "question": "Which statement is correct about a sarcomere?",
+    "options": [
+      "Z lines move farther apart during contraction",
+      "Thin and thick filaments themselves shorten",
+      "Distance between Z lines decreases during contraction",
+      "A band disappears during contraction"
+    ],
+    "answerLetter": "C",
+    "answer": "Distance between Z lines decreases during contraction",
+    "subject": "Biology"
+  },
+  {
+    "id": 154,
+    "number": 154,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N14",
+    "question": "Which statement is correct?",
+    "options": [
+      "Myelin generally increases conduction speed",
+      "Dendrites normally carry impulses only away from cell body",
+      "Chemical synapses do not involve neurotransmitters",
+      "Action potential amplitude continuously scales with stimulus after threshold"
+    ],
+    "answerLetter": "A",
+    "answer": "Myelin generally increases conduction speed",
+    "subject": "Biology"
+  },
+  {
+    "id": 155,
+    "number": 155,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N15",
+    "question": "The P wave of a normal ECG is analogous, in terms of electrical event, to:",
+    "options": [
+      "Ventricular repolarisation",
+      "Atrial depolarisation",
+      "Ventricular depolarisation",
+      "Atrial contraction itself"
+    ],
+    "answerLetter": "B",
+    "answer": "Atrial depolarisation",
+    "subject": "Biology"
+  },
+  {
+    "id": 156,
+    "number": 156,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N16",
+    "question": "Which statement is correct?",
+    "options": [
+      "Cerebellum is the primary endocrine gland",
+      "Cerebellum is associated with coordination and posture",
+      "Thalamus secretes insulin",
+      "Medulla is a pancreatic gland"
+    ],
+    "answerLetter": "B",
+    "answer": "Cerebellum is associated with coordination and posture",
+    "subject": "Biology"
+  },
+  {
+    "id": 157,
+    "number": 157,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N17",
+    "question": "Which statement is correct?",
+    "options": [
+      "Insulin raises blood glucose",
+      "Glucagon lowers blood glucose",
+      "Insulin is secreted by pancreatic beta cells",
+      "Glucagon is secreted by pancreatic beta cells"
+    ],
+    "answerLetter": "C",
+    "answer": "Insulin is secreted by pancreatic beta cells",
+    "subject": "Biology"
+  },
+  {
+    "id": 158,
+    "number": 158,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N18",
+    "question": "Which statement is correct?",
+    "options": [
+      "PTH lowers plasma Ca2+",
+      "Calcitonin tends to lower plasma Ca2+",
+      "ADH is secreted by pancreatic beta cells",
+      "Melatonin is secreted by adrenal cortex"
+    ],
+    "answerLetter": "B",
+    "answer": "Calcitonin tends to lower plasma Ca2+",
+    "subject": "Biology"
+  },
+  {
+    "id": 159,
+    "number": 159,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N19",
+    "question": "Which statement is correct?",
+    "options": [
+      "Thyroxine is controlled through hypothalamic-pituitary-thyroid regulation",
+      "TSH is secreted by thyroid follicles",
+      "Adrenaline is secreted by adrenal cortex",
+      "Melatonin is secreted by pituitary"
+    ],
+    "answerLetter": "A",
+    "answer": "Thyroxine is controlled through hypothalamic-pituitary-thyroid regulation",
+    "subject": "Biology"
+  },
+  {
+    "id": 160,
+    "number": 160,
+    "section": "NCERT-confusing",
+    "sourceLabel": "N20",
+    "question": "Which statement best describes endocrine glands?",
+    "options": [
+      "They release hormones through ducts",
+      "They lack ducts and release hormones into body fluids",
+      "Every hormone acts equally on every cell",
+      "Hormones are never transported by blood"
+    ],
+    "answerLetter": "B",
+    "answer": "They lack ducts and release hormones into body fluids",
+    "subject": "Biology"
+  },
+  {
+    "id": 161,
+    "number": 161,
+    "section": "PYQ-based",
+    "sourceLabel": "Y1",
+    "question": "A respiratory volume that cannot be measured directly by simple spirometry is:",
+    "options": [
+      "Tidal volume",
+      "Inspiratory reserve volume",
+      "Residual volume",
+      "Expiratory reserve volume"
+    ],
+    "answerLetter": "C",
+    "answer": "Residual volume",
+    "subject": "Biology"
+  },
+  {
+    "id": 162,
+    "number": 162,
+    "section": "PYQ-based",
+    "sourceLabel": "Y2",
+    "question": "The correct sequence for human respiration is best represented by:",
+    "options": [
+      "Ventilation -> alveolar diffusion -> gas transport -> tissue diffusion -> cellular respiration",
+      "Cellular respiration -> ventilation -> tissue diffusion -> gas transport",
+      "Ventilation -> cellular respiration -> alveolar diffusion ->",
+      "Tissue diffusion -> ventilation -> cellular respiration -> tissue diffusion gas transport"
+    ],
+    "answerLetter": "A",
+    "answer": "Ventilation -> alveolar diffusion -> gas transport -> tissue diffusion -> cellular respiration",
+    "subject": "Biology"
+  },
+  {
+    "id": 163,
+    "number": 163,
+    "section": "PYQ-based",
+    "sourceLabel": "Y3",
+    "question": "Which condition favours oxygen unloading from haemoglobin in actively respiring tissue?",
+    "options": [
+      "Lower CO2 and lower H+",
+      "Higher CO2 and H+",
+      "Lower temperature",
+      "Increased haemoglobin affinity"
+    ],
+    "answerLetter": "B",
+    "answer": "Higher CO2 and H+",
+    "subject": "Biology"
+  },
+  {
+    "id": 164,
+    "number": 164,
+    "section": "PYQ-based",
+    "sourceLabel": "Y4",
+    "question": "The largest fraction of carbon dioxide transported in human blood is carried as:",
+    "options": [
+      "Bicarbonate",
+      "Carbaminohaemoglobin",
+      "Dissolved gas",
+      "Carbon monoxide"
+    ],
+    "answerLetter": "A",
+    "answer": "Bicarbonate",
+    "subject": "Biology"
+  },
+  {
+    "id": 165,
+    "number": 165,
+    "section": "PYQ-based",
+    "sourceLabel": "Y5",
+    "question": "Which vessel carries deoxygenated blood from the right ventricle toward the lungs?",
+    "options": [
+      "Aorta",
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Vena cava"
+    ],
+    "answerLetter": "B",
+    "answer": "Pulmonary artery",
+    "subject": "Biology"
+  },
+  {
+    "id": 166,
+    "number": 166,
+    "section": "PYQ-based",
+    "sourceLabel": "Y6",
+    "question": "The electrical event represented by the P wave is:",
+    "options": [
+      "Atrial depolarisation",
+      "Ventricular depolarisation",
+      "Ventricular repolarisation",
+      "Ventricular contraction itself"
+    ],
+    "answerLetter": "A",
+    "answer": "Atrial depolarisation",
+    "subject": "Biology"
+  },
+  {
+    "id": 167,
+    "number": 167,
+    "section": "PYQ-based",
+    "sourceLabel": "Y7",
+    "question": "The chamber with the thickest muscular wall is:",
+    "options": [
+      "Right atrium",
+      "Right ventricle",
+      "Left atrium",
+      "Left ventricle"
+    ],
+    "answerLetter": "D",
+    "answer": "Left ventricle",
+    "subject": "Biology"
+  },
+  {
+    "id": 168,
+    "number": 168,
+    "section": "PYQ-based",
+    "sourceLabel": "Y8",
+    "question": "The formed element most directly associated with blood coagulation is:",
+    "options": [
+      "Platelets",
+      "RBCs",
+      "Lymphocytes",
+      "Eosinophils"
+    ],
+    "answerLetter": "A",
+    "answer": "Platelets",
+    "subject": "Biology"
+  },
+  {
+    "id": 169,
+    "number": 169,
+    "section": "PYQ-based",
+    "sourceLabel": "Y9",
+    "question": "The counter-current mechanism involves functional association between the loop of Henle and:",
+    "options": [
+      "Vasa recta",
+      "Aorta",
+      "Pulmonary artery",
+      "Hepatic portal vein"
+    ],
+    "answerLetter": "A",
+    "answer": "Vasa recta",
+    "subject": "Biology"
+  },
+  {
+    "id": 170,
+    "number": 170,
+    "section": "PYQ-based",
+    "sourceLabel": "Y10",
+    "question": "Under normal conditions, the major site of glucose reabsorption is:",
+    "options": [
+      "PCT",
+      "DCT",
+      "Collecting duct",
+      "Ureter"
+    ],
+    "answerLetter": "A",
+    "answer": "PCT",
+    "subject": "Biology"
+  },
+  {
+    "id": 171,
+    "number": 171,
+    "section": "PYQ-based",
+    "sourceLabel": "Y11",
+    "question": "Which hormone promotes water reabsorption in the distal nephron and collecting duct?",
+    "options": [
+      "Insulin",
+      "ADH",
+      "Thyroxine",
+      "Calcitonin"
+    ],
+    "answerLetter": "B",
+    "answer": "ADH",
+    "subject": "Biology"
+  },
+  {
+    "id": 172,
+    "number": 172,
+    "section": "PYQ-based",
+    "sourceLabel": "Y12",
+    "question": "Which band remains nearly unchanged during sliding-filament contraction?",
+    "options": [
+      "A band",
+      "I band",
+      "H zone",
+      "Sarcomere length"
+    ],
+    "answerLetter": "A",
+    "answer": "A band",
+    "subject": "Biology"
+  },
+  {
+    "id": 173,
+    "number": 173,
+    "section": "PYQ-based",
+    "sourceLabel": "Y13",
+    "question": "Calcium initiates skeletal muscle contraction by interacting with:",
+    "options": [
+      "Troponin",
+      "Myosin tail",
+      "ATP synthase",
+      "Actin DNA"
+    ],
+    "answerLetter": "A",
+    "answer": "Troponin",
+    "subject": "Biology"
+  },
+  {
+    "id": 174,
+    "number": 174,
+    "section": "PYQ-based",
+    "sourceLabel": "Y14",
+    "question": "A ball-and-socket joint is exemplified by the:",
+    "options": [
+      "Elbow",
+      "Knee",
+      "Shoulder",
+      "Interphalangeal joint"
+    ],
+    "answerLetter": "C",
+    "answer": "Shoulder",
+    "subject": "Biology"
+  },
+  {
+    "id": 175,
+    "number": 175,
+    "section": "PYQ-based",
+    "sourceLabel": "Y15",
+    "question": "Saltatory conduction is associated with impulse regeneration at:",
+    "options": [
+      "Dendrites",
+      "Nodes of Ranvier",
+      "Cell bodies",
+      "Synaptic clefts"
+    ],
+    "answerLetter": "B",
+    "answer": "Nodes of Ranvier",
+    "subject": "Biology"
+  },
+  {
+    "id": 176,
+    "number": 176,
+    "section": "PYQ-based",
+    "sourceLabel": "Y16",
+    "question": "The brain region most closely associated with balance and coordination is:",
+    "options": [
+      "Cerebellum",
+      "Hypothalamus",
+      "Thalamus",
+      "Medulla"
+    ],
+    "answerLetter": "A",
+    "answer": "Cerebellum",
+    "subject": "Biology"
+  },
+  {
+    "id": 177,
+    "number": 177,
+    "section": "PYQ-based",
+    "sourceLabel": "Y17",
+    "question": "At a chemical synapse, neurotransmitter release occurs from the:",
+    "options": [
+      "Presynaptic terminal",
+      "Postsynaptic nucleus",
+      "Myelin sheath",
+      "Axon hillock only"
+    ],
+    "answerLetter": "A",
+    "answer": "Presynaptic terminal",
+    "subject": "Biology"
+  },
+  {
+    "id": 178,
+    "number": 178,
+    "section": "PYQ-based",
+    "sourceLabel": "Y18",
+    "question": "Insulin is secreted mainly by:",
+    "options": [
+      "Pancreatic alpha cells",
+      "Pancreatic beta cells",
+      "Adrenal cortex",
+      "Thyroid follicles"
+    ],
+    "answerLetter": "B",
+    "answer": "Pancreatic beta cells",
+    "subject": "Biology"
+  },
+  {
+    "id": 179,
+    "number": 179,
+    "section": "PYQ-based",
+    "sourceLabel": "Y19",
+    "question": "Which hormone raises blood glucose partly by promoting glycogen breakdown?",
+    "options": [
+      "Insulin",
+      "Glucagon",
+      "Calcitonin",
+      "ADH"
+    ],
+    "answerLetter": "B",
+    "answer": "Glucagon",
+    "subject": "Biology"
+  },
+  {
+    "id": 180,
+    "number": 180,
+    "section": "PYQ-based",
+    "sourceLabel": "Y20",
+    "question": "Melatonin is secreted by the:",
+    "options": [
+      "Pineal gland",
+      "Thymus",
+      "Adrenal cortex",
+      "Parathyroid"
+    ],
+    "answerLetter": "A",
+    "answer": "Pineal gland",
+    "subject": "Biology"
+  }
+]
