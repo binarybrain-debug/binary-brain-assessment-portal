@@ -722,3 +722,21 @@ body {
     background: #ffffff !important;
     background-image: none !important;
 }
+/* ===== FORCE WHITE BACKGROUND EVERYWHERE ===== */
+
+html,
+body {
+    background: #ffffff !important;
+    background-color: #ffffff !important;
+    background-image: none !important;
+}
+
+/* Mobile specifically */
+@media screen and (max-width: 600px) {
+    html,
+    body {
+        background: #ffffff !important;
+        background-color: #ffffff !important;
+        background-image: none !important;
+    }
+}
