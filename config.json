@@ -2,7 +2,7 @@
   "tests": {
     "SET1": {
       "name": "NEET MOCK TEST 1",
-      "password": "1432",
+      "password": "serverroom",
       "file": "questions1.json"
     },
     "SET2": {
