@@ -4,7 +4,17 @@ let config = {};
 fetch("config.json")
 .then(res => res.json())
 .then(data => {
+
     config = data;
+
+    if (config.siteOpen === false) {
+
+        document.getElementById("siteClosedPage").style.display = "flex";
+
+        document.querySelector(".container").style.display = "none";
+
+        return;
+    }
 
     document.getElementById("testTitle").innerText =
         config.tests.SET1.name;
