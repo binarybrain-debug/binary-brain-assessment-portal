@@ -524,3 +524,176 @@ button:hover{
 .stat-box.wrong strong{
     color:#dc2626;
 }
+/* =========================================
+   BINARY BRAIN - QUESTION PALETTE LAYOUT
+   ========================================= */
+
+.examLayout {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
+
+#questionArea {
+    width: 100%;
+}
+
+/* Right panel comes BELOW questions */
+.rightPanel {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+/* =========================================
+   QUESTION PALETTE
+   ========================================= */
+
+#palette {
+    width: 100%;
+    height: 100px;
+
+    display: grid;
+
+    /* 2 horizontal rows */
+    grid-template-rows: repeat(2, 40px);
+
+    /* Numbers move horizontally */
+    grid-auto-flow: column;
+    grid-auto-columns: 40px;
+
+    gap: 7px;
+
+    padding: 8px;
+
+    box-sizing: border-box;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    background: #f5f6fa;
+    border: 1px solid #d9dce5;
+    border-radius: 12px;
+
+    align-content: start;
+    justify-content: start;
+}
+
+/* Individual question numbers */
+
+#palette button {
+    width: 40px !important;
+    height: 40px !important;
+
+    min-width: 40px !important;
+    min-height: 40px !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 8px;
+
+    font-size: 13px !important;
+    font-weight: 600;
+
+    cursor: pointer;
+}
+
+/* =========================================
+   NAVIGATION BUTTONS
+   ========================================= */
+
+.navigation {
+    width: 100%;
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    gap: 10px;
+}
+
+.navigation button {
+    width: 100%;
+    margin: 0;
+}
+
+/* =========================================
+   MOBILE
+   ========================================= */
+
+@media (max-width: 600px) {
+
+    .examLayout {
+        gap: 12px;
+    }
+
+    .rightPanel {
+        gap: 10px;
+    }
+
+    #palette {
+        height: 82px;
+
+        grid-template-rows: repeat(2, 34px);
+        grid-auto-columns: 34px;
+
+        gap: 6px;
+
+        padding: 7px;
+
+        border-radius: 10px;
+    }
+
+    #palette button {
+        width: 34px !important;
+        height: 34px !important;
+
+        min-width: 34px !important;
+        min-height: 34px !important;
+
+        font-size: 11px !important;
+        border-radius: 7px;
+    }
+
+    .navigation {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 8px;
+    }
+
+    .navigation button {
+        padding: 10px 6px;
+        font-size: 13px;
+    }
+}
+
+/* =========================================
+   SMALL MOBILE
+   ========================================= */
+
+@media (max-width: 380px) {
+
+    #palette {
+        height: 76px;
+
+        grid-template-rows: repeat(2, 32px);
+        grid-auto-columns: 32px;
+
+        gap: 5px;
+    }
+
+    #palette button {
+        width: 32px !important;
+        height: 32px !important;
+
+        min-width: 32px !important;
+        min-height: 32px !important;
+
+        font-size: 10px !important;
+    }
+}
