@@ -1,1 +1,1962 @@
-
+[
+  {
+    "number": 1,
+    "question": "Atomic radius generally decreases across a period because:",
+    "options": [
+      "Effective nuclear charge increases",
+      "Number of shells increases",
+      "Nuclear charge decreases",
+      "Shielding becomes complete"
+    ],
+    "answer": "Effective nuclear charge increases"
+  },
+  {
+    "number": 2,
+    "question": "Assertion (A): Be has higher first ionisation enthalpy than B.\nReason (R): The electron removed from B is from a higher-energy 2p orbital.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 3,
+    "question": "Be has higher first ionisation enthalpy than B mainly because:",
+    "options": [
+      "Be has a filled 2s subshell",
+      "B has a filled 2s subshell",
+      "Be is larger",
+      "B has lower nuclear charge"
+    ],
+    "answer": "Be has a filled 2s subshell"
+  },
+  {
+    "number": 4,
+    "question": "Assertion (A): Cl has more negative electron gain enthalpy than F.\nReason (R): The added electron in F enters a compact 2p orbital and experiences greater repulsion.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 5,
+    "question": "Correct increasing atomic radius order is:",
+    "options": [
+      "F < Cl < Br",
+      "Br < Cl < F",
+      "Cl < F < Br",
+      "F < Br < Cl"
+    ],
+    "answer": "F < Cl < Br"
+  },
+  {
+    "number": 6,
+    "question": "Assertion (A): Atomic radius decreases across a period.\nReason (R): Effective nuclear charge generally increases across the period.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 7,
+    "question": "Metallic character across a period generally:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Remains constant",
+      "Changes randomly"
+    ],
+    "answer": "Decreases"
+  },
+  {
+    "number": 8,
+    "question": "Assertion (A): NH3 is trigonal pyramidal.\nReason (R): Nitrogen has one lone pair and three bond pairs.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 9,
+    "question": "Most effective shielding is provided by:",
+    "options": [
+      "Inner-shell electrons",
+      "Same-shell electrons",
+      "Nuclear protons",
+      "Neutrons"
+    ],
+    "answer": "Inner-shell electrons"
+  },
+  {
+    "number": 10,
+    "question": "Assertion (A): CO2 has zero dipole moment.\nReason (R): Equal bond dipoles cancel in its linear geometry.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 11,
+    "question": "Most basic oxide is:",
+    "options": [
+      "Na2O",
+      "Al2O3",
+      "SiO2",
+      "Cl2O7"
+    ],
+    "answer": "Na2O"
+  },
+  {
+    "number": 12,
+    "question": "Assertion (A): O2 is paramagnetic.\nReason (R): O2 contains unpaired electrons in molecular orbitals.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 13,
+    "question": "Smallest atomic radius among Li, Be, B and C is:",
+    "options": [
+      "Li",
+      "Be",
+      "B",
+      "C"
+    ],
+    "answer": "C"
+  },
+  {
+    "number": 14,
+    "question": "Assertion (A): BF3 is a Lewis acid.\nReason (R): Electron-deficient boron can accept an electron pair.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 15,
+    "question": "Atomic radius down a group generally:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Remains constant",
+      "Becomes zero"
+    ],
+    "answer": "Increases"
+  },
+  {
+    "number": 16,
+    "question": "Assertion (A): PCl5 is trigonal bipyramidal.\nReason (R): Its central atom has five bond pairs and no lone pair.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 17,
+    "question": "Similar sizes due to lanthanoid contraction are shown by:",
+    "options": [
+      "Zr and Hf",
+      "Na and K",
+      "Li and Na",
+      "Mg and Ca"
+    ],
+    "answer": "Zr and Hf"
+  },
+  {
+    "number": 18,
+    "question": "Assertion (A): MgO has greater lattice enthalpy than NaCl.\nReason (R): The ions in MgO have higher charges.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 19,
+    "question": "Isoelectronic with Ne is:",
+    "options": [
+      "Na+",
+      "K+",
+      "Cl−",
+      "Ca2+"
+    ],
+    "answer": "Na+"
+  },
+  {
+    "number": 20,
+    "question": "Assertion (A): Carbonate ion is resonance-stabilised.\nReason (R): Its pi electron density is delocalised over equivalent C-O bonds.",
+    "options": [
+      "Both A and R are true and R correctly explains A",
+      "Both A and R are true but R does not correctly explain A",
+      "A is true but R is false",
+      "A is false but R is true"
+    ],
+    "answer": "Both A and R are true and R correctly explains A"
+  },
+  {
+    "number": 21,
+    "question": "Effective nuclear charge generally across a period:",
+    "options": [
+      "Increases",
+      "Decreases",
+      "Becomes zero",
+      "Is unrelated to shielding"
+    ],
+    "answer": "Increases"
+  },
+  {
+    "number": 22,
+    "question": "Greatest electronegativity among C, N, O and F is:",
+    "options": [
+      "C",
+      "N",
+      "O",
+      "F"
+    ],
+    "answer": "F"
+  },
+  {
+    "number": 23,
+    "question": "Largest atom in Group 17 is:",
+    "options": [
+      "F",
+      "Cl",
+      "Br",
+      "I"
+    ],
+    "answer": "I"
+  },
+  {
+    "number": 24,
+    "question": "Correct ionic-radius order is:",
+    "options": [
+      "O2− > F− > Na+ > Mg2+",
+      "Mg2+ > Na+ > F− > O2−",
+      "F− > O2− > Na+ > Mg2+",
+      "Na+ > Mg2+ > F− > O2−"
+    ],
+    "answer": "O2− > F− > Na+ > Mg2+"
+  },
+  {
+    "number": 25,
+    "question": "Greatest tendency to form a cation is shown by:",
+    "options": [
+      "Na",
+      "Cl",
+      "O",
+      "F"
+    ],
+    "answer": "Na"
+  },
+  {
+    "number": 26,
+    "question": "Second ionisation enthalpy of Na is exceptionally high because:",
+    "options": [
+      "Na+ has noble-gas configuration",
+      "Na has no electrons",
+      "Na is a halogen",
+      "Na has the smallest nucleus"
+    ],
+    "answer": "Na+ has noble-gas configuration"
+  },
+  {
+    "number": 27,
+    "question": "Correct first ionisation enthalpy order is:",
+    "options": [
+      "B < C < O < N",
+      "B < C < N < O",
+      "O < N < C < B",
+      "C < B < N < O"
+    ],
+    "answer": "B < C < O < N"
+  },
+  {
+    "number": 28,
+    "question": "Most metallic among Li, Na, K and Rb is:",
+    "options": [
+      "Li",
+      "Na",
+      "K",
+      "Rb"
+    ],
+    "answer": "Rb"
+  },
+  {
+    "number": 29,
+    "question": "Most negative electron gain enthalpy among F, Cl, Br and I is generally:",
+    "options": [
+      "F",
+      "Cl",
+      "Br",
+      "I"
+    ],
+    "answer": "Cl"
+  },
+  {
+    "number": 30,
+    "question": "A cation is generally ____ than its parent atom.",
+    "options": [
+      "Smaller",
+      "Larger",
+      "Equal",
+      "Unpredictable"
+    ],
+    "answer": "Smaller"
+  },
+  {
+    "number": 31,
+    "question": "An anion is generally ____ than its parent atom.",
+    "options": [
+      "Smaller",
+      "Larger",
+      "Equal",
+      "Zero"
+    ],
+    "answer": "Larger"
+  },
+  {
+    "number": 32,
+    "question": "Periodicity mainly arises from repetition of:",
+    "options": [
+      "Valence-shell electronic configurations",
+      "Atomic masses",
+      "Neutron numbers",
+      "Nuclear spin"
+    ],
+    "answer": "Valence-shell electronic configurations"
+  },
+  {
+    "number": 33,
+    "question": "Same number of valence electrons is found in:",
+    "options": [
+      "Na and K",
+      "Na and Mg",
+      "O and F",
+      "C and N"
+    ],
+    "answer": "Na and K"
+  },
+  {
+    "number": 34,
+    "question": "Smallest atom among Na, Mg, Al and Si is:",
+    "options": [
+      "Na",
+      "Mg",
+      "Al",
+      "Si"
+    ],
+    "answer": "Si"
+  },
+  {
+    "number": 35,
+    "question": "Amphoteric oxide is:",
+    "options": [
+      "Na2O",
+      "MgO",
+      "Al2O3",
+      "SO3"
+    ],
+    "answer": "Al2O3"
+  },
+  {
+    "number": 36,
+    "question": "Property generally decreasing down Group 1 is:",
+    "options": [
+      "Atomic radius",
+      "Metallic character",
+      "Ionisation enthalpy",
+      "Number of shells"
+    ],
+    "answer": "Ionisation enthalpy"
+  },
+  {
+    "number": 37,
+    "question": "Property generally increasing down Group 17 is:",
+    "options": [
+      "Electronegativity",
+      "Atomic radius",
+      "Ionisation enthalpy",
+      "Electron gain enthalpy without exception"
+    ],
+    "answer": "Atomic radius"
+  },
+  {
+    "number": 38,
+    "question": "Half-filled p subshell is present in:",
+    "options": [
+      "C",
+      "N",
+      "O",
+      "F"
+    ],
+    "answer": "N"
+  },
+  {
+    "number": 39,
+    "question": "Second-period elements have:",
+    "options": [
+      "Two occupied electron shells",
+      "Three occupied shells",
+      "d electrons",
+      "Only +2 ions"
+    ],
+    "answer": "Two occupied electron shells"
+  },
+  {
+    "number": 40,
+    "question": "Correct size order is:",
+    "options": [
+      "Na+ < Na < Na−",
+      "Na− < Na < Na+",
+      "Na < Na+ < Na−",
+      "Na+ < Na− < Na"
+    ],
+    "answer": "Na+ < Na < Na−"
+  },
+  {
+    "number": 41,
+    "question": "Main factor opposing nuclear attraction on an outer electron is:",
+    "options": [
+      "Shielding effect",
+      "Atomic mass",
+      "Nuclear spin",
+      "Mass number"
+    ],
+    "answer": "Shielding effect"
+  },
+  {
+    "number": 42,
+    "question": "Stable half-filled p configuration is shown by:",
+    "options": [
+      "C",
+      "N",
+      "O",
+      "F"
+    ],
+    "answer": "N"
+  },
+  {
+    "number": 43,
+    "question": "Periodic trends are jointly controlled by:",
+    "options": [
+      "Effective nuclear charge, shielding and shell number",
+      "Atomic mass only",
+      "Neutron number only",
+      "Nuclear size only"
+    ],
+    "answer": "Effective nuclear charge, shielding and shell number"
+  },
+  {
+    "number": 44,
+    "question": "Correct metallic-character order is:",
+    "options": [
+      "Na > Mg > Al > Si",
+      "Si > Al > Mg > Na",
+      "Mg > Na > Si > Al",
+      "Al > Mg > Na > Si"
+    ],
+    "answer": "Na > Mg > Al > Si"
+  },
+  {
+    "number": 45,
+    "question": "Greatest tendency to attract a shared electron pair is shown by:",
+    "options": [
+      "C",
+      "N",
+      "O",
+      "F"
+    ],
+    "answer": "F"
+  },
+  {
+    "number": 46,
+    "question": "Shape of NH3 is:",
+    "options": [
+      "Linear",
+      "Trigonal planar",
+      "Trigonal pyramidal",
+      "Tetrahedral"
+    ],
+    "answer": "Trigonal pyramidal"
+  },
+  {
+    "number": 47,
+    "question": "Hybridisation of carbon in CH4 is:",
+    "options": [
+      "sp",
+      "sp2",
+      "sp3",
+      "dsp2"
+    ],
+    "answer": "sp3"
+  },
+  {
+    "number": 48,
+    "question": "H2O has a smaller bond angle than NH3 mainly because:",
+    "options": [
+      "H2O has two lone pairs on oxygen",
+      "H2O has no lone pairs",
+      "NH3 has two lone pairs",
+      "O is less electronegative"
+    ],
+    "answer": "H2O has two lone pairs on oxygen"
+  },
+  {
+    "number": 49,
+    "question": "Linear molecule is:",
+    "options": [
+      "NH3",
+      "H2O",
+      "BeCl2",
+      "CH4"
+    ],
+    "answer": "BeCl2"
+  },
+  {
+    "number": 50,
+    "question": "Highest bond order among O2, O2+, O2− and O2^2− is:",
+    "options": [
+      "O2",
+      "O2+",
+      "O2−",
+      "O2^2−"
+    ],
+    "answer": "O2+"
+  },
+  {
+    "number": 51,
+    "question": "Diamagnetic species is:",
+    "options": [
+      "O2",
+      "O2+",
+      "O2−",
+      "O2^2−"
+    ],
+    "answer": "O2^2−"
+  },
+  {
+    "number": 52,
+    "question": "Molecule with zero dipole moment is:",
+    "options": [
+      "NH3",
+      "H2O",
+      "CO2",
+      "SO2"
+    ],
+    "answer": "CO2"
+  },
+  {
+    "number": 53,
+    "question": "Shape of BF3 is:",
+    "options": [
+      "Trigonal planar",
+      "Trigonal pyramidal",
+      "Tetrahedral",
+      "Bent"
+    ],
+    "answer": "Trigonal planar"
+  },
+  {
+    "number": 54,
+    "question": "Central-atom sp hybridisation occurs in:",
+    "options": [
+      "CO2",
+      "NH3",
+      "CH4",
+      "BF3"
+    ],
+    "answer": "CO2"
+  },
+  {
+    "number": 55,
+    "question": "Coordinate bond is formed when:",
+    "options": [
+      "Both bonding electrons are donated by one atom",
+      "Each atom donates one electron",
+      "No electrons are shared",
+      "Only ionic attraction occurs"
+    ],
+    "answer": "Both bonding electrons are donated by one atom"
+  },
+  {
+    "number": 56,
+    "question": "Electron-deficient molecule is:",
+    "options": [
+      "NH3",
+      "BF3",
+      "CH4",
+      "H2O"
+    ],
+    "answer": "BF3"
+  },
+  {
+    "number": 57,
+    "question": "Most polar bond is:",
+    "options": [
+      "H-F",
+      "H-Cl",
+      "H-Br",
+      "H-I"
+    ],
+    "answer": "H-F"
+  },
+  {
+    "number": 58,
+    "question": "Tetrahedral electron-pair geometry but bent molecular shape is shown by:",
+    "options": [
+      "CO2",
+      "H2O",
+      "BF3",
+      "BeCl2"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "number": 59,
+    "question": "Bond order of N2 is:",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "0"
+    ],
+    "answer": "3"
+  },
+  {
+    "number": 60,
+    "question": "Shortest bond among C-C, C=C and C≡C is:",
+    "options": [
+      "C-C",
+      "C=C",
+      "C≡C",
+      "All equal"
+    ],
+    "answer": "C≡C"
+  },
+  {
+    "number": 61,
+    "question": "Hydrogen bonding generally requires H attached to:",
+    "options": [
+      "N, O or F",
+      "C only",
+      "S only",
+      "Any metal"
+    ],
+    "answer": "N, O or F"
+  },
+  {
+    "number": 62,
+    "question": "Highest lattice enthalpy among NaCl, MgO, KCl and CsCl is expected for:",
+    "options": [
+      "NaCl",
+      "MgO",
+      "KCl",
+      "CsCl"
+    ],
+    "answer": "MgO"
+  },
+  {
+    "number": 63,
+    "question": "Octet rule is most applicable to:",
+    "options": [
+      "Many main-group compounds",
+      "All transition-metal complexes",
+      "Only noble gases",
+      "Only ionic compounds"
+    ],
+    "answer": "Many main-group compounds"
+  },
+  {
+    "number": 64,
+    "question": "Lewis acidic electron-deficient molecule is:",
+    "options": [
+      "BF3",
+      "NH3",
+      "H2O",
+      "CH4"
+    ],
+    "answer": "BF3"
+  },
+  {
+    "number": 65,
+    "question": "Greatest number of lone pairs on central atom among NH3, H2O, BF3 and CH4 is in:",
+    "options": [
+      "NH3",
+      "H2O",
+      "BF3",
+      "CH4"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "number": 66,
+    "question": "Correct statement about resonance is:",
+    "options": [
+      "Actual molecule is a resonance hybrid",
+      "Atoms move between structures",
+      "Only one structure exists",
+      "Nuclei change position"
+    ],
+    "answer": "Actual molecule is a resonance hybrid"
+  },
+  {
+    "number": 67,
+    "question": "Delocalised pi electrons occur in:",
+    "options": [
+      "NO2−",
+      "NH3",
+      "CH4",
+      "HCl"
+    ],
+    "answer": "NO2−"
+  },
+  {
+    "number": 68,
+    "question": "Trigonal pyramidal molecule is:",
+    "options": [
+      "NH3",
+      "BF3",
+      "CO2",
+      "BeCl2"
+    ],
+    "answer": "NH3"
+  },
+  {
+    "number": 69,
+    "question": "Strongest hydrogen bonding among CH4, NH3, HF and H2S is generally in:",
+    "options": [
+      "CH4",
+      "NH3",
+      "HF",
+      "H2S"
+    ],
+    "answer": "HF"
+  },
+  {
+    "number": 70,
+    "question": "Covalent character is increased by:",
+    "options": [
+      "Small highly charged cation",
+      "Large low-charge cation",
+      "Low polarising power",
+      "Large low-charge anion"
+    ],
+    "answer": "Small highly charged cation"
+  },
+  {
+    "number": 71,
+    "question": "Ionic compound forms most readily between:",
+    "options": [
+      "Na and Cl",
+      "C and H",
+      "B and Cl",
+      "Si and H"
+    ],
+    "answer": "Na and Cl"
+  },
+  {
+    "number": 72,
+    "question": "Expanded octet occurs in:",
+    "options": [
+      "BF3",
+      "NH3",
+      "PCl5",
+      "CH4"
+    ],
+    "answer": "PCl5"
+  },
+  {
+    "number": 73,
+    "question": "Formal charge on N in NH4+ is:",
+    "options": [
+      "−1",
+      "0",
+      "+1",
+      "+2"
+    ],
+    "answer": "+1"
+  },
+  {
+    "number": 74,
+    "question": "Polar bonds but zero net dipole occur in:",
+    "options": [
+      "H2O",
+      "NH3",
+      "BF3",
+      "SO2"
+    ],
+    "answer": "BF3"
+  },
+  {
+    "number": 75,
+    "question": "Sigma bond results primarily from:",
+    "options": [
+      "Head-on overlap",
+      "Sidewise overlap only",
+      "Only pi overlap",
+      "Metallic attraction"
+    ],
+    "answer": "Head-on overlap"
+  },
+  {
+    "number": 76,
+    "question": "Pi bond results from:",
+    "options": [
+      "Lateral overlap of orbitals",
+      "s-s head-on overlap",
+      "Ionic attraction",
+      "Overlap of nuclei"
+    ],
+    "answer": "Lateral overlap of orbitals"
+  },
+  {
+    "number": 77,
+    "question": "Largest bond angle among NH3, H2O and CH4 is:",
+    "options": [
+      "NH3",
+      "H2O",
+      "CH4",
+      "All equal"
+    ],
+    "answer": "CH4"
+  },
+  {
+    "number": 78,
+    "question": "Delocalised pi electrons are present in:",
+    "options": [
+      "CO3^2−",
+      "CH4",
+      "NH3",
+      "HCl"
+    ],
+    "answer": "CO3^2−"
+  },
+  {
+    "number": 79,
+    "question": "High boiling point of water is mainly due to:",
+    "options": [
+      "Hydrogen bonding",
+      "Metallic bonding",
+      "Ionic bonding",
+      "London forces only"
+    ],
+    "answer": "Hydrogen bonding"
+  },
+  {
+    "number": 80,
+    "question": "Best distinction between ionic and covalent bonding is:",
+    "options": [
+      "Ionic bonding is electrostatic attraction between ions; covalent bonding involves shared electron pairs",
+      "Ionic bonding always means sharing",
+      "Covalent bonding has no electrons",
+      "Both are identical"
+    ],
+    "answer": "Ionic bonding is electrostatic attraction between ions; covalent bonding involves shared electron pairs"
+  },
+  {
+    "number": 81,
+    "question": "In a healthy adult, the volume of air remaining in the lungs after a forceful expiration is best represented by:",
+    "options": [
+      "Tidal volume",
+      "Expiratory reserve volume",
+      "Residual volume",
+      "Inspiratory reserve volume"
+    ],
+    "answer": "Residual volume"
+  },
+  {
+    "number": 82,
+    "question": "The maximum volume of air that can be expelled after a maximal inspiration is:",
+    "options": [
+      "Vital capacity",
+      "Functional residual capacity",
+      "Residual volume",
+      "Expiratory reserve volume"
+    ],
+    "answer": "Vital capacity"
+  },
+  {
+    "number": 83,
+    "question": "Which structure prevents food from entering the trachea during swallowing?",
+    "options": [
+      "Glottis",
+      "Epiglottis",
+      "Larynx",
+      "Uvula"
+    ],
+    "answer": "Epiglottis"
+  },
+  {
+    "number": 84,
+    "question": "Most carbon dioxide in blood is transported as:",
+    "options": [
+      "Dissolved CO2",
+      "Carbaminohaemoglobin",
+      "Bicarbonate ions",
+      "Carbonic acid"
+    ],
+    "answer": "Bicarbonate ions"
+  },
+  {
+    "number": 85,
+    "question": "The oxygen-haemoglobin dissociation curve shifts to the right when:",
+    "options": [
+      "CO2 decreases",
+      "Temperature decreases",
+      "H+ concentration decreases",
+      "CO2 increases"
+    ],
+    "answer": "CO2 increases"
+  },
+  {
+    "number": 86,
+    "question": "The pacemaker of the human heart is:",
+    "options": [
+      "AV node",
+      "SA node",
+      "Bundle of His",
+      "Purkinje fibres"
+    ],
+    "answer": "SA node"
+  },
+  {
+    "number": 87,
+    "question": "During ventricular systole, the semilunar valves are:",
+    "options": [
+      "Closed",
+      "Open",
+      "Partially closed",
+      "Absent"
+    ],
+    "answer": "Open"
+  },
+  {
+    "number": 88,
+    "question": "The universal recipient for RBC transfusion in the ABO system is generally:",
+    "options": [
+      "O",
+      "A",
+      "B",
+      "AB"
+    ],
+    "answer": "AB"
+  },
+  {
+    "number": 89,
+    "question": "Which plasma protein is mainly associated with maintenance of colloidal osmotic pressure?",
+    "options": [
+      "Globulin",
+      "Fibrinogen",
+      "Albumin",
+      "Prothrombin"
+    ],
+    "answer": "Albumin"
+  },
+  {
+    "number": 90,
+    "question": "The functional unit of the kidney is:",
+    "options": [
+      "Malpighian body",
+      "Nephron",
+      "Collecting duct",
+      "Loop of Henle"
+    ],
+    "answer": "Nephron"
+  },
+  {
+    "number": 91,
+    "question": "A fall in blood pH caused by increased CO2 is compensated immediately by which linked respiratory-circulatory response?",
+    "options": [
+      "Reduced ventilation and increased CO2 retention",
+      "Increased ventilation causing greater CO2 removal",
+      "Reduced cardiac output only",
+      "Complete cessation of bicarbonate formation"
+    ],
+    "answer": "Increased ventilation causing greater CO2 removal"
+  },
+  {
+    "number": 92,
+    "question": "During intense exercise, increased CO2 production links which two systems most directly to maintain tissue oxygen delivery?",
+    "options": [
+      "Respiratory and circulatory systems",
+      "Excretory and skeletal systems",
+      "Digestive and reproductive systems",
+      "Integumentary and endocrine systems"
+    ],
+    "answer": "Respiratory and circulatory systems"
+  },
+  {
+    "number": 93,
+    "question": "A fall in renal water excretion caused by ADH is most directly linked to which circulating component?",
+    "options": [
+      "Plasma osmolarity",
+      "Platelet count",
+      "Haemoglobin synthesis",
+      "Bile salts"
+    ],
+    "answer": "Plasma osmolarity"
+  },
+  {
+    "number": 94,
+    "question": "Loss of bicarbonate in urine would tend to affect which respiratory response most directly?",
+    "options": [
+      "Ventilation would increase to compensate for metabolic acidosis",
+      "Ventilation would stop",
+      "Oxygen affinity would always increase",
+      "Heart rate would become zero"
+    ],
+    "answer": "Ventilation would increase to compensate for metabolic acidosis"
+  },
+  {
+    "number": 95,
+    "question": "Reduced haemoglobin concentration can impair oxygen delivery even when lung ventilation is normal because:",
+    "options": [
+      "Blood oxygen-carrying capacity falls",
+      "Alveoli stop diffusing gases",
+      "GFR becomes zero",
+      "Urine becomes isotonic"
+    ],
+    "answer": "Blood oxygen-carrying capacity falls"
+  },
+  {
+    "number": 96,
+    "question": "A fall in arterial pressure activates renal and circulatory responses through which hormone most directly?",
+    "options": [
+      "ADH",
+      "Aldosterone",
+      "Thyroxine",
+      "Insulin"
+    ],
+    "answer": "Aldosterone"
+  },
+  {
+    "number": 97,
+    "question": "When dehydration occurs, the coordinated response involving excretory and circulatory systems is:",
+    "options": [
+      "Increased ADH action with water conservation",
+      "Reduced ADH with dilute urine",
+      "Reduced thirst and increased water loss",
+      "Reduced renal reabsorption"
+    ],
+    "answer": "Increased ADH action with water conservation"
+  },
+  {
+    "number": 98,
+    "question": "Severe loss of plasma proteins can produce oedema primarily because:",
+    "options": [
+      "Plasma colloidal osmotic pressure decreases",
+      "Blood viscosity becomes zero",
+      "RBC count doubles",
+      "GFR always increases"
+    ],
+    "answer": "Plasma colloidal osmotic pressure decreases"
+  },
+  {
+    "number": 99,
+    "question": "Increased CO2 generated by active tissues is advantageous for oxygen unloading because:",
+    "options": [
+      "It promotes the Bohr effect",
+      "It prevents haemoglobin binding",
+      "It stops bicarbonate formation",
+      "It closes pulmonary capillaries"
+    ],
+    "answer": "It promotes the Bohr effect"
+  },
+  {
+    "number": 100,
+    "question": "A fall in renal perfusion pressure can reduce filtration and simultaneously stimulate:",
+    "options": [
+      "Renin release",
+      "Insulin release",
+      "Bile secretion",
+      "Erythrocyte destruction"
+    ],
+    "answer": "Renin release"
+  },
+  {
+    "number": 101,
+    "question": "Assertion: Increased CO2 concentration promotes oxygen unloading from haemoglobin.\nReason: Increased CO2 contributes to increased H+ concentration in tissues.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 102,
+    "question": "Assertion: The left ventricle has a thicker wall than the right ventricle.\nReason: It pumps blood into the systemic circulation against greater resistance.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 103,
+    "question": "Assertion: Pulmonary artery carries deoxygenated blood.\nReason: It carries blood from the right ventricle to the lungs.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 104,
+    "question": "Assertion: ADH increases urine concentration.\nReason: ADH increases water permeability of the distal nephron and collecting duct.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 105,
+    "question": "Assertion: Glomerular capillaries have high hydrostatic pressure.\nReason: The afferent arteriole is wider than the efferent arteriole.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 106,
+    "question": "Assertion: Urea is less toxic than ammonia.\nReason: Urea requires more energy for synthesis but can be transported safely at higher concentration.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 107,
+    "question": "Assertion: During inspiration, intrapulmonary pressure falls below atmospheric pressure.\nReason: Expansion of thoracic volume reduces pressure inside the lungs.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 108,
+    "question": "Assertion: Lymph contributes to the transport of absorbed fats.\nReason: Lacteals in intestinal villi receive many absorbed lipid products.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 109,
+    "question": "Assertion: The AV valves close at the beginning of ventricular systole.\nReason: Ventricular pressure rises above atrial pressure.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 110,
+    "question": "Assertion: Erythrocytes are important for oxygen transport.\nReason: Haemoglobin inside RBCs reversibly binds oxygen.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 111,
+    "question": "Assertion: Most filtered glucose is normally reabsorbed in the PCT.\nReason: PCT epithelial cells possess mechanisms for glucose reabsorption.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 112,
+    "question": "Assertion: The Bohr effect facilitates oxygen delivery to actively respiring tissues.\nReason: Increased CO2 and H+ reduce haemoglobin's affinity for oxygen.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 113,
+    "question": "Assertion: The SA node initiates the heartbeat under normal conditions.\nReason: It possesses autorhythmic cells capable of generating spontaneous impulses.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 114,
+    "question": "Assertion: Fibrin formation is important in blood coagulation.\nReason: Fibrin forms a mesh that traps blood cells at the site of injury.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 115,
+    "question": "Assertion: A nephron can produce concentrated urine.\nReason: The counter-current mechanism establishes a medullary osmotic gradient.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 116,
+    "question": "Assertion: During expiration, the diaphragm relaxes in quiet breathing.\nReason: Thoracic volume decreases when the diaphragm moves upward.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 117,
+    "question": "Assertion: Plasma and tissue fluid are closely related extracellular fluids.\nReason: Tissue fluid is formed largely from plasma filtered out of capillaries.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 118,
+    "question": "Assertion: The kidneys help maintain acid-base balance.\nReason: Renal tubules can secrete H+ and reabsorb bicarbonate.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 119,
+    "question": "Assertion: Pulmonary surfactant reduces the tendency of alveoli to collapse.\nReason: It lowers surface tension at the air-liquid interface.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 120,
+    "question": "Assertion: A person with damaged vasa recta may have impaired urine concentration.\nReason: Vasa recta participate in maintaining the medullary osmotic gradient.",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A",
+      "Both A and R are true, but R is not the correct explanation of A",
+      "A is true, but R is false",
+      "A is false, but R is true"
+    ],
+    "answer": "Both A and R are true, and R is the correct explanation of A"
+  },
+  {
+    "number": 121,
+    "question": "If the respiratory membrane becomes thicker while all other variables remain constant, gas exchange will generally:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Remain exactly unchanged",
+      "Reverse direction"
+    ],
+    "answer": "Decrease"
+  },
+  {
+    "number": 122,
+    "question": "A person has normal haemoglobin but severely reduced alveolar surface area. Which change is most likely?",
+    "options": [
+      "Reduced diffusion capacity for gases",
+      "Increased GFR",
+      "Increased plasma protein synthesis",
+      "Increased urine formation"
+    ],
+    "answer": "Reduced diffusion capacity for gases"
+  },
+  {
+    "number": 123,
+    "question": "If the SA node stops functioning but AV node remains functional, the heart may:",
+    "options": [
+      "Continue with a slower rhythm",
+      "Stop all electrical activity permanently",
+      "Contract only the atria",
+      "Contract only the ventricles without rhythm"
+    ],
+    "answer": "Continue with a slower rhythm"
+  },
+  {
+    "number": 124,
+    "question": "If both AV valves and semilunar valves were open simultaneously during ventricular systole, the normal pressure-driven circulation would be:",
+    "options": [
+      "Maintained normally",
+      "Severely disturbed",
+      "Unaffected by pressure",
+      "Independent of ventricular pressure"
+    ],
+    "answer": "Severely disturbed"
+  },
+  {
+    "number": 125,
+    "question": "Which change would most strongly favour formation of concentrated urine?",
+    "options": [
+      "High ADH and intact medullary gradient",
+      "Low ADH and high water intake",
+      "Low ADH and damaged vasa recta",
+      "No medullary gradient"
+    ],
+    "answer": "High ADH and intact medullary gradient"
+  },
+  {
+    "number": 126,
+    "question": "If plasma albumin falls markedly, fluid movement from capillaries into tissues tends to:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Stop completely",
+      "Reverse in every capillary"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "number": 127,
+    "question": "Which combination would decrease oxygen delivery to tissues most strongly?",
+    "options": [
+      "Low haemoglobin and reduced cardiac output",
+      "High haemoglobin and normal cardiac output",
+      "High ventilation and normal haemoglobin",
+      "Normal cardiac output and high oxygen saturation"
+    ],
+    "answer": "Low haemoglobin and reduced cardiac output"
+  },
+  {
+    "number": 128,
+    "question": "A rise in arterial CO2 with no change in ventilation initially tends to cause:",
+    "options": [
+      "Fall in blood pH",
+      "Rise in blood pH",
+      "No change in H+",
+      "Complete loss of bicarbonate"
+    ],
+    "answer": "Fall in blood pH"
+  },
+  {
+    "number": 129,
+    "question": "If the afferent arteriole constricts strongly, GFR generally:",
+    "options": [
+      "Decreases",
+      "Increases",
+      "Becomes independent of pressure",
+      "Doubles necessarily"
+    ],
+    "answer": "Decreases"
+  },
+  {
+    "number": 130,
+    "question": "If the efferent arteriole constricts moderately, glomerular pressure may initially:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Become zero",
+      "Become unrelated to arteriolar resistance"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "number": 131,
+    "question": "Which statement best distinguishes ventilation from respiration?",
+    "options": [
+      "Ventilation is movement of air; respiration includes gas exchange and cellular utilization",
+      "They are always identical",
+      "Ventilation occurs only in blood",
+      "Respiration means only inhalation"
+    ],
+    "answer": "Ventilation is movement of air; respiration includes gas exchange and cellular utilization"
+  },
+  {
+    "number": 132,
+    "question": "A clotting defect due to lack of fibrinogen would most directly impair:",
+    "options": [
+      "Formation of a stable fibrin mesh",
+      "Oxygen diffusion",
+      "Urine concentration",
+      "Cardiac pacemaker activity"
+    ],
+    "answer": "Formation of a stable fibrin mesh"
+  },
+  {
+    "number": 133,
+    "question": "If the collecting duct becomes impermeable to water despite high ADH, urine would tend to be:",
+    "options": [
+      "More dilute than expected",
+      "More concentrated than expected",
+      "Absent in all cases",
+      "Identical to plasma in every case"
+    ],
+    "answer": "More dilute than expected"
+  },
+  {
+    "number": 134,
+    "question": "During quiet inspiration, the pressure gradient driving air into lungs is produced mainly by:",
+    "options": [
+      "Fall in intrapulmonary pressure below atmospheric pressure",
+      "Rise in intrapulmonary pressure above atmospheric pressure",
+      "Closure of all airways",
+      "Increase in residual volume only"
+    ],
+    "answer": "Fall in intrapulmonary pressure below atmospheric pressure"
+  },
+  {
+    "number": 135,
+    "question": "Which event directly converts a primary filtrate component into a substance retained in blood?",
+    "options": [
+      "Tubular reabsorption",
+      "Glomerular filtration",
+      "Micturition",
+      "Urine storage"
+    ],
+    "answer": "Tubular reabsorption"
+  },
+  {
+    "number": 136,
+    "question": "If a person has severe damage to alveolar epithelium, which process is most directly compromised?",
+    "options": [
+      "Diffusion of respiratory gases",
+      "Formation of bile",
+      "Glomerular filtration",
+      "Blood clotting"
+    ],
+    "answer": "Diffusion of respiratory gases"
+  },
+  {
+    "number": 137,
+    "question": "The main reason RBCs are highly efficient oxygen carriers is that:",
+    "options": [
+      "They contain abundant haemoglobin and have a large surface-area-to-volume relationship",
+      "They contain nuclei that consume oxygen",
+      "They produce urea",
+      "They contain glomeruli"
+    ],
+    "answer": "They contain abundant haemoglobin and have a large surface-area-to-volume relationship"
+  },
+  {
+    "number": 138,
+    "question": "If blood enters a tissue with increased temperature and increased CO2, haemoglobin will generally:",
+    "options": [
+      "Release more oxygen",
+      "Bind more oxygen",
+      "Become unable to bind CO2",
+      "Stop carrying gases"
+    ],
+    "answer": "Release more oxygen"
+  },
+  {
+    "number": 139,
+    "question": "A fall in blood pressure sensed by the kidney can ultimately increase sodium reabsorption through:",
+    "options": [
+      "Renin-angiotensin-aldosterone system",
+      "Insulin-glucagon system",
+      "Thyroxine system",
+      "Bile salt system"
+    ],
+    "answer": "Renin-angiotensin-aldosterone system"
+  },
+  {
+    "number": 140,
+    "question": "If urine osmolarity is lower than plasma osmolarity, the urine is:",
+    "options": [
+      "Dilute",
+      "Concentrated",
+      "Always isotonic",
+      "Always hypertonic"
+    ],
+    "answer": "Dilute"
+  },
+  {
+    "number": 141,
+    "question": "The normal range of glomerular filtration rate in a healthy adult is approximately:",
+    "options": [
+      "125 mL/min",
+      "25 mL/min",
+      "500 mL/min",
+      "1 mL/min"
+    ],
+    "answer": "125 mL/min"
+  },
+  {
+    "number": 142,
+    "question": "The approximate amount of blood pumped by each ventricle per minute in a healthy adult at rest is:",
+    "options": [
+      "5 litres",
+      "0.5 litre",
+      "50 litres",
+      "15 litres"
+    ],
+    "answer": "5 litres"
+  },
+  {
+    "number": 143,
+    "question": "The normal respiratory rate in a healthy adult at rest is approximately:",
+    "options": [
+      "12–16 per minute",
+      "2–4 per minute",
+      "30–40 per minute",
+      "50–60 per minute"
+    ],
+    "answer": "12–16 per minute"
+  },
+  {
+    "number": 144,
+    "question": "The volume of air inspired or expired during normal quiet breathing is called:",
+    "options": [
+      "Tidal volume",
+      "Vital capacity",
+      "Residual volume",
+      "Inspiratory reserve volume"
+    ],
+    "answer": "Tidal volume"
+  },
+  {
+    "number": 145,
+    "question": "The amount of filtrate formed by the kidneys per day in a healthy adult is approximately:",
+    "options": [
+      "180 litres",
+      "18 litres",
+      "1.8 litres",
+      "500 litres"
+    ],
+    "answer": "180 litres"
+  },
+  {
+    "number": 146,
+    "question": "A hypothetical patient has normal alveolar ventilation but a large increase in physiological dead space with preserved pulmonary blood flow. The most direct consequence is:",
+    "options": [
+      "Reduced effective alveolar gas exchange",
+      "Increased renal filtration",
+      "Increased plasma oncotic pressure",
+      "Increased urine concentration"
+    ],
+    "answer": "Reduced effective alveolar gas exchange"
+  },
+  {
+    "number": 147,
+    "question": "If the renal medullary osmotic gradient is abolished while ADH secretion remains maximal, the kidney's ability to produce strongly hyperosmotic urine would be:",
+    "options": [
+      "Markedly reduced",
+      "Unaffected",
+      "Increased without limit",
+      "Converted into bicarbonate secretion"
+    ],
+    "answer": "Markedly reduced"
+  },
+  {
+    "number": 148,
+    "question": "Suppose haemoglobin concentration is normal but its oxygen affinity is abnormally high. At a metabolically active tissue, the likely effect is:",
+    "options": [
+      "Reduced oxygen unloading",
+      "Increased oxygen unloading",
+      "No effect on oxygen delivery",
+      "Complete absence of oxygen binding"
+    ],
+    "answer": "Reduced oxygen unloading"
+  },
+  {
+    "number": 149,
+    "question": "If pulmonary capillary hydrostatic pressure rises substantially while plasma oncotic pressure remains unchanged, the tendency for fluid movement into alveoli would:",
+    "options": [
+      "Increase",
+      "Decrease",
+      "Become zero",
+      "Depend only on RBC count"
+    ],
+    "answer": "Increase"
+  },
+  {
+    "number": 150,
+    "question": "A selective increase in permeability of the glomerular filtration barrier to plasma proteins would most directly cause:",
+    "options": [
+      "Proteinuria and altered plasma oncotic balance",
+      "Complete cessation of ventilation",
+      "Increased haemoglobin synthesis",
+      "Loss of SA-node activity"
+    ],
+    "answer": "Proteinuria and altered plasma oncotic balance"
+  },
+  {
+    "number": 151,
+    "question": "Which combination would shift the oxygen-haemoglobin dissociation curve to the right?",
+    "options": [
+      "Increased temperature, increased CO2 and decreased pH",
+      "Decreased temperature, decreased CO2 and increased pH",
+      "Decreased temperature and decreased CO2 only",
+      "Increased pH and decreased temperature"
+    ],
+    "answer": "Increased temperature, increased CO2 and decreased pH"
+  },
+  {
+    "number": 152,
+    "question": "Which sequence correctly represents the major route of blood from the right ventricle to the left atrium?",
+    "options": [
+      "Pulmonary artery → lungs → pulmonary veins → left atrium",
+      "Aorta → lungs → vena cava → left atrium",
+      "Pulmonary vein → lungs → pulmonary artery → left atrium",
+      "Vena cava → lungs → aorta → left atrium"
+    ],
+    "answer": "Pulmonary artery → lungs → pulmonary veins → left atrium"
+  },
+  {
+    "number": 153,
+    "question": "Which nephron segment is highly permeable to water but comparatively less permeable to solutes in the descending limb?",
+    "options": [
+      "Descending limb of Henle",
+      "Ascending limb of Henle",
+      "Early DCT",
+      "Glomerulus"
+    ],
+    "answer": "Descending limb of Henle"
+  },
+  {
+    "number": 154,
+    "question": "Which is the correct order of events in haemostasis?",
+    "options": [
+      "Vasoconstriction → platelet plug → coagulation",
+      "Coagulation → vasoconstriction → platelet plug",
+      "Platelet destruction → vasodilation → coagulation",
+      "Fibrinolysis → platelet plug → vasoconstriction"
+    ],
+    "answer": "Vasoconstriction → platelet plug → coagulation"
+  },
+  {
+    "number": 155,
+    "question": "Which factor contributes directly to high pressure in glomerular capillaries?",
+    "options": [
+      "Afferent arteriole wider than efferent arteriole",
+      "Efferent arteriole wider than afferent arteriole",
+      "Absence of renal blood flow",
+      "Low arterial pressure"
+    ],
+    "answer": "Afferent arteriole wider than efferent arteriole"
+  },
+  {
+    "number": 156,
+    "question": "Which pair is correctly matched?",
+    "options": [
+      "Erythropoietin — RBC production",
+      "ADH — decreased water reabsorption",
+      "Aldosterone — decreased Na+ reabsorption",
+      "ANF — increased blood volume"
+    ],
+    "answer": "Erythropoietin — RBC production"
+  },
+  {
+    "number": 157,
+    "question": "Which condition most directly increases filtration fraction if GFR rises proportionally more than renal plasma flow?",
+    "options": [
+      "Increased filtration fraction",
+      "Decreased filtration fraction",
+      "No possible change",
+      "Zero filtration"
+    ],
+    "answer": "Increased filtration fraction"
+  },
+  {
+    "number": 158,
+    "question": "Which blood component is primarily responsible for specific antibody-mediated immunity?",
+    "options": [
+      "Lymphocytes",
+      "Platelets",
+      "Erythrocytes",
+      "Fibrinogen"
+    ],
+    "answer": "Lymphocytes"
+  },
+  {
+    "number": 159,
+    "question": "The exchange of gases across the respiratory membrane is primarily governed by:",
+    "options": [
+      "Partial-pressure gradients and membrane properties",
+      "Only total atmospheric pressure",
+      "Only haemoglobin concentration",
+      "Only respiratory rate"
+    ],
+    "answer": "Partial-pressure gradients and membrane properties"
+  },
+  {
+    "number": 160,
+    "question": "Which condition would favour formation of dilute urine?",
+    "options": [
+      "Low ADH and high water intake",
+      "High ADH and dehydration",
+      "High medullary osmolarity and high ADH",
+      "Severe dehydration"
+    ],
+    "answer": "Low ADH and high water intake"
+  },
+  {
+    "number": 161,
+    "question": "The right ventricle pumps blood into the pulmonary circulation.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "number": 162,
+    "question": "Carbon monoxide has a high affinity for haemoglobin and can interfere with oxygen transport.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "number": 163,
+    "question": "The PCT is the main site of reabsorption of glucose under normal conditions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "number": 164,
+    "question": "The loop of Henle is absent from all juxtamedullary nephrons.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "number": 165,
+    "question": "The SA node is located in the right atrium.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "number": 166,
+    "question": "All arteries carry oxygenated blood.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "number": 167,
+    "question": "ADH promotes water conservation by increasing water reabsorption.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "number": 168,
+    "question": "Lymph contains a large number of erythrocytes under normal conditions.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "number": 169,
+    "question": "Pulmonary veins carry blood from the lungs toward the left atrium.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "True"
+  },
+  {
+    "number": 170,
+    "question": "Urea formation occurs mainly in the kidneys.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "answer": "False"
+  },
+  {
+    "number": 171,
+    "question": "Which statement is most precise regarding respiratory gases in blood?",
+    "options": [
+      "A small fraction of CO2 is transported dissolved in plasma",
+      "All CO2 is transported as bicarbonate",
+      "All oxygen is transported dissolved in plasma",
+      "Haemoglobin cannot bind CO2"
+    ],
+    "answer": "A small fraction of CO2 is transported dissolved in plasma"
+  },
+  {
+    "number": 172,
+    "question": "Which statement about the cardiac cycle is correct?",
+    "options": [
+      "The ventricles undergo systole after ventricular pressure rises sufficiently",
+      "Atrial systole occurs only after ventricular systole",
+      "Semilunar valves remain open throughout diastole",
+      "AV valves open during ventricular systole"
+    ],
+    "answer": "The ventricles undergo systole after ventricular pressure rises sufficiently"
+  },
+  {
+    "number": 173,
+    "question": "Which statement about tissue fluid is correct?",
+    "options": [
+      "It is formed from plasma by filtration through capillary walls",
+      "It contains no dissolved substances",
+      "It is identical to whole blood",
+      "It normally contains abundant erythrocytes"
+    ],
+    "answer": "It is formed from plasma by filtration through capillary walls"
+  },
+  {
+    "number": 174,
+    "question": "Which statement about the nephron is correct?",
+    "options": [
+      "The efferent arteriole carries blood away from the glomerulus",
+      "The afferent arteriole always carries deoxygenated blood",
+      "Bowman's capsule actively pumps filtrate into the glomerulus",
+      "The collecting duct is part of the glomerular capillary"
+    ],
+    "answer": "The efferent arteriole carries blood away from the glomerulus"
+  },
+  {
+    "number": 175,
+    "question": "Which statement about counter-current concentration is correct?",
+    "options": [
+      "The loop of Henle and vasa recta help establish and maintain the medullary gradient",
+      "Only the PCT creates the medullary gradient",
+      "The glomerulus actively concentrates urine",
+      "The ureter generates the osmotic gradient"
+    ],
+    "answer": "The loop of Henle and vasa recta help establish and maintain the medullary gradient"
+  },
+  {
+    "number": 176,
+    "question": "Which statement about haemoglobin is correct?",
+    "options": [
+      "Its affinity for oxygen is influenced by pH, CO2 and temperature",
+      "Its affinity is completely independent of pH",
+      "It binds oxygen irreversibly",
+      "It is found only in plasma"
+    ],
+    "answer": "Its affinity for oxygen is influenced by pH, CO2 and temperature"
+  },
+  {
+    "number": 177,
+    "question": "Which statement about blood clotting is correct?",
+    "options": [
+      "Fibrin forms a mesh that helps stop blood loss",
+      "Fibrin dissolves the platelet plug immediately",
+      "Platelets digest haemoglobin",
+      "Albumin converts directly into fibrin"
+    ],
+    "answer": "Fibrin forms a mesh that helps stop blood loss"
+  },
+  {
+    "number": 178,
+    "question": "Which statement about urine formation is correct?",
+    "options": [
+      "Filtration, reabsorption and secretion together contribute to urine formation",
+      "Urine is formed only by filtration",
+      "Reabsorption occurs only in the glomerulus",
+      "Secretion occurs only in the ureter"
+    ],
+    "answer": "Filtration, reabsorption and secretion together contribute to urine formation"
+  },
+  {
+    "number": 179,
+    "question": "Which statement about ventilation is correct?",
+    "options": [
+      "Quiet inspiration is an active process involving contraction of the diaphragm",
+      "Quiet expiration always requires forceful contraction of abdominal muscles",
+      "Inspiration occurs when intrapulmonary pressure rises above atmospheric pressure",
+      "The diaphragm is irrelevant to normal breathing"
+    ],
+    "answer": "Quiet inspiration is an active process involving contraction of the diaphragm"
+  },
+  {
+    "number": 180,
+    "question": "Which statement about renal regulation is correct?",
+    "options": [
+      "Aldosterone promotes sodium reabsorption and potassium secretion in the distal nephron",
+      "Aldosterone decreases sodium reabsorption",
+      "ADH causes obligatory loss of water",
+      "Renin directly converts angiotensin II into angiotensin I"
+    ],
+    "answer": "Aldosterone promotes sodium reabsorption and potassium secretion in the distal nephron"
+  }
+]
